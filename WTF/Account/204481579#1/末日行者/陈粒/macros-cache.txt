@@ -1,0 +1,79 @@
+VER 3 010000000000000B " " "INV_Misc_QuestionMark"
+#showtooltip
+/cast 复生
+/script SendChatMessage("正在战复你！","whisper",GetDefaultLanguage("target"),UnitName("target")) 
+/y 正在战复 ==>%t<==，别重复了！！！
+END
+VER 3 0100000000000009 " " "136048"
+/目标 挤撸勾
+/施放 激活
+/script SendChatMessage("激活你！","whisper",GetDefaultLanguage("target"),UnitName("target")) 
+END
+VER 3 0100000000000004 " " "INV_Misc_QuestionMark"
+#showtooltip 殉道者之光
+/施放 [mod,target=player][target=mouseover,help,nodead][help,nodead][nogroup,target=player][target=targettarget,help,nodead]殉道者之光
+END
+VER 3 0100000000000005 " " "INV_Misc_QuestionMark"
+#showtooltip 痛楚
+/Cast [target=focus,exists] 痛楚
+END
+VER 3 0100000000000006 " " "INV_Misc_QuestionMark"
+#showtooltip 神圣震击
+/施放 [mod,target=player][target=mouseover,help,nodead][help,nodead][nogroup,target=player][target=targettarget,help,nodead]神圣震击
+END
+VER 3 0100000000000007 " " "INV_Misc_QuestionMark"
+#showtooltip 圣光闪现
+/施放 [mod,target=player][target=mouseover,help,nodead][help,nodead][nogroup,target=player][target=targettarget,help,nodead]圣光闪现
+END
+VER 3 0100000000000008 " " "134206"
+/cast [friendly,target=mouseover] 生命绽放
+END
+VER 3 010000000000000C "  " "132288"
+/run O,P=O or 0,P or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-O>60 then SendChatMessage("{马里奥}“恰恰”H地狱火G团1到12G团来700加暴力打手和消费价20/50/80起速度MMYY72343372","channel",nil,6);O=t;end;end;end;P:SetScript("OnUpdate",X)
+END
+VER 3 010000000000000D " 、、坐骑 " "132147"
+/cleartarget
+/tar 雷霆纳克
+/tar 重拳
+/tar 戈罗克
+/tar 鲁克胡克
+/tar 泥皮
+/tar 觅径者
+/团队  发现目标 [%T]
+END
+VER 3 010000000000000E "- 宏" "136017"
+/tar 蛆虫
+END
+VER 3 0100000000000012 "1" "644389"
+/g  出售各坐骑BOS  CD  工会价 通通500G    要什么坐骑CD有什么坐骑CD 无敌 飞机 南风 2B龙 不再是梦想 省去了没CD找人帮忙的麻烦 大家还在等什么只要500G坐骑抱回家
+END
+VER 3 0100000000000010 "1" "INV_Misc_QuestionMark"
+#showtooltip 复仇之怒
+/USE 普兰比尔德的合剂
+/CAST 复仇之怒
+/Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
+END
+VER 3 010000000000000F "1" "INV_Misc_QuestionMark"
+#showtooltip
+/CAST 复仇之怒
+/Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
+END
+VER 3 0100000000000011 "1" "INV_Misc_QuestionMark"
+#showtooltip 复仇之怒
+/CAST 复仇之怒
+/CAST 烈焰之血(种族特长)
+/Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
+END
+VER 3 0100000000000013 "aa" "606552"
+/target 玄牛雕像
+/cast 嚎镇八方
+END
+VER 3 0100000000000002 "YY " "INV_MISC_QUESTIONMARK"
+/团队 YY80118982
+END
+VER 3 0100000000000001 "倒数" "INV_MISC_QUESTIONMARK"
+/pull 10
+END
+VER 3 0100000000000003 "取消铁骨" "651728"
+/cancelaura 铁骨酒
+END

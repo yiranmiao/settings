@@ -1,0 +1,29 @@
+
+MasterPlanAG = {
+	["末日行者"] = {
+		["丶理想三旬"] = {
+			["class"] = "DEATHKNIGHT",
+			["summary"] = {
+				["ti1"] = 118531,
+				["ti3"] = 127854,
+				["tt3"] = true,
+				["tt1"] = true,
+			},
+			["faction"] = "Alliance",
+		},
+		["喵阿喵丶"] = {
+			["class"] = "WARLOCK",
+			["summary"] = {
+				["ti3"] = 128391,
+				["tt3"] = true,
+				["inProgress"] = {
+					[723] = 1458544054,
+					[731] = 1458544059,
+				},
+			},
+			["faction"] = "Alliance",
+		},
+	},
+}
+SV_GarrisonMissionManager = {
+}

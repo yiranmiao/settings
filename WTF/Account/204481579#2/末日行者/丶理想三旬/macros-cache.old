@@ -1,0 +1,65 @@
+VER 3 0100000000000078 "1" "INV_MISC_QUESTIONMARK"
+/施放 邪恶狂乱
+/use 悚然角斗士的徽章
+END
+VER 3 010000000000005D "冰链" "INV_Misc_QuestionMark"
+#showtooltip 寒冰锁链
+/cast [target=focus,exists]寒冰锁链;寒冰锁链
+END
+VER 3 0100000000000070 "凋零" "INV_MISC_QUESTIONMARK"
+#showtooltips 
+/cast [@cursor] 枯萎凋零
+END
+VER 3 0100000000000072 "号角" "INV_Misc_QuestionMark"
+#showtooltip 寒冬号角
+/施放 寒冬号角
+/cancelaura 自由祝福
+/cancelaura 保护祝福
+/cancelaura 寒冰屏障
+END
+VER 3 0100000000000067 "喊话" "134400"
+/4 噬魂4-9层来钥匙宝宝，三箱十分钟一波，880队伍带你飞，没回就是正在打
+END
+VER 3 010000000000005F "嘲讽" "INV_Misc_QuestionMark"
+#showtooltip 黑暗命令
+/cast [target=arenapet1] 黑暗命令
+/cast [target=arenapet2] 黑暗命令
+/cast [target=arenapet3] 黑暗命令
+END
+VER 3 010000000000006E "嘲讽" "INV_MISC_QUESTIONMARK"
+/tar 腐臭吞噬者
+/cast 黑暗命令
+END
+VER 3 0100000000000071 "工会副本" "413587"
+/5 工会副本团招收各职业 ， 另外欢迎各种固定团体加入本工会  福利有求，全天开放修理1000G/天
+END
+VER 3 0100000000000060 "心灵冰冻" "INV_Misc_QuestionMark"
+#showtooltip 心灵冰冻
+/cast [target=focus,exists]心灵冰冻;心灵冰冻
+END
+VER 3 0100000000000079 "扔球" "132097"
+/click ExtraActionButton1
+END
+VER 3 0100000000000073 "拉人" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [target=focus,exists]死亡之握;死亡之握
+END
+VER 3 0100000000000074 "模拟" "INV_Misc_QuestionMark"
+#showtooltip 黑暗模拟
+/cast [target=focus,exists]黑暗模拟;黑暗模拟
+END
+VER 3 0100000000000075 "焦点晕" "134400"
+/cast [target=focus,exists]撕扯;撕扯
+END
+VER 3 0100000000000076 "绞袭" "134400"
+/施放 血肉之盾
+/施放 蜷缩
+END
+VER 3 0100000000000077 "绞袭" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast 活力分流
+/cast [target=focus,exists]窒息;窒息
+END
+VER 3 0100000000000066 "跳跃晕" "413586"
+/cast [target=focus,exists]跳跃;跳跃
+END

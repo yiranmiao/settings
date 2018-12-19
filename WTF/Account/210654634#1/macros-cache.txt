@@ -1,0 +1,7 @@
+VER 3 0000000000000001 "BF_Mount" "ability_mount_charger"
+/cancelform
+/bfmount
+END
+VER 3 0000000000000002 "坐骑" "Ability_Mount_Charger"
+/RandomMount
+END

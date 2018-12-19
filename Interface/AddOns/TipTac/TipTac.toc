@@ -1,0 +1,15 @@
+## Interface: 80100
+## Version: 18.07.24
+## Title: TipTac
+## Author: Aezay (Earthen Ring EU)
+## Author-zhCN: Aezay (Earthen Ring EU), Localized by springsnow (Feathermoon CN)
+## Notes: Highly Customizable Tooltip Enhancement Addon
+## SavedVariables: TipTac_Config
+
+Local_enUS.lua
+Local_zhCN.lua
+Local_zhTW.lua
+ttCore.lua
+
+## Title-zhCN: |cff880303[爱不易]|r TipTac 鼠标提示增强
+## X-Vendor: AbyUI

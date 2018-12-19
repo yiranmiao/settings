@@ -1,0 +1,68 @@
+VER 3 010000000000004C "1" "1041860"
+/cast 要塞炉石
+END
+VER 3 010000000000004E "11" "413580"
+/4 Original Memory原五区六年老公会转战罗宁.会里萌妹萝莉御姐应有尽有。目前翱翔在地狱火堡垒，现招收优秀DPS和治疗，以及男性管理员平衡团队男女数量差距，有兴趣的私聊
+END
+VER 3 010000000000004D "11" "135771"
+/script PetDismiss ()
+END
+VER 3 010000000000004F "VuhDoDCShieldNames" "132281"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]魔王降[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000050 "YY" "134400"
+/团队 YY80118982
+END
+VER 3 0100000000000051 "一键" "134400"
+　#showtooltip
+　　/swapactionbar 1 2
+　　/castsequence [actionbar:2]灵界打击
+　　/castsequence reset=2/combat 心脏打击,血液沸腾
+END
+VER 3 0100000000000052 "上马" "132872"
+/use X-53型观光火箭
+/4 Original Memory原五区六年老公会转战罗宁.会里萌妹萝莉御姐应有尽有。目前翱翔在地狱火堡垒，现招收优秀DPS和治疗，以及男性管理员平衡团队男女数量差距，有兴趣的私聊
+END
+VER 3 0100000000000053 "光柱" "135791"
+/click CompactRaidFrameManagerDisplayFrameLeaderOptionsRaidWorldMarkerButton
+/click DropDownList1Button3
+END
+VER 3 0100000000000054 "取消" "134400"
+/cancelAura 保护之手
+END
+VER 3 0100000000000055 "变脸" "135770"
+/cast 邪恶灵气
+/cast 冰霜灵气
+END
+VER 3 0100000000000056 "吃鬼" "136146"
+/cast 天灾契约
+/use 治疗石
+/use 神效治疗药水
+END
+VER 3 0100000000000057 "天打" "237530"
+#showtolltip天灾打击
+/cast 天灾打击
+/petattack
+/cast 爪击
+END
+VER 3 0100000000000058 "巫妖" "INV_Misc_QuestionMark"
+#showtooltip
+/cast !巫妖之躯
+/cast [@player]凋零缠绕
+END
+VER 3 0100000000000059 "打断" "INV_Misc_QuestionMark"
+#showtooltip 心灵冰冻
+/cast [target=focus]心灵冰冻
+END
+VER 3 010000000000005A "拉人" "INV_Misc_QuestionMark"
+#showtooltip 死亡之握
+/cast [modifier:alt,target=focus,exists,harm] 死亡之握; [target=mouseover,exists,harm]死亡之握; 死亡之握
+END
+VER 3 010000000000005B "枯萎" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@player] 枯萎凋零
+END
+VER 3 010000000000005C "目标宏" "136088"
+/tar 纳兹曼尼碾压者
+/cast 黑暗命令
+END

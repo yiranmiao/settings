@@ -1,0 +1,75 @@
+
+Broker_RaidSaveConfig = {
+	["formattime"] = "Show24",
+	["instancedifforder"] = "desc",
+	["formatdayw"] = false,
+	["showdiff"] = true,
+	["formatdate"] = "USAmerican",
+	["hideexpiredtip"] = false,
+	["shorttext"] = true,
+	["ShowSlider"] = true,
+	["formatcooldown"] = "Full",
+	["realm"] = {
+		["末日行者"] = {
+			["char"] = {
+				["丶理想三旬"] = {
+					["numsaved"] = 3,
+					["name"] = "丶理想三旬",
+					["numactive"] = 1,
+					["instance"] = {
+						{
+							["extended"] = false,
+							["id"] = 2758771106,
+							["expires"] = 1542236410,
+							["killed"] = "6/8 |cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cff00ff00O|r|cff00ff00O|r",
+							["name"] = "奥迪尔",
+							["difficulty"] = 16,
+							["locked"] = true,
+							["idMostSig"] = 524648448,
+							["israid"] = true,
+							["difficultyName"] = "史诗",
+						}, -- [1]
+						{
+							["extended"] = false,
+							["id"] = 294174201,
+							["expires"] = 0,
+							["killed"] = "7/8 |cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cff00ff00O|r",
+							["name"] = "奥迪尔",
+							["difficulty"] = 14,
+							["locked"] = false,
+							["idMostSig"] = 524517376,
+							["israid"] = true,
+							["difficultyName"] = "普通",
+						}, -- [2]
+						{
+							["extended"] = false,
+							["id"] = 176135681,
+							["expires"] = 0,
+							["killed"] = "6/8 |cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cffff0000X|r|cff00ff00O|r|cffff0000X|r|cff00ff00O|r",
+							["name"] = "奥迪尔",
+							["difficulty"] = 15,
+							["locked"] = false,
+							["idMostSig"] = 524812288,
+							["israid"] = true,
+							["difficultyName"] = "英雄",
+						}, -- [3]
+					},
+					["class"] = "DEATHKNIGHT",
+					["numgroup"] = 0,
+					["numraid"] = 1,
+				},
+			},
+			["name"] = "末日行者",
+		},
+	},
+	["hideexpiredbutton"] = false,
+	["HideHint"] = true,
+	["textwhenzero"] = true,
+	["sortbyinstancename"] = true,
+	["showreset"] = true,
+	["showcooldown"] = true,
+	["sortbyinstancediff"] = false,
+	["instancenameorder"] = "desc",
+	["showid"] = true,
+	["SliderMaxHeight"] = 600,
+}

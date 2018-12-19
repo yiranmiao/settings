@@ -1,0 +1,509 @@
+VER 3 0000000000000114 " " "INV_Misc_QuestionMark"
+#showtooltip 奥术冲击
+/cast [nochanneling:奥术飞弹] 奥术冲击
+END
+VER 3 0000000000000113 " " "INV_Misc_QuestionMark"
+#showtooltip 法术反制
+/tar 锋颚踏浪者
+/cast 法术反制
+END
+VER 3 0000000000000112 " " "136002"
+/run local a={47207,47208,47209,47210,47211,47212,47213,47214,47215}for i,q in ipairs(a)do print(format("第%s页: %s",i+1, IsQuestFlaggedCompleted(q) and "\124cFF00FF00已发现\124r" or "\124cFFFF0000未发现\124r")) end 
+END
+VER 3 0000000000000111 " " "INV_Misc_QuestionMark"
+#showtooltip 假死 
+/stopcasting 
+/stopcasting 
+/脚本 local t=GetTime()macroT=macroT or 0;if t-macroT>3 then SendChatMessage("已经死亡。","emote")macroT=t;end 
+/cast 假死 
+END
+VER 3 0000000000000110 " " "INV_Misc_QuestionMark"
+#showtooltip 法术反制
+/cancelAura 寒冰屏障
+/stopcasting
+/Cast [target=focus,harm,exists,modifier:alt]法术反制; [target=mouseover, harm, exists]法术反制; 法术反制
+END
+VER 3 0000000000000105 " " "132331"
+/Stopattack
+/Cast 消失
+END
+VER 3 000000000000015B " " "INV_Misc_QuestionMark"
+#showtooltip 奥术飞弹
+/cast [nochanneling:奥术飞弹] 奥术飞弹
+END
+VER 3 000000000000015A " " "135739"
+/cast 闪现术
+/cast 寒冰屏障
+END
+VER 3 0000000000000159 " " "237525"
+/cast 自利(种族特长)
+/cast 联盟勋章
+/cast 战斗大师的侵攻
+END
+VER 3 0000000000000147 " " "236157"
+#showtooltp 激活
+/cast [nostance:6,nostealth]化身：生命之树
+/cast [target=player] 激活
+/cast 野性成长
+END
+VER 3 000000000000015C " " "134400"
+/castsequence reset=2.0 奥术弹幕,气定神闲
+END
+VER 3 0000000000000148 "  " "INV_Misc_QuestionMark"
+#showtooltip
+/stopmacro [channeling]
+/cast [@cursor] 百花齐放
+END
+VER 3 0000000000000122 "  " "136094"
+/run frm2 = CreateFrame("PlayerModel");frm2:SetPoint("BOTTOMRIGHT",frm,"BOTTOMLEFT",0,0);frm2:SetHeight
+END
+VER 3 0000000000000121 "  " "INV_Misc_QuestionMark"
+#showtooltip [nopet][@pet,dead]召唤水元素;冰冻术
+/cast [nopet][@pet,dead]召唤水元素;冰冻术
+END
+VER 3 0000000000000123 "   " "INV_Misc_QuestionMark"
+#showtooltip 冰霜之环
+/施放 气定神闲
+/施放 冰霜之环
+END
+VER 3 0000000000000149 "   " "INV_Misc_QuestionMark"
+#showtooltip
+/cast [combat,@mouseover,exists,help,dead]复生
+/cast [combat,@focus,exists,help,dead]复生;[combat,help,dead]复生
+/cast [nocombat,dead,help]起死回生
+/cast [@mouseover,exists,help,nodead]治疗之触;治疗之触
+END
+VER 3 0000000000000124 "          " "136048"
+/cast 秘法強化
+/cast 狂暴
+END
+VER 3 0000000000000125 "   /run frm:Unre" "413593"
+/run frm:UnregisterEvent("PLAYER_TARGET_CHANGED");frm:Hide();frm2:Hide()
+END
+VER 3 0000000000000126 "  ,.,." "236220"
+/w 帝尊阿鬼-托塞德林 16
+END
+VER 3 0000000000000127 " /cast [mod] 解散宠" "INV_Misc_QuestionMark"
+#showtooltip 解散宠物
+END
+VER 3 0000000000000129 " 1212" "135838"
+/施放 冰冷血脉
+/施放 狂暴(种族特长)
+/施放 镜像
+END
+VER 3 0000000000000128 " 1212" "135838"
+/施放 冰冷血脉
+/施放 狂暴(种族特长)
+/施放 镜像
+/use  科普兰的清醒
+END
+VER 3 0000000000000091 " 惩击" "135924"
+#showtooltip 惩击
+/cast [target=focus]惩击
+END
+VER 3 000000000000012A " 死亡之握" "135779"
+/cleartarget
+/targetexact 活体流星
+/focus
+/target 拉格纳罗斯
+/stopmacro [target=focus,noexists]
+/cast [target=focus] 死亡之握
+END
+VER 3 000000000000008D " 灼光之瓶" "136092"
+#showtooltip 灼光之瓶
+/cast [target=focus]灼光之瓶
+END
+VER 3 000000000000012B " 焦点误导" "INV_Misc_QuestionMark"
+#showtooltip 误导
+/cast [target=focut,help][help]误导
+END
+VER 3 000000000000012C " 秘法強化" "136048"
+/cast 狂暴
+/施放 奥术强化
+END
+VER 3 0000000000000095 " 苦修" "237545"
+#showtooltip 苦修
+/cast [target=focus]苦修
+END
+VER 3 000000000000012D " 飾品" "134153"
+/use 法拉米爾的禁忌魔典
+/use 基爾加丹的燃燒之願
+END
+VER 3 000000000000012E ",.,.,." "133564"
+/施放 冰冷血脉
+/施放 镜像
+/use 燃卷手套
+END
+VER 3 000000000000012F "/cast !猎豹形态" "644389"
+/cast !猎豹形态
+ 孙子过来！
+END
+VER 3 0000000000000130 "/咆哮" "136157"
+/咆哮
+END
+VER 3 0000000000000131 "/施放 光环掌握" "135872"
+/cast 虔诚光环
+/Y 虔诚光环开启，倒计时6秒
+/IN 3 /Y 3秒
+/IN 4 /Y 2秒
+/IN 5 /Y 1秒
+/IN 6 /Y 结束，下一位预备!
+END
+VER 3 0000000000000132 "/目标 金毛跳跳兔" "644389"
+/目标 金毛跳跳兔
+END
+VER 3 0000000000000133 "/跟随 肥皂棒棒" "134400"
+/跟随 肥皂棒棒
+END
+VER 3 000000000000013B "1" "INV_Misc_QuestionMark"
+#showtooltip 寒冰宝珠
+/cast 冰冷血脉
+/cast 寒冰宝珠
+END
+VER 3 0000000000000146 "1" "133192"
+/目标 Yidoua
+/施放 荣耀圣令
+END
+VER 3 0000000000000134 "1" "132209"
+/施放 毒蛇钉刺
+/use 无懈警戒手套
+END
+VER 3 000000000000013E "1" "1033911"
+/cast [@cursor] 流星
+END
+VER 3 000000000000013F "1" "INV_Misc_QuestionMark"
+#showtooltip 杀戮射击
+/use 10
+/startattack
+/cancelAura 保护之手
+/cancelAura 威慑
+/施放 杀戮射击
+END
+VER 3 0000000000000140 "1" "INV_Misc_QuestionMark"
+#showtooltip
+/stopcasting
+/cast 灵魂交换
+/stopcasting 
+END
+VER 3 0000000000000135 "1" "132218"
+/施放 奥术射击
+/use 蜥蜴人追猎者手套
+END
+VER 3 0000000000000136 "1" "INV_Misc_QuestionMark"
+#showtooltip 沉默射击
+/stopcasting 
+/stopcasting 
+/cast  沉默射击
+END
+VER 3 0000000000000143 "1" "134400"
+/跟随 花花法
+END
+VER 3 0000000000000144 "1" "132218"
+/施放 奥术射击
+/use 无懈警戒手套
+END
+VER 3 0000000000000145 "1" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast 水流喷射
+/use 寒冰箭
+END
+VER 3 0000000000000137 "1" "629077"
+/施放 寒冰宝珠
+/use 多彩九头蛇手套
+END
+VER 3 000000000000013C "1" "INV_Misc_QuestionMark"
+#showtooltip 灵魂治愈
+/cast [target=player] 灵魂治愈
+END
+VER 3 0000000000000138 "1" "648632"
+/dbm pull 10 
+END
+VER 3 000000000000014A "1" "136048"
+/cast [target=player] 激活
+END
+VER 3 000000000000014B "1" "338784"
+/use 疫苗提取物
+/use 炎法师的引线
+END
+VER 3 0000000000000152 "1" "INV_Misc_QuestionMark"
+#showtooltip 福音
+/use 缺指指环
+/use 维伦的未来预言
+/cast 福音
+END
+VER 3 0000000000000139 "1" "132097"
+/script PetAbandon()
+END
+VER 3 000000000000013A "1" "132120"
+/cast 6
+END
+VER 3 0000000000000141 "1" "135841"
+/y 我已开冰箱单吃，其他人让开
+/cast 寒冰屏障
+END
+VER 3 000000000000013D "1" "135875"
+/use 复仇之怒
+/use 神圣复仇者
+/use 
+END
+VER 3 0000000000000142 "1" "134400"
+/目标 重拳
+END
+VER 3 0000000000000153 "123" "INV_Misc_QuestionMark"
+#showtooltip 树皮术
+/use 治疗石
+/cast 树皮术
+/cast 熊形态(变形)
+END
+VER 3 00000000000000C7 "3" "135950"
+/cast [@arena3]谴责
+END
+VER 3 000000000000014C "4" "135895"
+/CAST 福音
+/use 炎法师的引线
+END
+VER 3 00000000000000FF "888" "134400"
+/run _,_,_,_,a,b=C_ArtifactUI.GetEquippedArtifactInfo() for i=0,b do a=a+C_ArtifactUI.GetCostForPointAtRank(i)end print(a)
+END
+VER 3 00000000000000CF "BF_Mount" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,nodead][target=player]驱散魔法
+END
+VER 3 00000000000000CE "BF_Mount" "132226"
+/bfmount
+END
+VER 3 00000000000000D1 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 变形术;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 变形术
+END
+VER 3 00000000000000D2 "Decursive" "INV_MISC_QUESTIONMARK"
+/stopcasting
+/cast [@mouseover,nomod,exists] 变形术;  [@mouseover,exists,mod:ctrl] 变形术; [@mouseover,exists,mod:shift] 变形术
+END
+VER 3 00000000000000D3 "MillHelper" "236229"
+/click MillHelperButton
+END
+VER 3 00000000000000D4 "交易" "134400"
+/2  500G收一个 [暴掠幼龙]，一个 [变异幼龙]，100G收一个 [始祖龙宝宝]  
+END
+VER 3 00000000000000C0 "净化邪恶" "Ability_Mage_FireStarter."
+#showtooltip 净化邪恶
+/cast [target=focus]净化邪恶
+END
+VER 3 00000000000000D5 "删宏" "134400"
+/script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>0 then StaticPopup1Button1:Click()T=t end end end F:SetScript ("OnUpdate",X)
+END
+VER 3 00000000000000D6 "制裁" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists] [exists] [@target] 制裁之锤
+END
+VER 3 00000000000000D7 "制裁" "135906"
+/cast [target=focus]制裁之拳
+END
+VER 3 00000000000000D8 "力量" "135908"
+/cast [target=过往雲烟] 力量祝福
+END
+VER 3 00000000000000D9 "十字军打击" "135891"
+/startattack
+#showtooltip
+/cast [target=mouseover,exists]十字军打击;十字军打击
+END
+VER 3 0000000000000100 "单吃" "INV_Misc_QuestionMark"
+#showtooltip 寒冰屏障 
+/stopcasting 
+/cancelAura 寒冰屏障
+/cast 闪光术 
+/cast 寒冰屏障
+END
+VER 3 00000000000000DB "喊话" "132090"
+/Y  ~~50G~~一个大量收~~紫色宝石~~25G收空气~~卖的MMMMM
+END
+VER 3 00000000000000DA "喊话" "236160"
+/坐下
+END
+VER 3 0000000000000101 "喊话" "134400"
+/4 噬魂4-9层来钥匙宝宝，三箱十分钟一波，880队伍带你飞，没回就是正在打
+END
+VER 3 00000000000000DC "圣令" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists] [exists] [@target] 荣耀圣令
+END
+VER 3 00000000000000DD "圣佑术" "524353"
+/cast 圣佑术
+/cast 崇敬先祖卷轴
+END
+VER 3 00000000000000DE "圣光" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [@mouseover,exists] [exists] [@target] 圣光术
+END
+VER 3 00000000000000DF "圣光锤子" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [harm,exists]愤怒之锤;圣光闪现
+END
+VER 3 00000000000000E0 "圣疗术" "INV_Misc_QuestionMark"
+#showtooltip 
+/stopcasting
+/cast [@mouseover,exists] [exists] [@target] 圣疗术
+END
+VER 3 00000000000000E1 "圣盾" "INV_Misc_QuestionMark"
+#showtooltip 圣盾术 
+/stopcasting 
+/cancelAura 圣盾术 
+/cast 圣盾术 
+END
+VER 3 00000000000000E3 "圣闪" "INV_Misc_QuestionMark"
+#showtooltip 
+/stopcasting
+/castsequence [@mouseover,exists] [exists] [@target] reset=5.5 审判,圣光闪现
+END
+VER 3 00000000000000E2 "圣闪" "INV_Misc_QuestionMark"
+#showtooltip 圣光闪现
+/cast [@mouseover,exists] [exists] [@target] 圣光闪现
+END
+VER 3 00000000000000E4 "坐骑" "132226"
+/click ExtraActionButton1
+END
+VER 3 00000000000000E5 "坐骑" "132226"
+/RandomMount
+END
+VER 3 0000000000000154 "天使" "INV_Misc_QuestionMark"
+#showtooltip 守护之魂
+/stopcasting 
+/target [@mouseover] 
+/cast [@mouseover,nodead,help]守护之魂;[help]守护之魂
+/y [守护之魂] -%T- 你已被抢救，10S内死亡可回复40%血量
+END
+VER 3 00000000000000E6 "宝石" "132089"
+/1 ~~50G~~一个大量收~~紫色宝石~~25G收空气~~卖的MMMMM
+END
+VER 3 00000000000000E7 "审判" "INV_Misc_QuestionMark"
+#showtooltip 审判 
+/cast [harm]审判
+/cast [help,target=targettarget]审判 
+/cast [target=targettarget]审判
+END
+VER 3 00000000000000E8 "忏悔" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists] [exists] [@target] 忏悔
+END
+VER 3 000000000000014D "愈合" "INV_Misc_QuestionMark"
+#showtooltip 愈合祷言
+/施放 [@mouseover,help] [modifier:alt,target=player][target=mouseover,help][help][target=targettarget,help][target=player] 愈合祷言
+END
+VER 3 00000000000000E9 "慰" "INV_Misc_QuestionMark"
+#showtooltip 神圣之火 
+/cast [@target,harm,nodead][@focus,harm,nodead][@targettarget,harm,nodead][@focustarget,harm,nodead][@targettargettarget,harm,nodead][@focustargettarget,harm,nodead][@mouseover,harm,nodead]神圣之火
+END
+VER 3 0000000000000102 "打断" "INV_Misc_QuestionMark"
+#showtooltip 法术反制
+/cast [@cursor] 法术反制
+END
+VER 3 00000000000000EA "打断" "523893"
+/cast [target=focus]责难
+END
+VER 3 00000000000000EB "护盾" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists] [exists] [@target]  圣洁护盾
+END
+VER 3 00000000000000EC "换位置" "134400"
+/run LoadAddOn("Blizzard_CompactRaidFrames") CRFSort_Group=function(t1, t2) if UnitIsUnit(t1,"player") then return false elseif UnitIsUnit(t2,"player") then return true else return t1 < t2 end end CompactRaidFrameContainer.flowSortFunc=CRFSort_Group
+END
+VER 3 00000000000000ED "放大焦点" "134400"
+/script FocusFrame:SetScale(1.1)
+END
+VER 3 00000000000000EE "显框" "134400"
+/run LoadAddOn("Blizzard_ArenaUI");ArenaEnemyFrames:Show();ArenaEnemyFrame1:Show();ArenaEnemyFrame2:Show();ArenaEnemyFrame3:Show();ArenaEnemyFrame1CastingBar:Show()
+END
+VER 3 00000000000000EF "普照" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists] [exists] [@target] 圣光普照
+END
+VER 3 00000000000000F0 "最大视角" "134400"
+/script SetCVar("cameraDistanceMax", 50)
+END
+VER 3 00000000000000F1 "框1" "134400"
+/run local f=ArenaEnemyFrame1; f:ClearAllPoints(); f:SetPoint("CENTER", UIParent, "CENTER",375,-25); f:SetScale(1.8); f.SetPoint = function() end
+END
+VER 3 00000000000000F2 "框2" "134400"
+/run local f=ArenaEnemyFrame2; f:ClearAllPoints(); f:SetPoint("CENTER", UIParent, "CENTER",375,-75); f:SetScale(1.8); f.SetPoint = function() end
+END
+VER 3 00000000000000F3 "框3" "134400"
+/run local f=ArenaEnemyFrame3; f:ClearAllPoints(); f:SetPoint("CENTER", UIParent, "CENTER",375,-125); f:SetScale(1.8); f.SetPoint = function() end
+END
+VER 3 00000000000000F4 "棱镜" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists] [exists] [@target] 神圣棱镜
+END
+VER 3 00000000000000F5 "洞察到表" "INV_Misc_QuestionMark"
+#showtooltip 
+/stopcasting
+/cast [@mouseover,exists] [exists] [@target] 洞察道标
+END
+VER 3 00000000000000F6 "清洁" "INV_Misc_QuestionMark"
+#showtooltip 
+/cast [@mouseover,exists] [exists] [@target] 清洁术
+END
+VER 3 0000000000000103 "漂浮" "INV_Misc_QuestionMark"
+#showtooltip 缓落术
+/cast [@cursor] 缓落术
+END
+VER 3 000000000000014E "灵" "INV_Misc_QuestionMark"
+#showtooltip 圣言术：灵
+/cast [target=cursor]圣言术：灵 
+END
+VER 3 0000000000000104 "烈焰" "INV_Misc_QuestionMark"
+#showtooltip 烈焰风暴
+/cast [@cursor] 烈焰风暴
+END
+VER 3 00000000000000F7 "焦点" "INV_Misc_QuestionMark"
+#showtooltip 谴责
+/cast [target=focus] 谴责
+END
+VER 3 0000000000000155 "绝望" "INV_Misc_QuestionMark"
+#showtooltip 绝望祷言
+/stopcasting 
+/cast 绝望祷言
+/ues 治疗石
+/use 古代治疗药水
+/y [绝望祷言]有刺客！速来护驾！
+END
+VER 3 000000000000014F "羽毛" "INV_Misc_QuestionMark"
+#showtooltip 天堂之羽
+/cast [@player] 天堂之羽
+/stopspelltarget 
+END
+VER 3 0000000000000156 "赞美诗" "INV_Misc_QuestionMark"
+#showtooltip 神圣赞美诗
+/stopmacro [channeling:神圣赞美诗]
+/use 缺指指环
+/use 维伦的未来预言
+/cast 神圣赞美诗
+END
+VER 3 0000000000000150 "连接" "INV_Misc_QuestionMark"
+#showtooltip 联结治疗
+/cast [@mouseover,help,nodead][help,nodead][@targettarget,help,nodead]联结治疗
+/cast [nogroup,@player] [@player] 治疗祷言
+END
+VER 3 0000000000000157 "飞跃" "INV_Misc_QuestionMark"
+#showtooltip 信仰飞跃
+/stopcasting 
+/target [@mouseover] 
+/cast 信仰飞跃
+/Y [信仰飞跃] -%T- 速来救驾！
+END
+VER 3 0000000000000151 "驱散" "135894"
+/cast [mod:alt,@player]纯净术;[mod:shift,@targettarget]驱散魔法; [nohelp,exists]驱散魔法; [help]纯净术;纯净术
+END
+VER 3 0000000000000158 "驱散" "INV_Misc_QuestionMark"
+#showtooltip 纯净术
+/stopcasting 
+/cast [mod:shift,@player][@mouseover,help,nodead]纯净术;[@mouseover,harm,nodead][harm,nodead]驱散魔法;纯净术
+END
+VER 3 00000000000000F8 "驱散" "INV_Misc_QuestionMark"
+#showtooltip
+/cast [target=mouseover,exists,nodead][target=player]纯净术
+END
+VER 3 00000000000000F9 "鸟D宏" "132925"
+/cast 化身：艾露恩之眷
+/cast 超凡之盟
+END

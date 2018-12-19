@@ -1,0 +1,4 @@
+VER 3 0100000000000001 "恶魔" "INV_MISC_QUESTIONMARK"
+/cast 恶魔变形
+/cancle 恶魔变形
+END

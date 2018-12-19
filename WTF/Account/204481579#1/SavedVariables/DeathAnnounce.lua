@@ -1,0 +1,5 @@
+
+DEATH_ANNOUNCE = {
+	["ENABLED"] = 0,
+}
+DEATH_ANNOUNCE_OFF = true

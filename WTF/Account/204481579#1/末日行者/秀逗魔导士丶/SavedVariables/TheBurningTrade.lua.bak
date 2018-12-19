@@ -1,0 +1,626 @@
+
+TradeLog_TradesHistory = {
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 1,
+		["playerItems"] = {
+			{
+				["numItems"] = 1,
+				["name"] = "实验型部队屠戮者",
+				["itemLink"] = "|cffa335ee|Hitem:151962::::::::110:63::5:4:3611:41:1487:3528:::|h[实验型部队屠戮者]|h|r",
+				["texture"] = 1373903,
+			}, -- [1]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "Nikiita",
+		["when"] = "07-27 20:22:48",
+		["result"] = "complete",
+		["where"] = "安托鲁斯，燃烧王座",
+	}, -- [1]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 2,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "无双之荣誉争斗者的绸缎护腕",
+				["numItems"] = 1,
+				["itemLink"] = "|cff0070dd|Hitem:161997::::::::120:64::13:2:1689:4927:::|h[无双之荣誉争斗者的绸缎护腕]|h|r",
+				["isUsable"] = true,
+				["texture"] = 1866967,
+			}, -- [1]
+			{
+				["name"] = "燎火之荣誉争斗者的绸缎腰带",
+				["numItems"] = 1,
+				["itemLink"] = "|cff0070dd|Hitem:161996::::::::120:64::13:2:1691:4927:::|h[燎火之荣誉争斗者的绸缎腰带]|h|r",
+				["isUsable"] = true,
+				["texture"] = 1866955,
+			}, -- [2]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "南风喃丶",
+		["when"] = "08-26 21:25:05",
+		["result"] = "complete",
+		["where"] = "提拉加德海峡",
+	}, -- [2]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 3,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			[3] = {
+				["name"] = "黑光腿套",
+				["numItems"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:159269::::::::120:64::23:3:4779:1512:4786:::|h[黑光腿套]|h|r",
+				["isUsable"] = true,
+				["texture"] = 1875084,
+			},
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "南风喃丶",
+		["when"] = "08-26 22:12:33",
+		["result"] = "complete",
+		["where"] = "地渊孢林",
+	}, -- [3]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 4,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			[3] = {
+				["name"] = "仪式束缚者之戒",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:159459::::::::120:64::23:3:4779:1517:4783:::|h[仪式束缚者之戒]|h|r",
+				["texture"] = 2000813,
+			},
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "Kunlin",
+		["when"] = "08-28 20:49:06",
+		["result"] = "complete",
+		["where"] = "诸王之眠",
+	}, -- [4]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 5,
+		["playerItems"] = {
+			{
+				["texture"] = 463531,
+				["itemLink"] = "|cff1eff00|Hitem:159787::::::::120:64::::::|h[附魔武器 - 精湛远航]|h|r",
+				["name"] = "附魔武器 - 精湛远航",
+				["numItems"] = 1,
+			}, -- [1]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "卿夜歌",
+		["when"] = "08-28 22:16:41",
+		["result"] = "complete",
+		["where"] = "暴富矿区！！",
+	}, -- [5]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 6,
+		["playerItems"] = {
+			{
+				["texture"] = 463531,
+				["itemLink"] = "|cff1eff00|Hitem:159786::::::::120:64::::::|h[附魔武器 - 迅捷远航]|h|r",
+				["name"] = "附魔武器 - 迅捷远航",
+				["numItems"] = 2,
+			}, -- [1]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "听风与我说你",
+		["when"] = "08-28 22:17:00",
+		["result"] = "complete",
+		["where"] = "暴富矿区！！",
+	}, -- [6]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 7,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			[5] = {
+				["name"] = "德鲁斯特茅草裹腕",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:159282::::::::120:64::23:3:4779:1512:4786:::|h[德鲁斯特茅草裹腕]|h|r",
+				["texture"] = 1981725,
+			},
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "啊曼苏尔预见",
+		["when"] = "08-28 23:03:08",
+		["result"] = "complete",
+		["where"] = "维克雷斯庄园",
+	}, -- [7]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 8,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			[3] = {
+				["name"] = "狱长的失落指环",
+				["numItems"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:159460::::::::120:64::23:3:4779:1512:4786:::|h[狱长的失落指环]|h|r",
+				["isUsable"] = true,
+				["texture"] = 2000800,
+			},
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "鶴望兰",
+		["when"] = "08-30 19:45:09",
+		["result"] = "complete",
+		["where"] = "托尔达戈",
+	}, -- [8]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 9,
+		["playerItems"] = {
+			{
+				["numItems"] = 1,
+				["name"] = "皇家封臣斗篷",
+				["itemLink"] = "|cffa335ee|Hitem:158375::::::::120:64::23:4:4779:4802:1512:4786:::|h[皇家封臣斗篷]|h|r",
+				["texture"] = 1957069,
+			}, -- [1]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "卿夜歌",
+		["when"] = "08-30 20:42:24",
+		["result"] = "complete",
+		["where"] = "阿塔达萨",
+	}, -- [9]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 10,
+		["playerItems"] = {
+		},
+		["reason"] = "self",
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["where"] = "阿塔达萨",
+		["who"] = "摸泰鉭专用号",
+		["when"] = "08-30 20:43:10",
+		["result"] = "cancelled",
+	}, -- [10]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 11,
+		["playerItems"] = {
+			{
+				["numItems"] = 1,
+				["name"] = "金色风蛇之牙",
+				["itemLink"] = "|cffa335ee|Hitem:159137::::::::120:64::23:4:4779:4802:1512:4786:::|h[金色风蛇之牙]|h|r",
+				["texture"] = 1851453,
+			}, -- [1]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "卿夜歌",
+		["when"] = "08-30 21:00:27",
+		["result"] = "complete",
+		["where"] = "诸王之眠",
+	}, -- [11]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 12,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			[2] = {
+				["name"] = "仪式束缚者之戒",
+				["numItems"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:159459::::::::120:64::23:3:4779:1512:4786:::|h[仪式束缚者之戒]|h|r",
+				["isUsable"] = true,
+				["texture"] = 2000813,
+			},
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "卿夜歌",
+		["when"] = "08-30 21:08:23",
+		["result"] = "complete",
+		["where"] = "诸王之眠",
+	}, -- [12]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 13,
+		["playerItems"] = {
+			{
+				["numItems"] = 1,
+				["name"] = "仪式束缚者之戒",
+				["itemLink"] = "|cffa335ee|Hitem:159459::::::::120:64::23:3:4779:1512:4786:::|h[仪式束缚者之戒]|h|r",
+				["texture"] = 2000813,
+			}, -- [1]
+			{
+				["numItems"] = 1,
+				["name"] = "迅捷枭眼石",
+				["itemLink"] = "|cff0070dd|Hitem:154127::::::::120:64::::::|h[迅捷枭眼石]|h|r",
+				["texture"] = 1990989,
+			}, -- [2]
+			{
+				["numItems"] = 1,
+				["name"] = "附魔戒指 - 急速之纹",
+				["itemLink"] = "|cff1eff00|Hitem:153439::::::::120:64::::::|h[附魔戒指 - 急速之纹]|h|r",
+				["texture"] = 463531,
+			}, -- [3]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "卿夜歌",
+		["when"] = "08-30 21:27:02",
+		["result"] = "complete",
+		["where"] = "塞塔里斯神庙",
+	}, -- [13]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 14,
+		["playerItems"] = {
+			{
+				["numItems"] = 1,
+				["name"] = "闪电曲蛇法杖",
+				["itemLink"] = "|cffa335ee|Hitem:159636::::::::120:64::23:3:4779:1512:4786:::|h[闪电曲蛇法杖]|h|r",
+				["texture"] = 1881363,
+			}, -- [1]
+		},
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "卿夜歌",
+		["when"] = "08-30 21:31:55",
+		["result"] = "complete",
+		["where"] = "塞塔里斯神庙",
+	}, -- [14]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 15,
+		["playerItems"] = {
+		},
+		["reason"] = "other",
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["where"] = "维克雷斯庄园",
+		["who"] = "明若素",
+		["when"] = "08-30 22:53:50",
+		["result"] = "cancelled",
+		["toofar"] = "no",
+	}, -- [15]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 16,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "织棘指环",
+				["numItems"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:162548::::::::120:64::23:5:4779:4802:41:1512:4786:::|h[织棘指环]|h|r",
+				["isUsable"] = true,
+				["texture"] = 1716853,
+			}, -- [1]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "明若素",
+		["when"] = "08-30 22:53:58",
+		["result"] = "complete",
+		["where"] = "维克雷斯庄园",
+	}, -- [16]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 17,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "维克雷斯勋爵之戒",
+				["numItems"] = 1,
+				["itemLink"] = "|cffa335ee|Hitem:158362::::::::120:64::23:3:4779:1512:4786:::|h[维克雷斯勋爵之戒]|h|r",
+				["isUsable"] = true,
+				["texture"] = 2000801,
+			}, -- [1]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "摸泰鉭专用号",
+		["when"] = "08-30 23:05:03",
+		["result"] = "complete",
+		["where"] = "维克雷斯庄园",
+	}, -- [17]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 18,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "爆裂行者",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:160714::::::::120:64::5:3:4799:1492:4786:::|h[爆裂行者]|h|r",
+				["texture"] = 2059673,
+			}, -- [1]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "丨亖丨-罗宁",
+		["when"] = "11-17 19:54:51",
+		["result"] = "complete",
+		["where"] = "奥迪尔",
+	}, -- [18]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 19,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "腐烂冲刷之戒",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:160645::::::::120:64::5:4:4799:1808:1492:4786:::|h[腐烂冲刷之戒]|h|r",
+				["texture"] = 2000817,
+			}, -- [1]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "雪月残狼",
+		["when"] = "11-17 20:06:07",
+		["result"] = "complete",
+		["where"] = "奥迪尔",
+	}, -- [19]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 20,
+		["playerItems"] = {
+		},
+		["reason"] = "self",
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["where"] = "奥迪尔",
+		["who"] = "小熏",
+		["when"] = "11-17 20:12:29",
+		["result"] = "cancelled",
+	}, -- [20]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 21,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "腐臭恐兽的缠结斗篷",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:160643::::::::120:62::5:3:4799:1492:4786:::|h[腐臭恐兽的缠结斗篷]|h|r",
+				["texture"] = 2021682,
+			}, -- [1]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "救死扶伤脚丶",
+		["when"] = "11-17 20:12:35",
+		["result"] = "complete",
+		["where"] = "奥迪尔",
+	}, -- [21]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 22,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "缚法样本处理手套",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:160612::::::::120:64::5:3:4799:1492:4786:::|h[缚法样本处理手套]|h|r",
+				["texture"] = 2059676,
+			}, -- [1]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "时牧牧",
+		["when"] = "11-17 20:51:09",
+		["result"] = "complete",
+		["where"] = "奥迪尔",
+	}, -- [22]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 23,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			{
+				["name"] = "迫近灭亡法典",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:160696::::::::120:64::5:3:4799:1492:4786:::|h[迫近灭亡法典]|h|r",
+				["texture"] = 1963166,
+			}, -- [1]
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "时牧牧",
+		["when"] = "11-17 20:58:11",
+		["result"] = "complete",
+		["where"] = "奥迪尔",
+	}, -- [23]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 24,
+		["playerItems"] = {
+		},
+		["reason"] = "self",
+		["targetItems"] = {
+		},
+		["player"] = "秀逗魔导士丶",
+		["where"] = "奥迪尔",
+		["who"] = "小熏",
+		["when"] = "11-17 20:58:54",
+		["result"] = "cancelled",
+	}, -- [24]
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 25,
+		["playerItems"] = {
+		},
+		["targetItems"] = {
+			[5] = {
+				["name"] = "织棘指环",
+				["numItems"] = 1,
+				["isUsable"] = true,
+				["itemLink"] = "|cffa335ee|Hitem:162548::::::::120:64::16:3:5010:1542:4786:::|h[织棘指环]|h|r",
+				["texture"] = 1716853,
+			},
+		},
+		["player"] = "秀逗魔导士丶",
+		["events"] = {
+			"TRADE_SHOW", -- [1]
+			"TRADE_CLOSED", -- [2]
+			"TRADE_CLOSED", -- [3]
+		},
+		["who"] = "杨超越附体",
+		["when"] = "11-17 21:57:50",
+		["result"] = "complete",
+		["where"] = "维克雷斯庄园",
+	}, -- [25]
+}
+TRADE_LOG_BUTTON_POS = 190
+TradeLog_Announce_Checked = nil
+TradeLog_AnnounceChannel = "WHISPER"
+TBT_CurrentPortal = nil

@@ -1,0 +1,15 @@
+
+U1DBG = {
+	["minimapDefaultPos"] = 125,
+	["quest_font_height"] = 15,
+	["friendlist"] = {
+		["拉文凯斯 - 黛恋丶"] = {
+		},
+	},
+	["profiles"] = {
+		["auto"] = {
+		},
+		["manual"] = {
+		},
+	},
+}

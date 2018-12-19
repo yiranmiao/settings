@@ -1,0 +1,120 @@
+
+BlizzMoveDB = {
+	["RaidParentFrame"] = {
+	},
+	["VideoOptionsFrame"] = {
+	},
+	["CharacterFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -116.000007629395,
+			["xOfs"] = 16,
+		},
+		["relativePoint"] = "LEFT",
+		["yOfs"] = -78.796501159668,
+		["xOfs"] = 78.7978515625,
+		["point"] = "LEFT",
+	},
+	["MailFrame"] = {
+	},
+	["CollectionsJournal"] = {
+	},
+	["AchievementFrame"] = {
+		["save"] = true,
+	},
+	["GarrisonLandingPage"] = {
+	},
+	["GarrisonRecruitSelectFrame"] = {
+	},
+	["PlayerTalentFrame"] = {
+	},
+	["GuildBankFrame"] = {
+		["save"] = true,
+	},
+	["SpellBookFrame"] = {
+	},
+	["version"] = "201109013",
+	["QuestFrame"] = {
+	},
+	["TradeFrame"] = {
+	},
+	["CalendarFrame"] = {
+		["save"] = true,
+	},
+	["InterfaceOptionsFrame"] = {
+	},
+	["InspectFrame"] = {
+	},
+	["AuctionFrame"] = {
+		["save"] = true,
+	},
+	["LFRParentFrame"] = {
+	},
+	["BankFrame"] = {
+	},
+	["FriendsFrame"] = {
+	},
+	["GossipFrame"] = {
+	},
+	["MerchantFrame"] = {
+	},
+	["DressUpFrame"] = {
+	},
+	["WorldMapFrame"] = {
+	},
+	["KeyBindingFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "CENTER",
+			["relativePoint"] = "CENTER",
+			["yOfs"] = 0,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "TOP",
+		["yOfs"] = 0,
+		["xOfs"] = -42.1300926208496,
+		["point"] = "TOP",
+	},
+	["LootFrame"] = {
+	},
+	["GarrisonMissionFrame"] = {
+	},
+	["LFDParentFrame"] = {
+	},
+	["PVEFrame"] = {
+	},
+	["GameMenuFrame"] = {
+	},
+	["GarrisonBuildingFrame"] = {
+	},
+	["EncounterJournal"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -116.000007629395,
+			["xOfs"] = 16,
+		},
+		["relativePoint"] = "CENTER",
+		["yOfs"] = 45.7748603820801,
+		["xOfs"] = -60.9445838928223,
+		["point"] = "CENTER",
+	},
+	["CommunitiesFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -116.000007629395,
+			["xOfs"] = 16,
+		},
+		["relativePoint"] = "BOTTOM",
+		["yOfs"] = 18.4097690582275,
+		["xOfs"] = -6.25011968612671,
+		["point"] = "BOTTOM",
+	},
+	["HelpFrame"] = {
+	},
+}

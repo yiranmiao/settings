@@ -1,0 +1,460 @@
+
+ChatHistoryDB = {
+	["lines"] = 32,
+	["keep_session"] = 1,
+	["backlog"] = true,
+	["historys"] = {
+		["末日行者-丶理想三旬"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+				{
+					["time"] = 1543232788,
+					["line"] = "/myslot",
+				}, -- [1]
+				{
+					["time"] = 1544616291,
+					["line"] = "/g 123",
+				}, -- [2]
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+				{
+					["time"] = 1544958802,
+					["line"] = "/g 喵喵发车了",
+				}, -- [1]
+				{
+					["time"] = 1544958807,
+					["line"] = "/g 要猝死了",
+				}, -- [2]
+				{
+					["time"] = 1544959136,
+					["line"] = "/g 自由，还有人发车吗",
+				}, -- [3]
+				{
+					["time"] = 1544959872,
+					["line"] = "/g 偷男？",
+				}, -- [4]
+				{
+					["time"] = 1544960009,
+					["line"] = "/g 几个坑啊",
+				}, -- [5]
+				{
+					["time"] = 1544960013,
+					["line"] = "/g 一个坑喵喵去打好了",
+				}, -- [6]
+				{
+					["time"] = 1544960021,
+					["line"] = "/g 那喵喵去打鸭",
+				}, -- [7]
+				{
+					["time"] = 1544960048,
+					["line"] = "/g 别蹲坐骑了",
+				}, -- [8]
+				{
+					["time"] = 1544960052,
+					["line"] = "/g 真会猝死的",
+				}, -- [9]
+				{
+					["time"] = 1544960534,
+					["line"] = "/p 你的狗子恰我JJ？",
+				}, -- [10]
+				{
+					["time"] = 1544960561,
+					["line"] = "/p 有的",
+				}, -- [11]
+				{
+					["time"] = 1544960600,
+					["line"] = "/p JJ来了",
+				}, -- [12]
+				{
+					["time"] = 1544960789,
+					["line"] = "/p 干嘛",
+				}, -- [13]
+				{
+					["time"] = 1544961084,
+					["line"] = "/p 来",
+				}, -- [14]
+				{
+					["time"] = 1544961086,
+					["line"] = "/p 吃jio",
+				}, -- [15]
+				{
+					["time"] = 1544961159,
+					["line"] = "/p 舔我",
+				}, -- [16]
+				{
+					["time"] = 1544961242,
+					["line"] = "/p 快点",
+				}, -- [17]
+				{
+					["time"] = 1544961280,
+					["line"] = "/p lei了",
+				}, -- [18]
+				{
+					["time"] = 1544961296,
+					["line"] = "/p 尽情吃Jio吗",
+				}, -- [19]
+				{
+					["time"] = 1544961320,
+					["line"] = "/cw 离人丶泪-末日行者 来YY啊",
+				}, -- [20]
+				{
+					["time"] = 1544961339,
+					["line"] = "/cw 离人丶泪-末日行者 看微信。",
+				}, -- [21]
+				{
+					["time"] = 1544961364,
+					["line"] = "/cw 离人丶泪-末日行者 你来YY了就不用看看",
+				}, -- [22]
+				{
+					["time"] = 1544961559,
+					["line"] = "/cw 离人丶泪-末日行者 你大姨妈好了没",
+				}, -- [23]
+				{
+					["time"] = 1544961868,
+					["line"] = "/p 移动吃jio",
+				}, -- [24]
+				{
+					["time"] = 1544961926,
+					["line"] = "/cw 布鲁萨 zaibu ",
+				}, -- [25]
+				{
+					["time"] = 1544962130,
+					["line"] = "/cw 布鲁萨 大佬在吗",
+				}, -- [26]
+				{
+					["time"] = 1544962488,
+					["line"] = "/s 吃",
+				}, -- [27]
+				{
+					["time"] = 1545220708,
+					["line"] = "/cw 筱羽薇薇 |cffa335ee|Hkeystone:158923:353:10:10:5:14:16|h[钥石：围攻伯拉勒斯 (10)]|h|r来不",
+				}, -- [28]
+				{
+					["time"] = 1545220716,
+					["line"] = "/g |cffa335ee|Hkeystone:158923:353:10:10:5:14:16|h[钥石：围攻伯拉勒斯 (10)]|h|r有人来吗",
+				}, -- [29]
+				{
+					["time"] = 1545220965,
+					["line"] = "/p 进本咯",
+				}, -- [30]
+				{
+					["time"] = 1545220999,
+					["line"] = "/p lr在不",
+				}, -- [31]
+				{
+					["time"] = 1545221051,
+					["line"] = "/rl",
+				}, -- [32]
+			},
+		},
+	},
+	["character_only"] = false,
+}
+_163UI_ChatHistoryBacklogDB = {
+	["末日行者-丶理想三旬"] = {
+		{
+			"1545221009|cff68ccef|H163chat|h20:03:29|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:矜矜业业-末日行者:803:CHANNEL:1|h[|cffc41e3a矜矜业业|r]|h： |cffffd100|HclubTicket:VPjmkerulA3|h[加入：生级小帮手]|h|r10.752941250801090.7529412508010967", -- [1]
+			"1545221010|cff68ccef|H163chat|h20:03:30|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:多放香菜葱花-末日行者:804:CHANNEL:1|h[|cffc69b6d多放香菜葱花|r]|h： |cffa335ee|Hitem:156798::::::::120:71::2::::|h[主脑]|h|r20R或5WG老司机带你拿，非DH卡BUG，来的M，先坐骑~1坑1坑1坑~10.752941250801090.7529412508010967", -- [2]
+			"1545221015|cff68ccef|H163chat|h20:03:35|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:多放香菜葱花-末日行者:805:CHANNEL:1|h[|cffc69b6d多放香菜葱花|r]|h： |cffa335ee|Hitem:156798::::::::120:71::2::::|h[主脑]|h|r20R或5WG老司机带你拿，非DH卡BUG，来的M，先坐骑~1坑1坑1坑~10.752941250801090.7529412508010967", -- [3]
+			"1545221018|cff68ccef|H163chat|h20:03:38|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:一直不射-末日行者:806:CHANNEL:1|h[|cffaad372一直不射|r]|h： |cff0070dd|Hitem:163778::::::::120:253::14::::|h[迷你攻城塔]|h|r有收的没？10.752941250801090.7529412508010967", -- [4]
+			"1545221020|cff68ccef|H163chat|h20:03:40|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:诗与灬远方-末日行者:807:CHANNEL:1|h[|cff0070dd诗与灬远方|r]|h：     H .....  M .....  |cff66bbff|Hjournal:0:1031:16|h[奥迪尔]|h|r  ........ 10.752941250801090.7529412508010967", -- [5]
+			"1545221021|cff68ccef|H163chat|h20:03:41|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Frankxx-末日行者:808:CHANNEL:1|h[|cffa330c9Frankxx|r]|h： KA 10.752941250801090.7529412508010967", -- [6]
+			"1545221022|cff68ccef|H163chat|h20:03:42|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:主脑坐骑-末日行者:809:CHANNEL:1|h[|cffffffff主脑坐骑|r]|h： 主脑坐骑，正常流程最后一步，直接拿坐骑，1 0 R ，有SS 可以拉~10.752941250801090.7529412508010967", -- [7]
+			"1545221022|cff68ccef|H163chat|h20:03:42|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:拉風尛尛骑-末日行者:810:CHANNEL:1|h[|cfff48cba拉風尛尛骑|r]|h： |cff71d5ff|Hspell:261395:0|h[主脑]|h|r,20000g,来末日FWQ的，非DH BUG，坐骑拿到给10.752941250801090.7529412508010967", -- [8]
+			"1545221024|cff68ccef|H163chat|h20:03:44|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Frankxx-末日行者:812:CHANNEL:1|h[|cffa330c9Frankxx|r]|h： KA10.752941250801090.7529412508010967", -- [9]
+			"1545221027|cff68ccef|H163chat|h20:03:47|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:温油的小护士-末日行者:813:CHANNEL:1|h[|cffffffff温油的小护士|r]|h： -光之边缘-公会开荒祖尔，活动时间412晚上8-11点，现招募操作意识俱佳的玩家，追求效率不喜浪费时间的M，不强制要求进会10.752941250801090.7529412508010967", -- [10]
+			"1545221028|cff68ccef|H163chat|h20:03:48|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:给秀儿削果儿-末日行者:815:CHANNEL:1|h[|cffc41e3a给秀儿削果儿|r]|h： |cffffd100|HclubTicket:wkvPmWbU9p2|h[加入：呏㥊级㥊小能手]|h|r10.752941250801090.7529412508010967", -- [11]
+			"1545221028|cff68ccef|H163chat|h20:03:48|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:多放香菜葱花-末日行者:816:CHANNEL:1|h[|cffc69b6d多放香菜葱花|r]|h： |cffa335ee|Hitem:156798::::::::120:71::2::::|h[主脑]|h|r20R或5WG老司机带你拿，非DH卡BUG，来的M，先坐骑~1坑1坑1坑~10.752941250801090.7529412508010967", -- [12]
+			"1545221035|cff68ccef|H163chat|h20:03:55|h|r 你获得了：|cffffffff|Hitem:113509::::::::120:250::::::|h[魔法汉堡]|h|rx20。00.66666668653488028", -- [13]
+			"1545221037|cff68ccef|H163chat|h20:03:57|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:嫌弃你丶-末日行者:818:CHANNEL:1|h[|cffffffff嫌弃你丶|r]|h： 小号/1../-/1.2,0.//+主线任务全清. 10.752941250801090.7529412508010967", -- [14]
+			"1545221037|cff68ccef|H163chat|h20:03:57|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:嫌弃你丶-末日行者:819:CHANNEL:1|h[|cffffffff嫌弃你丶|r]|h： 小号/1../-/1.2,0.//+主线任务全清..10.752941250801090.7529412508010967", -- [15]
+			"1545221037|cff68ccef|H163chat|h20:03:57|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:嫌弃你丶-末日行者:820:CHANNEL:1|h[|cffffffff嫌弃你丶|r]|h： 出G 出G 待笔咧 来 几块 一万咯 可零售  ...10.752941250801090.7529412508010967", -- [16]
+			"1545221037|cff68ccef|H163chat|h20:03:57|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Uibeu-末日行者:821:CHANNEL:1|h[|cff00ff96Uibeu|r]|h：  #薪號.六个鈡.到l2O及.找我~10.752941250801090.7529412508010967", -- [17]
+			"1545221037|cff68ccef|H163chat|h20:03:57|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Uibeu-末日行者:822:CHANNEL:1|h[|cff00ff96Uibeu|r]|h：  #薪號.六个鈡.到l2O及找我~10.752941250801090.7529412508010967", -- [18]
+			"1545221039|cff68ccef|H163chat|h20:03:59|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:紫薯拌饭酱-末日行者:823:CHANNEL:1|h[|cffffffff紫薯拌饭酱|r]|h：  提生 O-12〇  找我  10.752941250801090.7529412508010967", -- [19]
+			"1545221039|cff68ccef|H163chat|h20:03:59|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:紫薯拌饭酱-末日行者:824:CHANNEL:1|h[|cffffffff紫薯拌饭酱|r]|h：  黜 86.W . ..10.752941250801090.7529412508010967", -- [20]
+			"1545221040|cff68ccef|H163chat|h20:04:00|h|r 你获得了：|cffffffff|Hitem:113509::::::::120:250::::::|h[魔法汉堡]|h|rx20。00.66666668653488028", -- [21]
+			"1545221040|cff68ccef|H163chat|h20:04:00|h|r 你获得了：|cffffffff|Hitem:113509::::::::120:250::::::|h[魔法汉堡]|h|rx20。00.66666668653488028", -- [22]
+			"1545221041|cff68ccef|H163chat|h20:04:01|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:和州善风-末日行者:827:CHANNEL:1|h[|cffffffff和州善风|r]|h： 奥ぁ迪ぁ尔ぁ1-8M来抱团老板10.752941250801090.7529412508010967", -- [23]
+			"1545221045|cff68ccef|H163chat|h20:04:05|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:兵家项羽-末日行者:829:CHANNEL:1|h[|cffffffff兵家项羽|r]|h： 《兵家狼道》新公会招收大米，评级，竞技场，团本和休闲养老玩家公会有专业评级团本指挥带队10.752941250801090.7529412508010967", -- [24]
+			"1545221046|cff68ccef|H163chat|h20:04:06|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:拉風尛尛骑-末日行者:830:CHANNEL:1|h[|cfff48cba拉風尛尛骑|r]|h： |cff71d5ff|Hspell:261395:0|h[主脑]|h|r,20000g,来末日FWQ的，非DH BUG，坐骑拿到给，3=210.752941250801090.7529412508010967", -- [25]
+			"1545221048|cff68ccef|H163chat|h20:04:08|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:口渴就要奶-末日行者:831:CHANNEL:1|h[|cffffffff口渴就要奶|r]|h： 工会收人  备战8.1  能一起开荒 一起玩的MMM10.752941250801090.7529412508010967", -- [26]
+			"1545221048|cff68ccef|H163chat|h20:04:08|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:达瓦吖-末日行者:832:CHANNEL:1|h[|cffffffff达瓦吖|r]|h： 奥迪尔]    1-----8   H   M 全程躺10.752941250801090.7529412508010967", -- [27]
+			"1545221049|cff68ccef|H163chat|h20:04:09|h|r |Hchannel:channel:1|h[1. 世界]|h <忙碌>|Hplayer:大鼻子爷爷-末日行者:833:CHANNEL:1|h[|cff0070dd大鼻子爷爷|r]|h：  星光隆 无滴 飛级头   怒只卅 D叨 幻化+=芘  chu 10.752941250801090.7529412508010967", -- [28]
+			"1545221049|cff68ccef|H163chat|h20:04:09|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:矜矜业业-末日行者:834:CHANNEL:1|h[|cffc41e3a矜矜业业|r]|h： |cffffd100|HclubTicket:VPjmkerulA3|h[加入：生级小帮手]|h|r10.752941250801090.7529412508010967", -- [29]
+			"1545221051|cff68ccef|H163chat|h20:04:11|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:诗与灬远方-末日行者:835:CHANNEL:1|h[|cff0070dd诗与灬远方|r]|h：     H .....  M .....  |cff66bbff|Hjournal:0:1031:16|h[奥迪尔]|h|r  ........ 10.752941250801090.7529412508010967", -- [30]
+		}, -- [1]
+		nil, -- [2]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [3]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [4]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [5]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [6]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [7]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [8]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [9]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [10]
+	},
+}

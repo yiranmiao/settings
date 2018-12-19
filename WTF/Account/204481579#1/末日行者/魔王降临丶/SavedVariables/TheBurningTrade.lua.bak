@@ -1,0 +1,24 @@
+
+TradeLog_TradesHistory = {
+	{
+		["targetMoney"] = 0,
+		["playerMoney"] = 0,
+		["id"] = 1,
+		["playerItems"] = {
+		},
+		["reason"] = "other",
+		["targetItems"] = {
+		},
+		["player"] = "魔王降临丶",
+		["where"] = "伯拉勒斯港",
+		["who"] = "少林寺王书记",
+		["when"] = "2018-09-05 21:57:27",
+		["result"] = "cancelled",
+		["toofar"] = "no",
+	}, -- [1]
+	["minimapPos"] = 338,
+}
+TRADE_LOG_BUTTON_POS = 190
+TradeLog_Announce_Checked = true
+TradeLog_AnnounceChannel = "WHISPER"
+TBT_CurrentPortal = nil

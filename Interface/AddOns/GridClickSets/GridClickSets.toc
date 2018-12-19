@@ -1,0 +1,20 @@
+## Interface: 80100
+## Title: GridClickSets
+
+## Author: Warbaby
+## OptionalDeps: Grid
+## SavedVariablesPerCharacter: GridClickSetsForTalents
+
+locale-enUS.lua
+locale-zhCN.lua
+locale-zhTW.lua
+
+DefaultClickSets.lua
+UIDropDownTooltipFunc.lua
+GridClickSetsFrame.xml
+SetupGrid.lua
+SetupGrid2.lua
+SetupCompactUnitFrame.lua
+
+## Title: |cff880303[爱不易]|r Grid 点击施法
+## X-Vendor: AbyUI
