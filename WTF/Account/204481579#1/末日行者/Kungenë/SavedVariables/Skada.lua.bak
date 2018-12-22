@@ -21,12 +21,12 @@ SkadaPerCharDB = {
 		["power"] = {
 		},
 		["damagetaken"] = 0,
-		["starttime"] = 1545057527,
+		["starttime"] = 1545470215,
 		["name"] = "总计",
 		["mobtaken"] = 0,
 		["overhealing"] = 0,
 		["mobhdone"] = 0,
-		["last_action"] = 1545057527,
+		["last_action"] = 1545470215,
 		["mobdone"] = 0,
 	},
 	["sets"] = {

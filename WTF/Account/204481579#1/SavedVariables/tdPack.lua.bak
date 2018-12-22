@@ -2,32 +2,6 @@
 TDDB_TDPACK = {
 	["南城凉喵 - 末日行者"] = {
 		["Orders"] = {
-			["EquipLocOrder"] = {
-				"INVTYPE_2HWEAPON", -- [1]
-				"INVTYPE_WEAPON", -- [2]
-				"INVTYPE_WEAPONMAINHAND", -- [3]
-				"INVTYPE_WEAPONOFFHAND", -- [4]
-				"INVTYPE_SHIELD", -- [5]
-				"INVTYPE_HOLDABLE", -- [6]
-				"INVTYPE_RANGED", -- [7]
-				"INVTYPE_RANGEDRIGHT", -- [8]
-				"INVTYPE_THROWN", -- [9]
-				"INVTYPE_HEAD", -- [10]
-				"INVTYPE_SHOULDER", -- [11]
-				"INVTYPE_CHEST", -- [12]
-				"INVTYPE_ROBE", -- [13]
-				"INVTYPE_HAND", -- [14]
-				"INVTYPE_LEGS", -- [15]
-				"INVTYPE_WRIST", -- [16]
-				"INVTYPE_WAIST", -- [17]
-				"INVTYPE_FEET", -- [18]
-				"INVTYPE_CLOAK", -- [19]
-				"INVTYPE_NECK", -- [20]
-				"INVTYPE_FINGER", -- [21]
-				"INVTYPE_TRINKET", -- [22]
-				"INVTYPE_BODY", -- [23]
-				"INVTYPE_TABARD", -- [24]
-			},
 			["CustomOrder"] = {
 				6948, -- [1]
 				140192, -- [2]
@@ -58,11 +32,63 @@ TDDB_TDPACK = {
 				"#物品强化", -- [27]
 				"#消耗品", -- [28]
 				"#任务", -- [29]
+			},
+			["EquipLocOrder"] = {
+				"INVTYPE_2HWEAPON", -- [1]
+				"INVTYPE_WEAPON", -- [2]
+				"INVTYPE_WEAPONMAINHAND", -- [3]
+				"INVTYPE_WEAPONOFFHAND", -- [4]
+				"INVTYPE_SHIELD", -- [5]
+				"INVTYPE_HOLDABLE", -- [6]
+				"INVTYPE_RANGED", -- [7]
+				"INVTYPE_RANGEDRIGHT", -- [8]
+				"INVTYPE_THROWN", -- [9]
+				"INVTYPE_HEAD", -- [10]
+				"INVTYPE_SHOULDER", -- [11]
+				"INVTYPE_CHEST", -- [12]
+				"INVTYPE_ROBE", -- [13]
+				"INVTYPE_HAND", -- [14]
+				"INVTYPE_LEGS", -- [15]
+				"INVTYPE_WRIST", -- [16]
+				"INVTYPE_WAIST", -- [17]
+				"INVTYPE_FEET", -- [18]
+				"INVTYPE_CLOAK", -- [19]
+				"INVTYPE_NECK", -- [20]
+				"INVTYPE_FINGER", -- [21]
+				"INVTYPE_TRINKET", -- [22]
+				"INVTYPE_BODY", -- [23]
+				"INVTYPE_TABARD", -- [24]
 			},
 		},
 	},
 	["杨超越降临 - 末日行者"] = {
 		["Orders"] = {
+			["EquipLocOrder"] = {
+				"INVTYPE_2HWEAPON", -- [1]
+				"INVTYPE_WEAPON", -- [2]
+				"INVTYPE_WEAPONMAINHAND", -- [3]
+				"INVTYPE_WEAPONOFFHAND", -- [4]
+				"INVTYPE_SHIELD", -- [5]
+				"INVTYPE_HOLDABLE", -- [6]
+				"INVTYPE_RANGED", -- [7]
+				"INVTYPE_RANGEDRIGHT", -- [8]
+				"INVTYPE_THROWN", -- [9]
+				"INVTYPE_HEAD", -- [10]
+				"INVTYPE_SHOULDER", -- [11]
+				"INVTYPE_CHEST", -- [12]
+				"INVTYPE_ROBE", -- [13]
+				"INVTYPE_HAND", -- [14]
+				"INVTYPE_LEGS", -- [15]
+				"INVTYPE_WRIST", -- [16]
+				"INVTYPE_WAIST", -- [17]
+				"INVTYPE_FEET", -- [18]
+				"INVTYPE_CLOAK", -- [19]
+				"INVTYPE_NECK", -- [20]
+				"INVTYPE_FINGER", -- [21]
+				"INVTYPE_TRINKET", -- [22]
+				"INVTYPE_BODY", -- [23]
+				"INVTYPE_TABARD", -- [24]
+			},
 			["CustomOrder"] = {
 				6948, -- [1]
 				140192, -- [2]
@@ -94,35 +120,9 @@ TDDB_TDPACK = {
 				"#消耗品", -- [28]
 				"#任务", -- [29]
 			},
-			["EquipLocOrder"] = {
-				"INVTYPE_2HWEAPON", -- [1]
-				"INVTYPE_WEAPON", -- [2]
-				"INVTYPE_WEAPONMAINHAND", -- [3]
-				"INVTYPE_WEAPONOFFHAND", -- [4]
-				"INVTYPE_SHIELD", -- [5]
-				"INVTYPE_HOLDABLE", -- [6]
-				"INVTYPE_RANGED", -- [7]
-				"INVTYPE_RANGEDRIGHT", -- [8]
-				"INVTYPE_THROWN", -- [9]
-				"INVTYPE_HEAD", -- [10]
-				"INVTYPE_SHOULDER", -- [11]
-				"INVTYPE_CHEST", -- [12]
-				"INVTYPE_ROBE", -- [13]
-				"INVTYPE_HAND", -- [14]
-				"INVTYPE_LEGS", -- [15]
-				"INVTYPE_WRIST", -- [16]
-				"INVTYPE_WAIST", -- [17]
-				"INVTYPE_FEET", -- [18]
-				"INVTYPE_CLOAK", -- [19]
-				"INVTYPE_NECK", -- [20]
-				"INVTYPE_FINGER", -- [21]
-				"INVTYPE_TRINKET", -- [22]
-				"INVTYPE_BODY", -- [23]
-				"INVTYPE_TABARD", -- [24]
-			},
 		},
 	},
-	["魔王降临丶 - 末日行者"] = {
+	["丶理想三旬 - 末日行者"] = {
 		["Orders"] = {
 			["CustomOrder"] = {
 				6948, -- [1]
@@ -183,7 +183,7 @@ TDDB_TDPACK = {
 			},
 		},
 	},
-	["等你不等风丶 - 末日行者"] = {
+	["扛阿古斯专用 - 末日行者"] = {
 		["Orders"] = {
 			["EquipLocOrder"] = {
 				"INVTYPE_2HWEAPON", -- [1]
@@ -246,6 +246,32 @@ TDDB_TDPACK = {
 	},
 	["陈粒 - 末日行者"] = {
 		["Orders"] = {
+			["EquipLocOrder"] = {
+				"INVTYPE_2HWEAPON", -- [1]
+				"INVTYPE_WEAPON", -- [2]
+				"INVTYPE_WEAPONMAINHAND", -- [3]
+				"INVTYPE_WEAPONOFFHAND", -- [4]
+				"INVTYPE_SHIELD", -- [5]
+				"INVTYPE_HOLDABLE", -- [6]
+				"INVTYPE_RANGED", -- [7]
+				"INVTYPE_RANGEDRIGHT", -- [8]
+				"INVTYPE_THROWN", -- [9]
+				"INVTYPE_HEAD", -- [10]
+				"INVTYPE_SHOULDER", -- [11]
+				"INVTYPE_CHEST", -- [12]
+				"INVTYPE_ROBE", -- [13]
+				"INVTYPE_HAND", -- [14]
+				"INVTYPE_LEGS", -- [15]
+				"INVTYPE_WRIST", -- [16]
+				"INVTYPE_WAIST", -- [17]
+				"INVTYPE_FEET", -- [18]
+				"INVTYPE_CLOAK", -- [19]
+				"INVTYPE_NECK", -- [20]
+				"INVTYPE_FINGER", -- [21]
+				"INVTYPE_TRINKET", -- [22]
+				"INVTYPE_BODY", -- [23]
+				"INVTYPE_TABARD", -- [24]
+			},
 			["CustomOrder"] = {
 				6948, -- [1]
 				140192, -- [2]
@@ -276,37 +302,37 @@ TDDB_TDPACK = {
 				"#物品强化", -- [27]
 				"#消耗品", -- [28]
 				"#任务", -- [29]
-			},
-			["EquipLocOrder"] = {
-				"INVTYPE_2HWEAPON", -- [1]
-				"INVTYPE_WEAPON", -- [2]
-				"INVTYPE_WEAPONMAINHAND", -- [3]
-				"INVTYPE_WEAPONOFFHAND", -- [4]
-				"INVTYPE_SHIELD", -- [5]
-				"INVTYPE_HOLDABLE", -- [6]
-				"INVTYPE_RANGED", -- [7]
-				"INVTYPE_RANGEDRIGHT", -- [8]
-				"INVTYPE_THROWN", -- [9]
-				"INVTYPE_HEAD", -- [10]
-				"INVTYPE_SHOULDER", -- [11]
-				"INVTYPE_CHEST", -- [12]
-				"INVTYPE_ROBE", -- [13]
-				"INVTYPE_HAND", -- [14]
-				"INVTYPE_LEGS", -- [15]
-				"INVTYPE_WRIST", -- [16]
-				"INVTYPE_WAIST", -- [17]
-				"INVTYPE_FEET", -- [18]
-				"INVTYPE_CLOAK", -- [19]
-				"INVTYPE_NECK", -- [20]
-				"INVTYPE_FINGER", -- [21]
-				"INVTYPE_TRINKET", -- [22]
-				"INVTYPE_BODY", -- [23]
-				"INVTYPE_TABARD", -- [24]
 			},
 		},
 	},
 	["秀逗魔导士丶 - 末日行者"] = {
 		["Orders"] = {
+			["EquipLocOrder"] = {
+				"INVTYPE_2HWEAPON", -- [1]
+				"INVTYPE_WEAPON", -- [2]
+				"INVTYPE_WEAPONMAINHAND", -- [3]
+				"INVTYPE_WEAPONOFFHAND", -- [4]
+				"INVTYPE_SHIELD", -- [5]
+				"INVTYPE_HOLDABLE", -- [6]
+				"INVTYPE_RANGED", -- [7]
+				"INVTYPE_RANGEDRIGHT", -- [8]
+				"INVTYPE_THROWN", -- [9]
+				"INVTYPE_HEAD", -- [10]
+				"INVTYPE_SHOULDER", -- [11]
+				"INVTYPE_CHEST", -- [12]
+				"INVTYPE_ROBE", -- [13]
+				"INVTYPE_HAND", -- [14]
+				"INVTYPE_LEGS", -- [15]
+				"INVTYPE_WRIST", -- [16]
+				"INVTYPE_WAIST", -- [17]
+				"INVTYPE_FEET", -- [18]
+				"INVTYPE_CLOAK", -- [19]
+				"INVTYPE_NECK", -- [20]
+				"INVTYPE_FINGER", -- [21]
+				"INVTYPE_TRINKET", -- [22]
+				"INVTYPE_BODY", -- [23]
+				"INVTYPE_TABARD", -- [24]
+			},
 			["CustomOrder"] = {
 				6948, -- [1]
 				140192, -- [2]
@@ -337,37 +363,37 @@ TDDB_TDPACK = {
 				"#物品强化", -- [27]
 				"#消耗品", -- [28]
 				"#任务", -- [29]
-			},
-			["EquipLocOrder"] = {
-				"INVTYPE_2HWEAPON", -- [1]
-				"INVTYPE_WEAPON", -- [2]
-				"INVTYPE_WEAPONMAINHAND", -- [3]
-				"INVTYPE_WEAPONOFFHAND", -- [4]
-				"INVTYPE_SHIELD", -- [5]
-				"INVTYPE_HOLDABLE", -- [6]
-				"INVTYPE_RANGED", -- [7]
-				"INVTYPE_RANGEDRIGHT", -- [8]
-				"INVTYPE_THROWN", -- [9]
-				"INVTYPE_HEAD", -- [10]
-				"INVTYPE_SHOULDER", -- [11]
-				"INVTYPE_CHEST", -- [12]
-				"INVTYPE_ROBE", -- [13]
-				"INVTYPE_HAND", -- [14]
-				"INVTYPE_LEGS", -- [15]
-				"INVTYPE_WRIST", -- [16]
-				"INVTYPE_WAIST", -- [17]
-				"INVTYPE_FEET", -- [18]
-				"INVTYPE_CLOAK", -- [19]
-				"INVTYPE_NECK", -- [20]
-				"INVTYPE_FINGER", -- [21]
-				"INVTYPE_TRINKET", -- [22]
-				"INVTYPE_BODY", -- [23]
-				"INVTYPE_TABARD", -- [24]
 			},
 		},
 	},
 	["Kungenë - 末日行者"] = {
 		["Orders"] = {
+			["EquipLocOrder"] = {
+				"INVTYPE_2HWEAPON", -- [1]
+				"INVTYPE_WEAPON", -- [2]
+				"INVTYPE_WEAPONMAINHAND", -- [3]
+				"INVTYPE_WEAPONOFFHAND", -- [4]
+				"INVTYPE_SHIELD", -- [5]
+				"INVTYPE_HOLDABLE", -- [6]
+				"INVTYPE_RANGED", -- [7]
+				"INVTYPE_RANGEDRIGHT", -- [8]
+				"INVTYPE_THROWN", -- [9]
+				"INVTYPE_HEAD", -- [10]
+				"INVTYPE_SHOULDER", -- [11]
+				"INVTYPE_CHEST", -- [12]
+				"INVTYPE_ROBE", -- [13]
+				"INVTYPE_HAND", -- [14]
+				"INVTYPE_LEGS", -- [15]
+				"INVTYPE_WRIST", -- [16]
+				"INVTYPE_WAIST", -- [17]
+				"INVTYPE_FEET", -- [18]
+				"INVTYPE_CLOAK", -- [19]
+				"INVTYPE_NECK", -- [20]
+				"INVTYPE_FINGER", -- [21]
+				"INVTYPE_TRINKET", -- [22]
+				"INVTYPE_BODY", -- [23]
+				"INVTYPE_TABARD", -- [24]
+			},
 			["CustomOrder"] = {
 				6948, -- [1]
 				140192, -- [2]
@@ -398,63 +424,11 @@ TDDB_TDPACK = {
 				"#物品强化", -- [27]
 				"#消耗品", -- [28]
 				"#任务", -- [29]
-			},
-			["EquipLocOrder"] = {
-				"INVTYPE_2HWEAPON", -- [1]
-				"INVTYPE_WEAPON", -- [2]
-				"INVTYPE_WEAPONMAINHAND", -- [3]
-				"INVTYPE_WEAPONOFFHAND", -- [4]
-				"INVTYPE_SHIELD", -- [5]
-				"INVTYPE_HOLDABLE", -- [6]
-				"INVTYPE_RANGED", -- [7]
-				"INVTYPE_RANGEDRIGHT", -- [8]
-				"INVTYPE_THROWN", -- [9]
-				"INVTYPE_HEAD", -- [10]
-				"INVTYPE_SHOULDER", -- [11]
-				"INVTYPE_CHEST", -- [12]
-				"INVTYPE_ROBE", -- [13]
-				"INVTYPE_HAND", -- [14]
-				"INVTYPE_LEGS", -- [15]
-				"INVTYPE_WRIST", -- [16]
-				"INVTYPE_WAIST", -- [17]
-				"INVTYPE_FEET", -- [18]
-				"INVTYPE_CLOAK", -- [19]
-				"INVTYPE_NECK", -- [20]
-				"INVTYPE_FINGER", -- [21]
-				"INVTYPE_TRINKET", -- [22]
-				"INVTYPE_BODY", -- [23]
-				"INVTYPE_TABARD", -- [24]
 			},
 		},
 	},
 	["理想叁旬丶 - 末日行者"] = {
 		["Orders"] = {
-			["EquipLocOrder"] = {
-				"INVTYPE_2HWEAPON", -- [1]
-				"INVTYPE_WEAPON", -- [2]
-				"INVTYPE_WEAPONMAINHAND", -- [3]
-				"INVTYPE_WEAPONOFFHAND", -- [4]
-				"INVTYPE_SHIELD", -- [5]
-				"INVTYPE_HOLDABLE", -- [6]
-				"INVTYPE_RANGED", -- [7]
-				"INVTYPE_RANGEDRIGHT", -- [8]
-				"INVTYPE_THROWN", -- [9]
-				"INVTYPE_HEAD", -- [10]
-				"INVTYPE_SHOULDER", -- [11]
-				"INVTYPE_CHEST", -- [12]
-				"INVTYPE_ROBE", -- [13]
-				"INVTYPE_HAND", -- [14]
-				"INVTYPE_LEGS", -- [15]
-				"INVTYPE_WRIST", -- [16]
-				"INVTYPE_WAIST", -- [17]
-				"INVTYPE_FEET", -- [18]
-				"INVTYPE_CLOAK", -- [19]
-				"INVTYPE_NECK", -- [20]
-				"INVTYPE_FINGER", -- [21]
-				"INVTYPE_TRINKET", -- [22]
-				"INVTYPE_BODY", -- [23]
-				"INVTYPE_TABARD", -- [24]
-			},
 			["CustomOrder"] = {
 				6948, -- [1]
 				140192, -- [2]
@@ -485,6 +459,32 @@ TDDB_TDPACK = {
 				"#物品强化", -- [27]
 				"#消耗品", -- [28]
 				"#任务", -- [29]
+			},
+			["EquipLocOrder"] = {
+				"INVTYPE_2HWEAPON", -- [1]
+				"INVTYPE_WEAPON", -- [2]
+				"INVTYPE_WEAPONMAINHAND", -- [3]
+				"INVTYPE_WEAPONOFFHAND", -- [4]
+				"INVTYPE_SHIELD", -- [5]
+				"INVTYPE_HOLDABLE", -- [6]
+				"INVTYPE_RANGED", -- [7]
+				"INVTYPE_RANGEDRIGHT", -- [8]
+				"INVTYPE_THROWN", -- [9]
+				"INVTYPE_HEAD", -- [10]
+				"INVTYPE_SHOULDER", -- [11]
+				"INVTYPE_CHEST", -- [12]
+				"INVTYPE_ROBE", -- [13]
+				"INVTYPE_HAND", -- [14]
+				"INVTYPE_LEGS", -- [15]
+				"INVTYPE_WRIST", -- [16]
+				"INVTYPE_WAIST", -- [17]
+				"INVTYPE_FEET", -- [18]
+				"INVTYPE_CLOAK", -- [19]
+				"INVTYPE_NECK", -- [20]
+				"INVTYPE_FINGER", -- [21]
+				"INVTYPE_TRINKET", -- [22]
+				"INVTYPE_BODY", -- [23]
+				"INVTYPE_TABARD", -- [24]
 			},
 		},
 	},
@@ -519,7 +519,7 @@ TDDB_TDPACK = {
 		"#消耗品", -- [28]
 		"#任务", -- [29]
 	},
-	["扛阿古斯专用 - 末日行者"] = {
+	["等你不等风丶 - 末日行者"] = {
 		["Orders"] = {
 			["CustomOrder"] = {
 				6948, -- [1]
@@ -580,7 +580,7 @@ TDDB_TDPACK = {
 			},
 		},
 	},
-	["丶理想三旬 - 末日行者"] = {
+	["魔王降临丶 - 末日行者"] = {
 		["Orders"] = {
 			["EquipLocOrder"] = {
 				"INVTYPE_2HWEAPON", -- [1]

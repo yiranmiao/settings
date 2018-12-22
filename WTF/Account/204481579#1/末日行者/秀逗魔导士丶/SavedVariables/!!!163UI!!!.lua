@@ -191,9 +191,9 @@ U1DB = {
 		["163ui_combattimer"] = 0,
 		["gearhud"] = 0,
 		["dbm-azeroth-bfa"] = 1,
-		["163ui_plugins"] = 1,
 		["dbm-dmf"] = 0,
 		["glowfosho"] = 0,
+		["163ui_plugins"] = 1,
 		["swingbar"] = 0,
 		["fizzle"] = 1,
 		["dominos_encounter"] = 0,
@@ -269,7 +269,7 @@ U1DB = {
 		["dbm-core/voice"] = true,
 		["gladiatorlossa2/notall/battleground"] = false,
 		["163ui_moreoptions/cvar_overrideArchive"] = true,
-		["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
+		["!!!163ui!!!/disableLaterLoading"] = true,
 		["dbm-core/hugebar"] = false,
 		["wmarker/Raidshown"] = {
 			["alone"] = true,
@@ -278,9 +278,9 @@ U1DB = {
 		},
 		["163ui_moreoptions/cvar_comboPointLocation"] = "2",
 		["gathermate2/showMinimap"] = true,
+		["merchantex/sell/details"] = "_NIL",
+		["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
 		["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
-		["gladiatorlossa2/notall/arena"] = true,
-		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
 		["163ui_buff/cvar_noBuffDebuffFilterOnTarget"] = false,
 		["azeritetooltip/Compact"] = "_NIL",
 		["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
@@ -288,11 +288,11 @@ U1DB = {
 			["minimapPos"] = 306.100392241333,
 		},
 		["comergy_redux/ShowTargetHealthBar"] = false,
-		["!!!163ui!!!/disableLaterLoading"] = true,
-		["merchantex/sell/details"] = "_NIL",
+		["gladiatorlossa2/notall/arena"] = true,
+		["163ui_moreoptions/cvar_autoQuestWatch"] = true,
 		["duowanchat/channel"] = false,
 		["masque/style"] = "Zoomed",
-		["163ui_moreoptions/cvar_autoQuestWatch"] = true,
+		["!!!163ui!!!/sortmem"] = false,
 		["163ui_moreoptions/cvar_threatShowNumeric"] = true,
 		["comergy_redux/ShowPlayerHealthBar"] = false,
 		["!bauderrorframe/PlaySound"] = "_NIL",
@@ -302,15 +302,15 @@ U1DB = {
 			["vertical"] = true,
 			["shown"] = true,
 		},
-		["163ui_chathistory/showhis"] = true,
+		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
 		["!!!163ui!!!/questWatchSort"] = true,
 		["dominos/showgrid"] = false,
 		["163ui_moreoptions/cvar_nameplateShowSelf"] = false,
 		["163ui_buff/cvar_buffDurations"] = true,
 		["eventalertmod/SCD_RemoveWhenCooldown"] = false,
-		["comergy_redux/Locked"] = false,
+		["163ui_chathistory/showhis"] = true,
 		["gathermate2/showMinimap/showMinimap"] = true,
-		["!!!163ui!!!/sortmem"] = false,
+		["comergy_redux/Locked"] = false,
 		["comergy_redux/VerticalBars"] = false,
 		["oglow/oGlowPipes"] = {
 			["merchant"] = true,
@@ -410,7 +410,7 @@ U1DB = {
 		},
 		["DWCChatFrame"] = {
 			-0, -- [1]
-			190.000015258789, -- [2]
+			155, -- [2]
 			235, -- [3]
 			27.0000038146973, -- [4]
 			nil, -- [5]
@@ -464,7 +464,7 @@ U1DB = {
 			["integrated"] = true,
 		},
 	},
-	["last_logout_time"] = 1545218906,
+	["last_logout_time"] = 1545394004,
 	["selectedTag"] = "MAPQUEST",
 	["ignoreList"] = {
 	},

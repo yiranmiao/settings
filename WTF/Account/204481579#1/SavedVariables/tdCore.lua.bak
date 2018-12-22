@@ -24,7 +24,7 @@ TDDB_TDCORE = {
 			["tdPack"] = true,
 		},
 	},
-	["魔王降临丶 - 末日行者"] = {
+	["丶理想三旬 - 末日行者"] = {
 		["minimapAngles"] = {
 			["tdCore"] = -152,
 			["tdPack"] = -253,
@@ -84,18 +84,6 @@ TDDB_TDCORE = {
 			["tdPack"] = true,
 		},
 	},
-	["扛阿古斯专用 - 末日行者"] = {
-		["minimapAngles"] = {
-			["tdCore"] = -152,
-			["tdPack"] = -253,
-		},
-		["minimapButtons"] = {
-			["tdPack"] = true,
-		},
-		["minimapGroups"] = {
-			["tdPack"] = true,
-		},
-	},
 	["等你不等风丶 - 末日行者"] = {
 		["minimapAngles"] = {
 			["tdCore"] = -152,
@@ -108,7 +96,19 @@ TDDB_TDCORE = {
 			["tdPack"] = true,
 		},
 	},
-	["丶理想三旬 - 末日行者"] = {
+	["扛阿古斯专用 - 末日行者"] = {
+		["minimapAngles"] = {
+			["tdCore"] = -152,
+			["tdPack"] = -253,
+		},
+		["minimapButtons"] = {
+			["tdPack"] = true,
+		},
+		["minimapGroups"] = {
+			["tdPack"] = true,
+		},
+	},
+	["魔王降临丶 - 末日行者"] = {
 		["minimapAngles"] = {
 			["tdCore"] = -152,
 			["tdPack"] = -253,

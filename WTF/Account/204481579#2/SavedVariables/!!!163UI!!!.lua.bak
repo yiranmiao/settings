@@ -1,6 +1,6 @@
 
 U1DBG = {
-	["minimapDefaultPos"] = -925,
+	["minimapDefaultPos"] = -1045,
 	["quest_font_height"] = 15,
 	["hintSearch"] = 1,
 	["friendlist"] = {
@@ -14,15 +14,15 @@ U1DBG = {
 				},
 				["u1dbframes"] = {
 					["WhisperPopFrame"] = {
-						663.072875976563, -- [1]
+						663.066528320313, -- [1]
 						546.210510253906, -- [2]
 						200.000015258789, -- [3]
 						323.999969482422, -- [4]
 						["integrated"] = true,
 					},
 					["U1CT"] = {
-						703.770874023438, -- [1]
-						762.3955078125, -- [2]
+						662.428955078125, -- [1]
+						745.702514648438, -- [2]
 						90.0000152587891, -- [3]
 						27.0000038146973, -- [4]
 						["integrated"] = true,
@@ -41,9 +41,9 @@ U1DBG = {
 						["integrated"] = true,
 					},
 					["TeamStatsFrame"] = {
-						399.0791015625, -- [1]
+						399.072631835938, -- [1]
 						768.421020507813, -- [2]
-						728.000244140625, -- [3]
+						728.000305175781, -- [3]
 						449.999938964844, -- [4]
 						["integrated"] = true,
 					},
@@ -97,7 +97,7 @@ U1DBG = {
 				},
 				["ptype"] = "auto",
 				["class"] = "DEATHKNIGHT",
-				["savedate"] = 1545220008,
+				["savedate"] = 1545318061,
 				["config"] = {
 					["u1dbconfigs"] = true,
 					["u1dbaddons"] = true,
@@ -106,13 +106,28 @@ U1DBG = {
 				["realm"] = "末日行者",
 				["user"] = "丶理想三旬",
 				["u1dbconfigs"] = {
-					["dbm-core/voice"] = true,
+					["163ui_moreoptions/cvar_comboPointLocation"] = "2",
+					["163ui_moreoptions/cvar_overrideArchive"] = true,
+					["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
+					["comergy_redux/ShowTargetHealthBar"] = false,
+					["163ui_buff/cvar_noBuffDebuffFilterOnTarget"] = false,
+					["azeritetooltip/Compact"] = "_NIL",
+					["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
+					["landingGarrisonMMB"] = {
+						["minimapPos"] = 244,
+					},
+					["duowanchat/channel"] = false,
+					["163ui_moreoptions/cvar_threatShowNumeric"] = false,
+					["merchantex/sell/details"] = "_NIL",
+					["!bauderrorframe/PlaySound"] = "_NIL",
+					["duowanchat/subgroup"] = true,
+					["!!!163ui!!!/questWatchSort"] = true,
+					["163ui_moreoptions/cvar_nameplateShowSelf"] = false,
 					["163ui_buff/cvar_buffDurations"] = true,
 					["comergy_redux/Locked"] = false,
+					["163ui_moreoptions/cvar_autoQuestWatch"] = true,
+					["dbm-core/voice"] = true,
 					["comergy_redux/VerticalBars"] = false,
-					["comergy_redux/ShowTargetHealthBar"] = false,
-					["163ui_chat/worldchannel"] = true,
-					["163ui_chathistory/showhis"] = true,
 					["oglow/oGlowPipes"] = {
 						["merchant"] = true,
 						["bags"] = true,
@@ -125,24 +140,27 @@ U1DBG = {
 						["gbank"] = true,
 						["bank"] = true,
 					},
+					["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
+					["163ui_chat/worldchannel"] = true,
+					["163ui_moreoptions/cvar_floatingCombatTextCombatHealing"] = true,
+					["163ui_moreoptions/cvar_nameplateOtherTopInset"] = false,
+					["163ui_chathistory/showhis"] = true,
 					["azeritetooltip/OnlySpec"] = "_NIL",
-					["163ui_moreoptions/cameraDistanceMaxZoomFactor"] = 2.6,
-					["azeritetooltip/Compact"] = "_NIL",
-					["!bauderrorframe/PlaySound"] = "_NIL",
-					["landingGarrisonMMB"] = {
-						["minimapPos"] = 244,
-					},
 					["comergy_redux/ShowPlayerHealthBar"] = false,
-					["!!!163ui!!!/questWatchSort"] = true,
-					["!!!163ui!!!/sortmem"] = false,
-					["duowanchat/channel"] = false,
-					["duowanchat/level"] = true,
-					["deathannounce/auto"] = false,
-					["!!!163ui!!!/disableLaterLoading"] = true,
-					["merchantex/sell/details"] = "_NIL",
-					["!!!163ui!!!/english"] = "_NIL",
-					["duowanchat/subgroup"] = true,
 					["dbm-core/hugebar"] = false,
+					["163ui_moreoptions/cvar_floatingCombatTextPetSpellDamage"] = true,
+					["duowanchat/level"] = true,
+					["!!!163ui!!!/sortmem"] = false,
+					["163ui_moreoptions/cvar_ShowClassColorInFriendlyNameplate"] = true,
+					["163ui_moreoptions/cvar_floatingCombatTextPetMeleeDamage"] = true,
+					["deathannounce/auto"] = false,
+					["163ui_moreoptions/cvar_nameplateShowFriendlyNPCs"] = false,
+					["!!!163ui!!!/disableLaterLoading"] = true,
+					["163ui_moreoptions/cvar_floatingCombatTextCombatLogPeriodicSpells"] = true,
+					["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
+					["!!!163ui!!!/english"] = "_NIL",
+					["163ui_moreoptions/cameraDistanceMaxZoomFactor"] = 2.6,
+					["163ui_moreoptions/cvar_showTargetCastbar"] = true,
 					["163ui_moreoptions/checkAddonVersion"] = true,
 				},
 				["u1dbaddons"] = {
@@ -223,7 +241,7 @@ U1DBG = {
 					["npcscan"] = 0,
 					["combuctor_config"] = 1,
 					["gridstatusrd_wod"] = 0,
-					["handynotes_dungeonlocations"] = 1,
+					["handynotes_dungeonlocations"] = 0,
 					["dbm-bastiontwilight"] = 1,
 					["!!!163ui!!!"] = 1,
 					["achievementsreminder"] = 0,
@@ -334,8 +352,8 @@ U1DBG = {
 					["gearhud"] = 0,
 					["dbm-azeroth-bfa"] = 1,
 					["tidyplates_quatre"] = 1,
+					["163ui_plugins"] = 1,
 					["dbm-dmf"] = 1,
-					["glowfosho"] = 0,
 					["extraactionbar"] = 0,
 					["fizzle"] = 1,
 					["dominos_encounter"] = 1,
@@ -392,7 +410,7 @@ U1DBG = {
 					["rangedisplay"] = 0,
 					["blizzbuffsfacade"] = 1,
 					["handynotes_suramartelemancy"] = 0,
-					["163ui_plugins"] = 1,
+					["glowfosho"] = 0,
 					["gridstatustankcooldown"] = 1,
 					["bagnon_config"] = 1,
 					["tradeskillinfoui"] = 1,
@@ -421,8 +439,8 @@ U1DBG = {
 						["integrated"] = true,
 					},
 					["U1CT"] = {
-						703.770874023438, -- [1]
-						762.3955078125, -- [2]
+						662.435424804688, -- [1]
+						745.702453613281, -- [2]
 						90.0000152587891, -- [3]
 						27.0000038146973, -- [4]
 						["integrated"] = true,
@@ -497,7 +515,7 @@ U1DBG = {
 				},
 				["ptype"] = "auto",
 				["class"] = "DEATHKNIGHT",
-				["savedate"] = 1544802394,
+				["savedate"] = 1545222905,
 				["config"] = {
 					["u1dbconfigs"] = true,
 					["u1dbaddons"] = true,
@@ -583,6 +601,7 @@ U1DBG = {
 					["npcscan"] = 0,
 					["combuctor_config"] = 1,
 					["gridstatusrd_wod"] = 0,
+					["handynotes_dungeonlocations"] = 0,
 					["dbm-bastiontwilight"] = 1,
 					["!!!163ui!!!"] = 1,
 					["achievementsreminder"] = 0,
@@ -693,8 +712,8 @@ U1DBG = {
 					["gearhud"] = 0,
 					["dbm-azeroth-bfa"] = 1,
 					["extraactionbar"] = 0,
+					["dbm-dmf"] = 1,
 					["163ui_plugins"] = 1,
-					["glowfosho"] = 0,
 					["merchantex"] = 1,
 					["fizzle"] = 1,
 					["dominos_encounter"] = 1,
@@ -751,7 +770,7 @@ U1DBG = {
 					["gridstatusraiddebuff"] = 1,
 					["blizzbuffsfacade"] = 1,
 					["handynotes_suramartelemancy"] = 0,
-					["dbm-dmf"] = 1,
+					["glowfosho"] = 0,
 					["gridstatustankcooldown"] = 1,
 					["omnicc"] = 1,
 					["tidyplates_graphite"] = 1,
@@ -766,27 +785,28 @@ U1DBG = {
 					["dbm-draenor"] = 1,
 				},
 				["u1dbconfigs"] = {
-					["dbm-core/voice"] = true,
-					["163ui_buff/cvar_buffDurations"] = true,
-					["163ui_chathistory/showhis"] = true,
-					["comergy_redux/VerticalBars"] = false,
+					["163ui_moreoptions/cvar_comboPointLocation"] = "2",
+					["163ui_moreoptions/cvar_overrideArchive"] = true,
+					["!!!163ui!!!/disableLaterLoading"] = true,
 					["comergy_redux/ShowTargetHealthBar"] = false,
-					["163ui_chat/worldchannel"] = true,
-					["dbm-core/hugebar"] = false,
-					["comergy_redux/Locked"] = false,
-					["azeritetooltip/OnlySpec"] = "_NIL",
-					["163ui_moreoptions/cameraDistanceMaxZoomFactor"] = 2.6,
+					["163ui_buff/cvar_noBuffDebuffFilterOnTarget"] = false,
 					["azeritetooltip/Compact"] = "_NIL",
-					["!bauderrorframe/PlaySound"] = "_NIL",
+					["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
 					["landingGarrisonMMB"] = {
 						["minimapPos"] = 244,
 					},
-					["merchantex/sell/details"] = "_NIL",
-					["!!!163ui!!!/questWatchSort"] = true,
-					["duowanchat/level"] = true,
-					["deathannounce/auto"] = false,
-					["!!!163ui!!!/sortmem"] = false,
 					["duowanchat/channel"] = false,
+					["163ui_moreoptions/cvar_threatShowNumeric"] = false,
+					["merchantex/sell/details"] = "_NIL",
+					["!bauderrorframe/PlaySound"] = "_NIL",
+					["duowanchat/subgroup"] = true,
+					["!!!163ui!!!/questWatchSort"] = true,
+					["163ui_moreoptions/cvar_nameplateShowSelf"] = false,
+					["163ui_buff/cvar_buffDurations"] = true,
+					["163ui_chathistory/showhis"] = true,
+					["163ui_moreoptions/cvar_autoQuestWatch"] = true,
+					["comergy_redux/ShowPlayerHealthBar"] = false,
+					["comergy_redux/VerticalBars"] = false,
 					["oglow/oGlowPipes"] = {
 						["merchant"] = true,
 						["bags"] = true,
@@ -799,10 +819,27 @@ U1DBG = {
 						["gbank"] = true,
 						["bank"] = true,
 					},
-					["comergy_redux/ShowPlayerHealthBar"] = false,
+					["163ui_moreoptions/cvar_floatingCombatTextCombatHealing"] = true,
+					["163ui_chat/worldchannel"] = true,
+					["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
+					["163ui_moreoptions/cvar_nameplateOtherTopInset"] = false,
+					["dbm-core/hugebar"] = false,
+					["azeritetooltip/OnlySpec"] = "_NIL",
+					["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
+					["163ui_moreoptions/cvar_floatingCombatTextCombatLogPeriodicSpells"] = true,
+					["163ui_moreoptions/cvar_floatingCombatTextPetSpellDamage"] = true,
+					["duowanchat/level"] = true,
+					["!!!163ui!!!/sortmem"] = false,
+					["163ui_moreoptions/cvar_ShowClassColorInFriendlyNameplate"] = true,
+					["163ui_moreoptions/cvar_floatingCombatTextPetMeleeDamage"] = true,
+					["deathannounce/auto"] = false,
+					["163ui_moreoptions/cvar_nameplateShowFriendlyNPCs"] = false,
+					["dbm-core/voice"] = true,
+					["comergy_redux/Locked"] = false,
+					["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
 					["!!!163ui!!!/english"] = "_NIL",
-					["duowanchat/subgroup"] = true,
-					["!!!163ui!!!/disableLaterLoading"] = true,
+					["163ui_moreoptions/cameraDistanceMaxZoomFactor"] = 2.6,
+					["163ui_moreoptions/cvar_showTargetCastbar"] = true,
 					["163ui_moreoptions/checkAddonVersion"] = true,
 				},
 				["user"] = "丶理想三旬",

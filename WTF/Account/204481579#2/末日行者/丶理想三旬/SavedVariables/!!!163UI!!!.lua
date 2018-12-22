@@ -191,8 +191,8 @@ U1DB = {
 		["gearhud"] = 0,
 		["dbm-azeroth-bfa"] = 1,
 		["163ui_combattimer"] = 1,
+		["dbm-dmf"] = 1,
 		["163ui_plugins"] = 1,
-		["glowfosho"] = 0,
 		["autoturnin"] = 1,
 		["fizzle"] = 1,
 		["dominos_encounter"] = 1,
@@ -249,7 +249,7 @@ U1DB = {
 		["tidyplates_blizzardplates"] = 1,
 		["blizzbuffsfacade"] = 1,
 		["handynotes_suramartelemancy"] = 0,
-		["dbm-dmf"] = 1,
+		["glowfosho"] = 0,
 		["gridstatustankcooldown"] = 1,
 		["tidyplates_neon"] = 1,
 		["tidyplates_graphite"] = 1,
@@ -281,12 +281,12 @@ U1DB = {
 		["!bauderrorframe/PlaySound"] = "_NIL",
 		["duowanchat/subgroup"] = true,
 		["!!!163ui!!!/questWatchSort"] = true,
-		["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
+		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
 		["163ui_moreoptions/cvar_nameplateShowSelf"] = false,
 		["163ui_buff/cvar_buffDurations"] = true,
 		["163ui_chathistory/showhis"] = true,
+		["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
 		["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
-		["163ui_moreoptions/cvar_floatingCombatTextCombatLogPeriodicSpells"] = true,
 		["comergy_redux/VerticalBars"] = false,
 		["oglow/oGlowPipes"] = {
 			["merchant"] = true,
@@ -300,15 +300,15 @@ U1DB = {
 			["gbank"] = true,
 			["bank"] = true,
 		},
-		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
+		["163ui_moreoptions/cvar_floatingCombatTextCombatLogPeriodicSpells"] = true,
 		["163ui_chat/worldchannel"] = true,
 		["163ui_moreoptions/cvar_floatingCombatTextCombatHealing"] = true,
 		["163ui_moreoptions/cvar_nameplateOtherTopInset"] = false,
 		["azeritetooltip/OnlySpec"] = "_NIL",
-		["duowanchat/level"] = true,
 		["comergy_redux/ShowPlayerHealthBar"] = false,
-		["163ui_moreoptions/cvar_floatingCombatTextPetSpellDamage"] = true,
 		["dbm-core/hugebar"] = false,
+		["163ui_moreoptions/cvar_floatingCombatTextPetSpellDamage"] = true,
+		["duowanchat/level"] = true,
 		["!!!163ui!!!/sortmem"] = false,
 		["163ui_moreoptions/cvar_ShowClassColorInFriendlyNameplate"] = true,
 		["163ui_moreoptions/cvar_floatingCombatTextPetMeleeDamage"] = true,
@@ -324,15 +324,15 @@ U1DB = {
 	},
 	["frames"] = {
 		["WhisperPopFrame"] = {
-			663.072875976563, -- [1]
+			663.066528320313, -- [1]
 			546.210510253906, -- [2]
 			200.000015258789, -- [3]
 			323.999969482422, -- [4]
 			["integrated"] = true,
 		},
 		["U1CT"] = {
-			662.435424804688, -- [1]
-			745.702453613281, -- [2]
+			662.428955078125, -- [1]
+			746.497436523438, -- [2]
 			90.0000152587891, -- [3]
 			27.0000038146973, -- [4]
 			["integrated"] = true,
@@ -351,9 +351,9 @@ U1DB = {
 			["integrated"] = true,
 		},
 		["TeamStatsFrame"] = {
-			399.0791015625, -- [1]
+			399.072631835938, -- [1]
 			768.421020507813, -- [2]
-			728.000244140625, -- [3]
+			728.000305175781, -- [3]
 			449.999938964844, -- [4]
 			["integrated"] = true,
 		},
@@ -405,7 +405,7 @@ U1DB = {
 			["integrated"] = true,
 		},
 	},
-	["last_logout_time"] = 1545222905,
+	["last_logout_time"] = 1545479181,
 	["lastSearch"] = "mysl",
 	["ignoreList"] = {
 	},

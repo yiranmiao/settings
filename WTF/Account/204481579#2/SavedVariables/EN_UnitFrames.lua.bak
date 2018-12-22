@@ -9,6 +9,7 @@ mg_EUF_Options = {
 		["PLAYERXPAUTO"] = 1,
 		["AUTOHEALTHCOLOR"] = 1,
 		["TARGETHPMPPERCENT"] = 1,
+		["TARGETHPMPBLIZ"] = 1,
 		["TARGETHPMP"] = 1,
 		["PARTYCOLOR"] = 1,
 		["3DPORTRAIT"] = 0,

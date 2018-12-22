@@ -1,10 +1,20 @@
 
 BlizzMoveDB = {
 	["TradeSkillFrame"] = {
+		["defaultScale"] = 1,
 		["point"] = "CENTER",
 		["relativePoint"] = "CENTER",
 		["yOfs"] = 34.1232414245606,
 		["xOfs"] = -127.049011230469,
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				622.999938964844, -- [4]
+				-92.4210891723633, -- [5]
+			}, -- [1]
+		},
 	},
 	["RaidParentFrame"] = {
 	},
@@ -25,10 +35,20 @@ BlizzMoveDB = {
 		["modifyKey"] = "IsShiftKeyDown",
 	},
 	["MailFrame"] = {
+		["defaultScale"] = 1,
 		["point"] = "LEFT",
 		["relativePoint"] = "LEFT",
 		["yOfs"] = 71.4410247802734,
 		["xOfs"] = 12.820369720459,
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				16, -- [4]
+				-116.000007629395, -- [5]
+			}, -- [1]
+		},
 	},
 	["MacroFrame"] = {
 	},
@@ -38,17 +58,7 @@ BlizzMoveDB = {
 		["save"] = true,
 	},
 	["AchievementFrame"] = {
-		["defaultScale"] = 1,
 		["save"] = true,
-		["default"] = {
-			{
-				"TOPLEFT", -- [1]
-				"UIParent", -- [2]
-				"TOPLEFT", -- [3]
-				96.0000076293945, -- [4]
-				-116.000007629395, -- [5]
-			}, -- [1]
-		},
 	},
 	["ComboPointPlayerFrame"] = {
 		["save"] = true,
@@ -66,10 +76,20 @@ BlizzMoveDB = {
 		["save"] = true,
 	},
 	["PlayerTalentFrame"] = {
+		["defaultScale"] = 1,
 		["point"] = "LEFT",
 		["relativePoint"] = "LEFT",
-		["yOfs"] = 50.2359771728516,
-		["xOfs"] = 16.7949047088623,
+		["yOfs"] = 15.2599773406982,
+		["xOfs"] = 149.544494628906,
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				16, -- [4]
+				-116.000007629395, -- [5]
+			}, -- [1]
+		},
 	},
 	["GuildBankFrame"] = {
 		["save"] = true,
@@ -95,6 +115,16 @@ BlizzMoveDB = {
 	["ItemSocketingFrame"] = {
 	},
 	["QuestFrame"] = {
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				16, -- [4]
+				-116.000007629395, -- [5]
+			}, -- [1]
+		},
+		["defaultScale"] = 1,
 	},
 	["TradeFrame"] = {
 		["point"] = "LEFT",
@@ -108,8 +138,8 @@ BlizzMoveDB = {
 	["InterfaceOptionsFrame"] = {
 		["point"] = "CENTER",
 		["relativePoint"] = "CENTER",
-		["yOfs"] = -2.38474059104919,
-		["xOfs"] = 5.56441211700439,
+		["yOfs"] = -0.794930756092072,
+		["xOfs"] = 0.794930756092072,
 	},
 	["WarlockPowerFrame"] = {
 		["save"] = true,
@@ -131,6 +161,10 @@ BlizzMoveDB = {
 	},
 	["InspectFrame"] = {
 		["defaultScale"] = 1,
+		["point"] = "LEFT",
+		["relativePoint"] = "LEFT",
+		["yOfs"] = 75.4156265258789,
+		["xOfs"] = 16,
 		["default"] = {
 			{
 				"TOPLEFT", -- [1]
@@ -140,10 +174,6 @@ BlizzMoveDB = {
 				-116.000007629395, -- [5]
 			}, -- [1]
 		},
-		["relativePoint"] = "LEFT",
-		["yOfs"] = 75.4156265258789,
-		["xOfs"] = 16,
-		["point"] = "LEFT",
 	},
 	["AuctionFrame"] = {
 		["point"] = "TOPLEFT",
@@ -165,16 +195,39 @@ BlizzMoveDB = {
 		["save"] = true,
 	},
 	["CharacterFrame"] = {
-		["point"] = "CENTER",
-		["relativePoint"] = "CENTER",
-		["yOfs"] = 69.8512115478516,
-		["xOfs"] = -142.455184936523,
+		["defaultScale"] = 1,
+		["point"] = "LEFT",
+		["relativePoint"] = "LEFT",
+		["yOfs"] = 76.2105102539063,
+		["xOfs"] = 16,
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				16, -- [4]
+				-116.000007629395, -- [5]
+			}, -- [1]
+		},
 	},
 	["KeyBindingFrame"] = {
 		["point"] = "TOPLEFT",
 		["relativePoint"] = "TOPLEFT",
 		["yOfs"] = -0.284124404191971,
 		["xOfs"] = 52.7140121459961,
+	},
+	["FriendsFrame"] = {
+		["defaultScale"] = 1,
+		["save"] = true,
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				16, -- [4]
+				-116.000007629395, -- [5]
+			}, -- [1]
+		},
 	},
 	["PriestBarFrame"] = {
 		["save"] = true,
@@ -184,14 +237,11 @@ BlizzMoveDB = {
 		["save"] = true,
 		["modifyKey"] = "IsShiftKeyDown",
 	},
-	["FriendsFrame"] = {
-		["save"] = true,
-	},
 	["GossipFrame"] = {
 		["point"] = "LEFT",
 		["relativePoint"] = "LEFT",
 		["yOfs"] = 40.2105026245117,
-		["xOfs"] = 15.2050685882568,
+		["xOfs"] = 16,
 	},
 	["QuestLogPopupDetailFrame"] = {
 	},
@@ -220,16 +270,6 @@ BlizzMoveDB = {
 		["xOfs"] = -94.5672073364258,
 	},
 	["MerchantFrame"] = {
-		["default"] = {
-			{
-				"TOPLEFT", -- [1]
-				"UIParent", -- [2]
-				"TOPLEFT", -- [3]
-				16, -- [4]
-				-116.000007629395, -- [5]
-			}, -- [1]
-		},
-		["defaultScale"] = 1,
 	},
 	["MinimapCluster"] = {
 		["defaultScale"] = 1,
@@ -419,7 +459,17 @@ BlizzMoveDB = {
 	["LootFrame"] = {
 	},
 	["AzeriteEmpoweredItemUI"] = {
+		["defaultScale"] = 1,
 		["save"] = true,
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				51, -- [4]
+				-80.4210815429688, -- [5]
+			}, -- [1]
+		},
 	},
 	["PaladinPowerBarFrame"] = {
 		["save"] = true,
@@ -429,14 +479,24 @@ BlizzMoveDB = {
 		["relativePoint"] = "LEFT",
 		["yOfs"] = 78.1851196289063,
 		["save"] = true,
-		["point"] = "LEFT",
 		["xOfs"] = 142.390991210938,
+		["point"] = "LEFT",
 	},
 	["SpellBookFrame"] = {
+		["defaultScale"] = 1,
 		["point"] = "TOPLEFT",
 		["relativePoint"] = "TOPLEFT",
 		["yOfs"] = 27.878267288208,
 		["xOfs"] = 8.84582805633545,
+		["default"] = {
+			{
+				"TOPLEFT", -- [1]
+				"UIParent", -- [2]
+				"TOPLEFT", -- [3]
+				16, -- [4]
+				-116.000007629395, -- [5]
+			}, -- [1]
+		},
 	},
 	["MirrorTimer1"] = {
 		["relativeTo"] = {
@@ -446,7 +506,7 @@ BlizzMoveDB = {
 		},
 		["point"] = "TOP",
 		["yOfs"] = -96.0000076293945,
-		["modifyKey"] = "IsShiftKeyDown",
+		["save"] = true,
 		["defaultScale"] = 1,
 		["default"] = {
 			{
@@ -458,8 +518,8 @@ BlizzMoveDB = {
 			}, -- [1]
 		},
 		["relativePoint"] = "TOP",
-		["save"] = true,
 		["xOfs"] = 0,
+		["modifyKey"] = "IsShiftKeyDown",
 	},
 	["GarrisonMissionFrame"] = {
 	},

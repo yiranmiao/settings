@@ -54,39 +54,47 @@ MasqueDB = {
 				["Dominos_Action Bar"] = {
 					["Disabled"] = true,
 				},
+				["TellMeWhen_分组: 3"] = {
+					["Inherit"] = false,
+					["SkinID"] = "Zoomed",
+				},
 				["暴雪动作条按钮_主动作条"] = {
 					["SkinID"] = "Zoomed",
 				},
 				["Blizzard Buffs_TempEnchant"] = {
 					["SkinID"] = "Zoomed",
 				},
-				["饰品增强_饰品选择菜单"] = {
+				["暴雪动作条按钮_右下动作条"] = {
+					["SkinID"] = "Zoomed",
+				},
+				["TellMeWhen_分组: 2"] = {
 					["Inherit"] = false,
 					["SkinID"] = "Zoomed",
 				},
-				["暴雪动作条按钮"] = {
+				["暴雪动作条按钮_区域技能按钮"] = {
 					["SkinID"] = "Zoomed",
 				},
 				["Dominos_Bag Bar"] = {
 					["Disabled"] = true,
 				},
-				["暴雪动作条按钮_区域技能按钮"] = {
+				["暴雪动作条按钮_左下动作条"] = {
+					["SkinID"] = "Zoomed",
+				},
+				["暴雪动作条按钮_姿态动作条"] = {
 					["SkinID"] = "Zoomed",
 				},
 				["饰品增强_饰品按钮"] = {
 					["Inherit"] = false,
 					["SkinID"] = "Zoomed",
 				},
-				["暴雪动作条按钮_姿态动作条"] = {
-					["SkinID"] = "Zoomed",
-				},
-				["暴雪动作条按钮_左下动作条"] = {
+				["饰品增强_饰品选择菜单"] = {
+					["Inherit"] = false,
 					["SkinID"] = "Zoomed",
 				},
 				["TellMeWhen_分组: 1"] = {
 					["SkinID"] = "Zoomed",
 				},
-				["暴雪动作条按钮_右下动作条"] = {
+				["暴雪动作条按钮"] = {
 					["SkinID"] = "Zoomed",
 				},
 				["Masque"] = {

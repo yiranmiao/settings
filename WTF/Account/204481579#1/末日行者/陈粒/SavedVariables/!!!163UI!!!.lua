@@ -169,144 +169,148 @@ U1DB = {
 		["castdelaybar"] = 1,
 		["dbm-heartoffear"] = 1,
 		["bagnon"] = 1,
-		["theburningtrade"] = 1,
+		["tradeskillinfoui"] = 0,
 		["en_unitframes"] = 0,
 		["tradeskillinfo"] = 0,
 		["dbm-pandaria"] = 1,
 		["tidyplates"] = 1,
 		["dbm-party-bfa"] = 1,
-		["!!!libs"] = 1,
-		["163ui_combattimer"] = 0,
+		["gridstatusrd_bfa"] = 0,
+		["gladiatorlossa_zhcn"] = 1,
 		["gridstatusenemytarget"] = 0,
 		["gladiatorlossa2"] = 0,
-		["meetingstone"] = 0,
+		["dbm-core"] = 1,
 		["dbm-throneofthunder"] = 1,
 		["swingbar"] = 0,
-		["handynotes_summerfestival"] = 0,
+		["dbm-hellfirecitadel"] = 1,
 		["tidyplateshub"] = 1,
-		["bagnon_config"] = 1,
-		["omnicc"] = 1,
+		["dbm-highmaul"] = 1,
+		["dbm-baradinhold"] = 1,
 		["duowanchat"] = 1,
 		["dbm-dragonsoul"] = 1,
-		["extraactionbar"] = 0,
+		["gridmanabars"] = 0,
 		["gearhud"] = 0,
 		["dbm-azeroth-bfa"] = 1,
+		["glowfosho"] = 0,
 		["163ui_plugins"] = 1,
 		["dbm-dmf"] = 0,
-		["glowfosho"] = 0,
-		["canimogit"] = 1,
+		["dbm-nighthold"] = 1,
 		["fizzle"] = 1,
 		["dominos_encounter"] = 0,
 		["dbm-terraceofendlessspring"] = 1,
 		["bagbrother"] = 1,
 		["weakaurasmodelpaths"] = 1,
-		["163ui_encounterlootplus"] = 1,
-		["combuctor"] = 0,
-		["gearmanagerex"] = 0,
+		["163ui_buff"] = 1,
+		["merchantex"] = 1,
+		["tullarange_config"] = 1,
 		["grail"] = 1,
 		["wholly"] = 0,
 		["dbm-coliseum"] = 1,
 		["dominos_config"] = 1,
-		["skada"] = 1,
+		["dbm-trialofvalor"] = 1,
 		["dbm_mods_mop"] = 0,
-		["dbm-firelands"] = 1,
 		["atlaslootreverse"] = 1,
+		["dbm-firelands"] = 1,
 		["gridclicksets"] = 0,
 		["gridstatusraiddebuff"] = 0,
-		["masque_apathy"] = 1,
-		["comergy_redux"] = 0,
+		["dbm-worldevents"] = 1,
+		["gridquickhealth"] = 0,
 		["gtfo"] = 0,
 		["masque_parabole"] = 1,
 		["grail-when"] = 1,
-		["azeritetooltip"] = 1,
+		["dbm-statusbartimers"] = 1,
 		["ellipsis"] = 0,
-		["!worldflightmaploader"] = 1,
+		["garrisonmissionmanager"] = 1,
 		["handynotes_lunarfestival"] = 0,
-		["xloot_master"] = 1,
-		["buyemall"] = 1,
+		["shadowedunitframes"] = 0,
+		["rangedisplay"] = 0,
 		["tiptacitemref"] = 1,
 		["163ui_chat"] = 0,
-		["skadaexplosiveorbs"] = 1,
-		["quakeassist"] = 0,
-		["masque"] = 1,
-		["kib_questmobs"] = 0,
-		["dbm-argus"] = 1,
 		["masque_serenity"] = 1,
-		["rangedisplay"] = 0,
-		["shadowedunitframes"] = 0,
-		["garrisonmissionmanager"] = 1,
+		["quakeassist"] = 0,
+		["kib_questmobs"] = 0,
+		["masque"] = 1,
+		["dbm-argus"] = 1,
+		["skadaexplosiveorbs"] = 1,
+		["buyemall"] = 1,
+		["xloot_master"] = 1,
+		["!worldflightmaploader"] = 1,
 		["dbm-vpyike"] = 1,
-		["dbm-statusbartimers"] = 1,
-		["gridquickhealth"] = 0,
-		["dbm-worldevents"] = 1,
+		["azeritetooltip"] = 1,
+		["comergy_redux"] = 0,
+		["masque_apathy"] = 1,
 		["grail-rewards"] = 1,
 		["weakaurastemplates"] = 1,
 		["comergy_redux_options"] = 1,
-		["dbm-trialofvalor"] = 1,
+		["skada"] = 1,
 		["dominos_progress"] = 0,
-		["tullarange_config"] = 1,
-		["merchantex"] = 1,
-		["163ui_buff"] = 1,
-		["dbm-nighthold"] = 1,
+		["gearmanagerex"] = 0,
+		["combuctor"] = 0,
+		["163ui_encounterlootplus"] = 1,
+		["canimogit"] = 1,
 		["blizzbuffsfacade"] = 1,
 		["handynotes_suramartelemancy"] = 0,
-		["gridmanabars"] = 0,
+		["extraactionbar"] = 0,
 		["gridstatustankcooldown"] = 0,
-		["dbm-baradinhold"] = 1,
-		["dbm-highmaul"] = 1,
-		["dbm-hellfirecitadel"] = 1,
+		["omnicc"] = 1,
+		["bagnon_config"] = 1,
+		["handynotes_summerfestival"] = 0,
 		["decursive"] = 0,
-		["dbm-core"] = 1,
+		["meetingstone"] = 0,
 		["grail-achievements"] = 1,
 		["!kalielstracker"] = 0,
-		["gladiatorlossa_zhcn"] = 1,
-		["gridstatusrd_bfa"] = 0,
+		["163ui_combattimer"] = 0,
+		["!!!libs"] = 1,
 		["tdcore"] = 1,
-		["tradeskillinfoui"] = 0,
+		["theburningtrade"] = 1,
 	},
 	["disableLaterLoading"] = false,
 	["configs"] = {
-		["dbm-core/voice"] = true,
-		["gladiatorlossa2/notall/battleground"] = false,
+		["163ui_moreoptions/cvar_comboPointLocation"] = "2",
+		["gathermate2/showMinimap"] = true,
 		["163ui_moreoptions/cvar_overrideArchive"] = true,
-		["gladiatorlossa2/notall/arena"] = true,
-		["comergy_redux/ShowTargetHealthBar"] = false,
+		["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
+		["dbm-core/hugebar"] = false,
 		["wmarker/Raidshown"] = {
 			["alone"] = true,
 			["vertical"] = true,
 			["shown"] = true,
 		},
-		["163ui_moreoptions/cvar_comboPointLocation"] = "2",
-		["gathermate2/showMinimap"] = true,
-		["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
-		["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
-		["masque/style"] = "Zoomed",
+		["dbm-core/voice"] = true,
+		["gladiatorlossa2/notall/battleground"] = false,
+		["!!!163ui!!!/sortmem"] = false,
+		["gladiatorlossa2/notall/arena"] = true,
+		["recount/FilterBoss"] = "_NIL",
 		["163ui_buff/cvar_noBuffDebuffFilterOnTarget"] = false,
 		["azeritetooltip/Compact"] = "_NIL",
-		["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
+		["163ui_moreoptions/cvar_autoQuestWatch"] = true,
 		["landingGarrisonMMB"] = {
 			["minimapPos"] = 306.100392241333,
 		},
 		["!!!163ui!!!/disableLaterLoading"] = true,
-		["dbm-core/hugebar"] = false,
-		["163ui_moreoptions/cvar_autoQuestWatch"] = true,
+		["comergy_redux/ShowTargetHealthBar"] = false,
+		["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
 		["duowanchat/channel"] = false,
 		["gladiatorlossa2/notall"] = true,
-		["!!!163ui!!!/sortmem"] = false,
+		["163ui_moreoptions/cvar_floatingCombatTextCombatHealing"] = true,
 		["163ui_moreoptions/cvar_threatShowNumeric"] = true,
 		["comergy_redux/ShowPlayerHealthBar"] = false,
 		["!bauderrorframe/PlaySound"] = "_NIL",
 		["duowanchat/subgroup"] = true,
-		["recount/FilterBoss"] = "_NIL",
-		["targetnameplateindicator/tex"] = "Q_GreenTarget",
+		["wmarker/worldRaido"] = {
+			["alone"] = true,
+			["vertical"] = true,
+			["shown"] = true,
+		},
+		["parrot/shortenAmount"] = false,
 		["!!!163ui!!!/questWatchSort"] = true,
 		["dominos/showgrid"] = false,
-		["163ui_moreoptions/cvar_nameplateShowSelf"] = false,
+		["163ui_moreoptions/cvar_floatingCombatTextCombatLogPeriodicSpells"] = true,
 		["163ui_buff/cvar_buffDurations"] = true,
 		["eventalertmod/SCD_RemoveWhenCooldown"] = false,
 		["163ui_chathistory/showhis"] = true,
 		["gathermate2/showMinimap/showMinimap"] = true,
-		["merchantex/sell/details"] = "_NIL",
+		["comergy_redux/Locked"] = false,
 		["comergy_redux/VerticalBars"] = false,
 		["oglow/oGlowPipes"] = {
 			["merchant"] = true,
@@ -320,18 +324,14 @@ U1DB = {
 			["gbank"] = true,
 			["bank"] = true,
 		},
-		["wmarker/worldRaido"] = {
-			["alone"] = true,
-			["vertical"] = true,
-			["shown"] = true,
-		},
+		["masque/style"] = "Zoomed",
 		["163ui_chat/worldchannel"] = true,
-		["163ui_moreoptions/cvar_floatingCombatTextCombatHealing"] = true,
+		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
 		["163ui_moreoptions/cvar_nameplateOtherTopInset"] = false,
-		["duowanchat/level"] = true,
+		["merchantex/sell/details"] = "_NIL",
 		["azeritetooltip/OnlySpec"] = "_NIL",
-		["163ui_moreoptions/cvar_floatingCombatTextCombatLogPeriodicSpells"] = true,
-		["comergy_redux/Locked"] = false,
+		["duowanchat/level"] = true,
+		["163ui_moreoptions/cvar_nameplateShowSelf"] = false,
 		["163ui_moreoptions/cvar_floatingCombatTextPetSpellDamage"] = true,
 		["ExtraActionBar/bar1"] = true,
 		["gladiatorlossa2/notall/field"] = false,
@@ -339,8 +339,8 @@ U1DB = {
 		["163ui_moreoptions/cvar_floatingCombatTextPetMeleeDamage"] = true,
 		["deathannounce/auto"] = false,
 		["163ui_moreoptions/cvar_nameplateShowFriendlyNPCs"] = false,
-		["parrot/shortenAmount"] = false,
-		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
+		["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
+		["targetnameplateindicator/tex"] = "Q_GreenTarget",
 		["gladius/lock"] = false,
 		["!!!163ui!!!/english"] = "_NIL",
 		["163ui_moreoptions/cameraDistanceMaxZoomFactor"] = 2.6,
@@ -355,11 +355,17 @@ U1DB = {
 			323.999969482422, -- [4]
 			["integrated"] = true,
 		},
-		["U1CT"] = {
-			718.111328125, -- [1]
-			758.421020507813, -- [2]
-			90.0000152587891, -- [3]
-			27.0000038146973, -- [4]
+		["WhisperPopNotifyButton"] = {
+			3.99999833106995, -- [1]
+			358.999969482422, -- [2]
+			20, -- [3]
+			19.9999904632568, -- [4]
+			nil, -- [5]
+			"BOTTOM", -- [6]
+			"QuickJoinToastButton", -- [7]
+			"TOP", -- [8]
+			0, -- [9]
+			2.00000023841858, -- [10]
 			["integrated"] = true,
 		},
 		["LiteBuffFrame"] = {
@@ -375,23 +381,21 @@ U1DB = {
 			280.000030517578, -- [3]
 			79.9999923706055, -- [4]
 		},
-		["WhisperPopNotifyButton"] = {
-			3.99999833106995, -- [1]
-			358.999969482422, -- [2]
-			20, -- [3]
+		["GearManagerExToolBarFrame"] = {
+			154.072738647461, -- [1]
+			792.565063476563, -- [2]
+			20.0000038146973, -- [3]
 			19.9999904632568, -- [4]
-			nil, -- [5]
-			"BOTTOM", -- [6]
-			"QuickJoinToastButton", -- [7]
-			"TOP", -- [8]
-			0, -- [9]
-			2.00000023841858, -- [10]
 			["integrated"] = true,
 		},
-		["TomTomBlock"] = {
+		["BGDefenderFrame"] = {
+			684.566284179688, -- [1]
+			432.210540771484, -- [2]
+			157.000045776367, -- [3]
+			55.9999923706055, -- [4]
 		},
 		["TeamStatsFrame"] = {
-			399.05908203125, -- [1]
+			399.058990478516, -- [1]
 			768.421020507813, -- [2]
 			728.000305175781, -- [3]
 			450.000030517578, -- [4]
@@ -405,25 +409,11 @@ U1DB = {
 			99.9998550415039, -- [3]
 			21.999979019165, -- [4]
 		},
-		["RaidAlerter_Attack_Frame"] = {
-			[6] = "TOP",
-			[7] = "UIParent",
-			[8] = "TOP",
-			[10] = -45,
-			[9] = 0,
-		},
-		["DWCChatFrame"] = {
-			-0, -- [1]
-			155.000259399414, -- [2]
-			235, -- [3]
-			27.0000038146973, -- [4]
-			nil, -- [5]
-			"TOPLEFT", -- [6]
-			"ChatFrame1", -- [7]
-			"BOTTOMLEFT", -- [8]
-			-33, -- [9]
-			-3.00000047683716, -- [10]
-			["integrated"] = true,
+		["TomTomCrazyArrow"] = {
+			735.059997558594, -- [1]
+			425.210479736328, -- [2]
+			55.9999923706055, -- [3]
+			42.0000228881836, -- [4]
 		},
 		["SwingBar"] = {
 			673.111328125, -- [1]
@@ -437,11 +427,25 @@ U1DB = {
 			0, -- [9]
 			20, -- [10]
 		},
-		["TomTomCrazyArrow"] = {
-			735.059814453125, -- [1]
-			425.210479736328, -- [2]
-			55.9999923706055, -- [3]
-			42.0000228881836, -- [4]
+		["DWCChatFrame"] = {
+			-0, -- [1]
+			155.000259399414, -- [2]
+			235, -- [3]
+			27.0000038146973, -- [4]
+			nil, -- [5]
+			"TOPLEFT", -- [6]
+			"ChatFrame1", -- [7]
+			"BOTTOMLEFT", -- [8]
+			-33, -- [9]
+			-3.00000023841858, -- [10]
+			["integrated"] = true,
+		},
+		["RaidAlerter_Attack_Frame"] = {
+			[6] = "TOP",
+			[7] = "UIParent",
+			[8] = "TOP",
+			[10] = -45,
+			[9] = 0,
 		},
 		["GearHud"] = {
 			689.111389160156, -- [1]
@@ -450,28 +454,24 @@ U1DB = {
 			148, -- [4]
 			["integrated"] = true,
 		},
-		["BGDefenderFrame"] = {
-			684.566284179688, -- [1]
-			432.210540771484, -- [2]
-			157.000045776367, -- [3]
-			55.9999923706055, -- [4]
+		["TomTomBlock"] = {
 		},
-		["GearManagerExToolBarFrame"] = {
-			154.072738647461, -- [1]
-			792.565063476563, -- [2]
-			20.0000038146973, -- [3]
-			19.9999904632568, -- [4]
+		["U1CT"] = {
+			718.111328125, -- [1]
+			758.421020507813, -- [2]
+			90.0000152587891, -- [3]
+			27.0000038146973, -- [4]
 			["integrated"] = true,
 		},
 	},
-	["last_logout_time"] = 1545138399,
+	["last_logout_time"] = 1545452996,
 	["CloudyTradeSkillItemDisplay"] = 25,
 	["selectedTag"] = "INTERFACE",
 	["ignoreList"] = {
 	},
+	["sortByName"] = true,
+	["enteredWorld"] = true,
 	["collectList"] = {
 	},
-	["enteredWorld"] = true,
-	["sortByName"] = true,
 	["loadSpeed"] = 2,
 }

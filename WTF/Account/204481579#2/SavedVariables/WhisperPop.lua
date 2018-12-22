@@ -10,8 +10,8 @@ WhisperPopDB = {
 	["history"] = {
 		{
 			["received"] = 1,
-			["name"] = "Megustas#51752",
 			["class"] = "BN",
+			["name"] = "Megustas#51752",
 			["messages"] = {
 				"00 22:15:在干嘛", -- [1]
 				"00 22:15:M？", -- [2]
@@ -35,7 +35,6 @@ WhisperPopDB = {
 				"09 20:34:寂寞  打个1-2  ", -- [20]
 				"09 20:34:混个sp", -- [21]
 			},
-			["new"] = 1,
 		}, -- [1]
 		{
 			["class"] = "SHAMAN",
@@ -261,10 +260,10 @@ WhisperPopDB = {
 			["name"] = "喵丶喵#5304",
 		}, -- [21]
 	},
-	["ignoreTags"] = 1,
+	["applyFilters"] = 1,
 	["listScale"] = 100,
 	["foreignOnly"] = 1,
-	["applyFilters"] = 1,
-	["notifyButton"] = 1,
 	["help"] = 1,
+	["notifyButton"] = 1,
+	["ignoreTags"] = 1,
 }
