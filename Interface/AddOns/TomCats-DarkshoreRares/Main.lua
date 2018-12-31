@@ -140,7 +140,8 @@ local function ADDON_LOADED(self)
         name = addon.name .. "MinimapButton",
         iconTexture = "Interface\\AddOns\\" .. addon.name .. "\\images\\" .. addon.params["Minimap Icon"],
         backgroundColor = addon.params["Icon BGColor"],
-        handler_onclick = addon.toggleTourWindow
+        handler_onclick = addon.toggleTourWindow,
+        title = "TomCat's Tours: " .. addon.params["Title Line 1"]
     }).tooltip = {
         Show = function(this)
             GameTooltip:ClearLines()
@@ -546,4 +547,20 @@ if (HandyNotes) then
     }
 
     HandyNotes:RegisterPluginDB("TomCat's Tours: " .. addon.params["Title Line 1"], HandyNotesPlugin, HandyNotesOptions)
+end
+
+if (TomCats and TomCats.Register) then
+    TomCats:Register(
+        {
+            slashCommands = {
+                {
+                    command = "DARKSHORE TOGGLE",
+                    desc = "Toggle Rares of Darkshore Window",
+                    func = addon.toggleTourWindow
+                }
+            },
+            name = "Rares of Darkshore",
+            version = "1.2.3"
+        }
+    )
 end

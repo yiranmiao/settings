@@ -1,4 +1,11 @@
 Version: 1
+Frame: SkadaBarWindowSkada
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: -124
+Y: 37
+W: 214
+H: 165
 Frame: TradeFrame
 FrameLevel: 1
 Anchor: LEFT

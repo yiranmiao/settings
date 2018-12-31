@@ -2,7 +2,8 @@
 ChatHistoryDB = {
 	["lines"] = 32,
 	["keep_session"] = 1,
-	["backlog"] = true,
+	["backlog"] = false,
+	["character_only"] = false,
 	["historys"] = {
 		["末日行者-秀逗魔导士丶"] = {
 			["ChatFrame10EditBox"] = {
@@ -16,12 +17,6 @@ ChatHistoryDB = {
 			["ChatFrame4EditBox"] = {
 			},
 			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -117,16 +112,16 @@ ChatHistoryDB = {
 					["line"] = "/g go",
 				}, -- [23]
 				{
-					["time"] = 1542123985,
-					["line"] = "/g 原子弹发射的精准",
+					["time"] = 1546104762,
+					["line"] = " 在吗",
 				}, -- [24]
 				{
 					["time"] = 1543144100,
 					["line"] = "/g 等下带下听风，他坐我旁边，犯错我直接一个大耳刮子",
 				}, -- [25]
 				{
-					["time"] = 1542123973,
-					["line"] = "/g 传1000把不失误一把",
+					["time"] = 1546104759,
+					["line"] = " 爸比",
 				}, -- [26]
 				{
 					["time"] = 1542124031,
@@ -137,21 +132,27 @@ ChatHistoryDB = {
 					["line"] = "/g 然后",
 				}, -- [28]
 				{
-					["time"] = 1542123993,
-					["line"] = "/g 那个人是SB",
+					["time"] = 1546104798,
+					["line"] = " 。。。",
 				}, -- [29]
 				{
-					["time"] = 1542124007,
-					["line"] = "/g 他自己打",
+					["time"] = 1546104842,
+					["line"] = " 爸比我错了",
 				}, -- [30]
 				{
-					["time"] = 1542124013,
-					["line"] = "/g 说句他单传",
+					["time"] = 1546104846,
+					["line"] = " 爸比爱我",
 				}, -- [31]
 				{
 					["time"] = 1542124035,
 					["line"] = "/g 奶骑给他自由",
 				}, -- [32]
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 		["末日行者-丶理想三旬"] = {
@@ -166,12 +167,6 @@ ChatHistoryDB = {
 			["ChatFrame4EditBox"] = {
 			},
 			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -303,6 +298,12 @@ ChatHistoryDB = {
 					["line"] = "/p 886",
 				}, -- [32]
 			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
 		},
 		["末日行者-杨超越降临"] = {
 			["ChatFrame10EditBox"] = {
@@ -316,6 +317,12 @@ ChatHistoryDB = {
 			["ChatFrame4EditBox"] = {
 			},
 			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -447,12 +454,6 @@ ChatHistoryDB = {
 					["line"] = "/p 1min",
 				}, -- [32]
 			},
-			["ChatFrame3EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
 		},
 		["末日行者-南城凉喵"] = {
 			["ChatFrame10EditBox"] = {
@@ -466,12 +467,6 @@ ChatHistoryDB = {
 			["ChatFrame4EditBox"] = {
 			},
 			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -603,6 +598,12 @@ ChatHistoryDB = {
 					["line"] = "/团队 99",
 				}, -- [32]
 			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
 		},
 		["末日行者-理想叁旬丶"] = {
 			["ChatFrame10EditBox"] = {
@@ -616,12 +617,6 @@ ChatHistoryDB = {
 			["ChatFrame4EditBox"] = {
 			},
 			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -753,6 +748,12 @@ ChatHistoryDB = {
 					["line"] = "/cw 夏梦雲-末日行者 你几开的海岛啊",
 				}, -- [32]
 			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
 		},
 		["末日行者-Kungenë"] = {
 			["ChatFrame10EditBox"] = {
@@ -766,12 +767,6 @@ ChatHistoryDB = {
 			["ChatFrame4EditBox"] = {
 			},
 			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -903,6 +898,12 @@ ChatHistoryDB = {
 					["line"] = "/g 开组？",
 				}, -- [32]
 			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
 		},
 		["末日行者-扛阿古斯专用"] = {
 			["ChatFrame10EditBox"] = {
@@ -916,12 +917,6 @@ ChatHistoryDB = {
 			["ChatFrame4EditBox"] = {
 			},
 			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -1053,6 +1048,366 @@ ChatHistoryDB = {
 					["line"] = "/g 11",
 				}, -- [32]
 			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+		["风暴之眼-Justgan"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+				{
+					["time"] = 1542124016,
+					["line"] = "/g 然后",
+				}, -- [1]
+				{
+					["time"] = 1542124026,
+					["line"] = "/g 让奶骑和他一起过去",
+				}, -- [2]
+				{
+					["time"] = 1542124031,
+					["line"] = "/g 他捡完球",
+				}, -- [3]
+				{
+					["time"] = 1542124035,
+					["line"] = "/g 奶骑给他自由",
+				}, -- [4]
+				{
+					["time"] = 1542124037,
+					["line"] = "/g 他过去",
+				}, -- [5]
+				{
+					["time"] = 1542124041,
+					["line"] = "/g 说句这叫单传",
+				}, -- [6]
+				{
+					["time"] = 1542124072,
+					["line"] = "/g 掉了只有你说？",
+				}, -- [7]
+				{
+					["time"] = 1542124087,
+					["line"] = "/g 我这的电信被我喷的不敢接我电话",
+				}, -- [8]
+				{
+					["time"] = 1542124092,
+					["line"] = "/g 掉线率直线降低",
+				}, -- [9]
+				{
+					["time"] = 1542124098,
+					["line"] = "/g 打一年掉线一次",
+				}, -- [10]
+				{
+					["time"] = 1542124229,
+					["line"] = "/g 睡觉，小师弟努力一下，争取下周33级项链",
+				}, -- [11]
+				{
+					["time"] = 1542199804,
+					["line"] = " 发车",
+				}, -- [12]
+				{
+					["time"] = 1542199864,
+					["line"] = "/p 我去洗个澡",
+				}, -- [13]
+				{
+					["time"] = 1542199867,
+					["line"] = "/p 马上回来发车",
+				}, -- [14]
+				{
+					["time"] = 1542201373,
+					["line"] = "/cw 听风与我说你-末日行者 123",
+				}, -- [15]
+				{
+					["time"] = 1542202499,
+					["line"] = "/cw 听风与我说你-末日行者 也可以？",
+				}, -- [16]
+				{
+					["time"] = 1542202505,
+					["line"] = "/cw 听风与我说你-末日行者 3分钟后开搞",
+				}, -- [17]
+				{
+					["time"] = 1542203562,
+					["line"] = "/p =-=",
+				}, -- [18]
+				{
+					["time"] = 1542203565,
+					["line"] = "/p 隐身怪",
+				}, -- [19]
+				{
+					["time"] = 1542289018,
+					["line"] = "/cw 轻唱挽歌 大佬护腕要吗",
+				}, -- [20]
+				{
+					["time"] = 1542289023,
+					["line"] = "/cw 轻唱挽歌-末日行者 急",
+				}, -- [21]
+				{
+					["time"] = 1542291130,
+					["line"] = "/cw 轻唱挽歌-末日行者 大佬你六号护腕要吗，。急",
+				}, -- [22]
+				{
+					["time"] = 1542292948,
+					["line"] = "/cw 轻唱挽歌 3q3q",
+				}, -- [23]
+				{
+					["time"] = 1542295773,
+					["line"] = "/g 123",
+				}, -- [24]
+				{
+					["time"] = 1543143519,
+					["line"] = "/g go",
+				}, -- [25]
+				{
+					["time"] = 1543143681,
+					["line"] = "/g 开组？",
+				}, -- [26]
+				{
+					["time"] = 1543144100,
+					["line"] = "/g 等下带下听风，他坐我旁边，犯错我直接一个大耳刮子",
+				}, -- [27]
+				{
+					["time"] = 1546104762,
+					["line"] = " 在吗",
+				}, -- [28]
+				{
+					["time"] = 1546104775,
+					["line"] = " 爸比",
+				}, -- [29]
+				{
+					["time"] = 1546104798,
+					["line"] = " 。。。",
+				}, -- [30]
+				{
+					["time"] = 1546104842,
+					["line"] = " 爸比我错了",
+				}, -- [31]
+				{
+					["time"] = 1546104846,
+					["line"] = " 爸比爱我",
+				}, -- [32]
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+		},
+		["末日行者-魔王降临丶"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+				{
+					["time"] = 1537362961,
+					["line"] = "/p 打慢了点，不然+2了",
+				}, -- [1]
+				{
+					["time"] = 1537363023,
+					["line"] = "/p 撤了88",
+				}, -- [2]
+				{
+					["time"] = 1541863179,
+					["line"] = "/g 123",
+				}, -- [3]
+				{
+					["time"] = 1537363035,
+					["line"] = "/g 31",
+				}, -- [4]
+				{
+					["time"] = 1537367516,
+					["line"] = " |cffffff00|Hachievement:12527:Player-1939-04CDD147:1:9:18:18:4294967295:4294967295:4294967295:4294967295|h[泽克沃兹（史诗难度）]|h|r昨天过的",
+				}, -- [5]
+				{
+					["time"] = 1537367537,
+					["line"] = " 维克还么过",
+				}, -- [6]
+				{
+					["time"] = 1541598207,
+					["line"] = " 嗯",
+				}, -- [7]
+				{
+					["time"] = 1537367590,
+					["line"] = " 你没打？",
+				}, -- [8]
+				{
+					["time"] = 1537367670,
+					["line"] = " 吊的",
+				}, -- [9]
+				{
+					["time"] = 1537367850,
+					["line"] = " 上几把",
+				}, -- [10]
+				{
+					["time"] = 1537367865,
+					["line"] = " 瓜神他爸有点东西的，都安排的明明白白的",
+				}, -- [11]
+				{
+					["time"] = 1537368065,
+					["line"] = " 没事，我明天开两个低保都能睡着",
+				}, -- [12]
+				{
+					["time"] = 1537368081,
+					["line"] = " 能不能给我开两个385特质装",
+				}, -- [13]
+				{
+					["time"] = 1537368590,
+					["line"] = " 没吊用的",
+				}, -- [14]
+				{
+					["time"] = 1537368738,
+					["line"] = "/cw 丶提拉米小苏-末日行者 开J8",
+				}, -- [15]
+				{
+					["time"] = 1537368998,
+					["line"] = " 不来了，马上要睡觉了",
+				}, -- [16]
+				{
+					["time"] = 1537369019,
+					["line"] = " 真来不了",
+				}, -- [17]
+				{
+					["time"] = 1537369041,
+					["line"] = " 女朋友要狂暴了",
+				}, -- [18]
+				{
+					["time"] = 1537370134,
+					["line"] = "/cw 卿夜歌-末日行者 马上",
+				}, -- [19]
+				{
+					["time"] = 1537370209,
+					["line"] = "/cw 卿夜歌-末日行者 吊。",
+				}, -- [20]
+				{
+					["time"] = 1537370287,
+					["line"] = "/cw 卿夜歌-末日行者 干你",
+				}, -- [21]
+				{
+					["time"] = 1537370290,
+					["line"] = "/cw 卿夜歌-末日行者 快睡",
+				}, -- [22]
+				{
+					["time"] = 1537370309,
+					["line"] = "/cw 卿夜歌-末日行者 略你吗",
+				}, -- [23]
+				{
+					["time"] = 1537370314,
+					["line"] = "/cw 卿夜歌-末日行者 中秋吗",
+				}, -- [24]
+				{
+					["time"] = 1537370321,
+					["line"] = "/cw 卿夜歌-末日行者 国庆5天吧",
+				}, -- [25]
+				{
+					["time"] = 1537370328,
+					["line"] = "/cw 卿夜歌-末日行者 不是5就是6",
+				}, -- [26]
+				{
+					["time"] = 1537370348,
+					["line"] = "/cw 卿夜歌-末日行者 嗯，我下了",
+				}, -- [27]
+				{
+					["time"] = 1537398514,
+					["line"] = "/g |cffa335ee|Hitem:159633::::::::120:73::35:3:5009:1552:4784:::|h[鲨鱼饵的鱼钩]|h|r卧槽",
+				}, -- [28]
+				{
+					["time"] = 1537398539,
+					["line"] = "/g 这是低保",
+				}, -- [29]
+				{
+					["time"] = 1537398646,
+					["line"] = "/g |cffa335ee|Hitem:161703::::::::120:250::56:4:5079:5128:1572:4786:::|h[悚然角斗士的碾骨锤]|h|rshabi ba",
+				}, -- [30]
+				{
+					["time"] = 1537398651,
+					["line"] = "/g 真给我出武器了",
+				}, -- [31]
+				{
+					["time"] = 1537398655,
+					["line"] = "/g 有毒",
+				}, -- [32]
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+		["末日行者-等你不等风丶"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+				{
+					["time"] = 1535988884,
+					["line"] = "/tmw",
+				}, -- [1]
+				{
+					["time"] = 1536062625,
+					["line"] = "/rl",
+				}, -- [2]
+				{
+					["time"] = 1536065905,
+					["line"] = "/g 8",
+				}, -- [3]
+				{
+					["time"] = 1536068221,
+					["line"] = "/p |cffa335ee|Hitem:161889::::::::120:73::13:1:1693:::|h[燎火之雷钢腰带]|h|r",
+				}, -- [4]
+				{
+					["time"] = 1536153000,
+					["line"] = "/g |cffffffff|Hitem:163224::::::::120:250::::::|h[力量战斗药水]|h|r|cffffffff|Hitem:152641::::::::120:250::::::|h[暗潮合剂]|h|r",
+				}, -- [5]
+				{
+					["time"] = 1536153019,
+					["line"] = "/g 男留战网gay自强",
+				}, -- [6]
+				{
+					["time"] = 1536153046,
+					["line"] = "/g |cffffffff|Hitem:152512::::::::120:250::::::|h[镍铜矿石]|h|r",
+				}, -- [7]
+				{
+					["time"] = 1536154729,
+					["line"] = "/p 来个雷龙",
+				}, -- [8]
+			},
 		},
 		["末日行者-陈粒"] = {
 			["ChatFrame10EditBox"] = {
@@ -1067,7 +1422,7 @@ ChatHistoryDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
+			["ChatFrame3EditBox"] = {
 			},
 			["ChatFrame1EditBox"] = {
 				{
@@ -1201,215 +1556,10 @@ ChatHistoryDB = {
 			},
 			["ChatFrame2EditBox"] = {
 			},
-			["ChatFrame3EditBox"] = {
-			},
-		},
-		["末日行者-等你不等风丶"] = {
-			["ChatFrame10EditBox"] = {
-			},
-			["ChatFrame7EditBox"] = {
-			},
-			["ChatFrame5EditBox"] = {
-			},
-			["ChatFrame8EditBox"] = {
-			},
-			["ChatFrame4EditBox"] = {
-			},
-			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame1EditBox"] = {
-				{
-					["time"] = 1535988884,
-					["line"] = "/tmw",
-				}, -- [1]
-				{
-					["time"] = 1536062625,
-					["line"] = "/rl",
-				}, -- [2]
-				{
-					["time"] = 1536065905,
-					["line"] = "/g 8",
-				}, -- [3]
-				{
-					["time"] = 1536068221,
-					["line"] = "/p |cffa335ee|Hitem:161889::::::::120:73::13:1:1693:::|h[燎火之雷钢腰带]|h|r",
-				}, -- [4]
-				{
-					["time"] = 1536153000,
-					["line"] = "/g |cffffffff|Hitem:163224::::::::120:250::::::|h[力量战斗药水]|h|r|cffffffff|Hitem:152641::::::::120:250::::::|h[暗潮合剂]|h|r",
-				}, -- [5]
-				{
-					["time"] = 1536153019,
-					["line"] = "/g 男留战网gay自强",
-				}, -- [6]
-				{
-					["time"] = 1536153046,
-					["line"] = "/g |cffffffff|Hitem:152512::::::::120:250::::::|h[镍铜矿石]|h|r",
-				}, -- [7]
-				{
-					["time"] = 1536154729,
-					["line"] = "/p 来个雷龙",
-				}, -- [8]
-			},
-			["ChatFrame3EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
 			["ChatFrame9EditBox"] = {
-			},
-		},
-		["末日行者-魔王降临丶"] = {
-			["ChatFrame10EditBox"] = {
-			},
-			["ChatFrame7EditBox"] = {
-			},
-			["ChatFrame5EditBox"] = {
-			},
-			["ChatFrame8EditBox"] = {
-			},
-			["ChatFrame4EditBox"] = {
-			},
-			["ChatFrame6EditBox"] = {
-			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
-			},
-			["ChatFrame3EditBox"] = {
-			},
-			["ChatFrame1EditBox"] = {
-				{
-					["time"] = 1537362961,
-					["line"] = "/p 打慢了点，不然+2了",
-				}, -- [1]
-				{
-					["time"] = 1537363023,
-					["line"] = "/p 撤了88",
-				}, -- [2]
-				{
-					["time"] = 1541863179,
-					["line"] = "/g 123",
-				}, -- [3]
-				{
-					["time"] = 1537363035,
-					["line"] = "/g 31",
-				}, -- [4]
-				{
-					["time"] = 1537367516,
-					["line"] = " |cffffff00|Hachievement:12527:Player-1939-04CDD147:1:9:18:18:4294967295:4294967295:4294967295:4294967295|h[泽克沃兹（史诗难度）]|h|r昨天过的",
-				}, -- [5]
-				{
-					["time"] = 1537367537,
-					["line"] = " 维克还么过",
-				}, -- [6]
-				{
-					["time"] = 1541598207,
-					["line"] = " 嗯",
-				}, -- [7]
-				{
-					["time"] = 1537367590,
-					["line"] = " 你没打？",
-				}, -- [8]
-				{
-					["time"] = 1537367670,
-					["line"] = " 吊的",
-				}, -- [9]
-				{
-					["time"] = 1537367850,
-					["line"] = " 上几把",
-				}, -- [10]
-				{
-					["time"] = 1537367865,
-					["line"] = " 瓜神他爸有点东西的，都安排的明明白白的",
-				}, -- [11]
-				{
-					["time"] = 1537368065,
-					["line"] = " 没事，我明天开两个低保都能睡着",
-				}, -- [12]
-				{
-					["time"] = 1537368081,
-					["line"] = " 能不能给我开两个385特质装",
-				}, -- [13]
-				{
-					["time"] = 1537368590,
-					["line"] = " 没吊用的",
-				}, -- [14]
-				{
-					["time"] = 1537368738,
-					["line"] = "/cw 丶提拉米小苏-末日行者 开J8",
-				}, -- [15]
-				{
-					["time"] = 1537368998,
-					["line"] = " 不来了，马上要睡觉了",
-				}, -- [16]
-				{
-					["time"] = 1537369019,
-					["line"] = " 真来不了",
-				}, -- [17]
-				{
-					["time"] = 1537369041,
-					["line"] = " 女朋友要狂暴了",
-				}, -- [18]
-				{
-					["time"] = 1537370134,
-					["line"] = "/cw 卿夜歌-末日行者 马上",
-				}, -- [19]
-				{
-					["time"] = 1537370209,
-					["line"] = "/cw 卿夜歌-末日行者 吊。",
-				}, -- [20]
-				{
-					["time"] = 1537370287,
-					["line"] = "/cw 卿夜歌-末日行者 干你",
-				}, -- [21]
-				{
-					["time"] = 1537370290,
-					["line"] = "/cw 卿夜歌-末日行者 快睡",
-				}, -- [22]
-				{
-					["time"] = 1537370309,
-					["line"] = "/cw 卿夜歌-末日行者 略你吗",
-				}, -- [23]
-				{
-					["time"] = 1537370314,
-					["line"] = "/cw 卿夜歌-末日行者 中秋吗",
-				}, -- [24]
-				{
-					["time"] = 1537370321,
-					["line"] = "/cw 卿夜歌-末日行者 国庆5天吧",
-				}, -- [25]
-				{
-					["time"] = 1537370328,
-					["line"] = "/cw 卿夜歌-末日行者 不是5就是6",
-				}, -- [26]
-				{
-					["time"] = 1537370348,
-					["line"] = "/cw 卿夜歌-末日行者 嗯，我下了",
-				}, -- [27]
-				{
-					["time"] = 1537398514,
-					["line"] = "/g |cffa335ee|Hitem:159633::::::::120:73::35:3:5009:1552:4784:::|h[鲨鱼饵的鱼钩]|h|r卧槽",
-				}, -- [28]
-				{
-					["time"] = 1537398539,
-					["line"] = "/g 这是低保",
-				}, -- [29]
-				{
-					["time"] = 1537398646,
-					["line"] = "/g |cffa335ee|Hitem:161703::::::::120:250::56:4:5079:5128:1572:4786:::|h[悚然角斗士的碾骨锤]|h|rshabi ba",
-				}, -- [30]
-				{
-					["time"] = 1537398651,
-					["line"] = "/g 真给我出武器了",
-				}, -- [31]
-				{
-					["time"] = 1537398655,
-					["line"] = "/g 有毒",
-				}, -- [32]
 			},
 		},
 	},
-	["character_only"] = false,
 }
 _163UI_ChatHistoryBacklogDB = {
 	["末日行者-秀逗魔导士丶"] = {
@@ -3449,38 +3599,329 @@ _163UI_ChatHistoryBacklogDB = {
 			false, -- [30]
 		}, -- [10]
 	},
-	["末日行者-陈粒"] = {
+	["风暴之眼-Justgan"] = {
 		{
-			"1543144360|cff68ccef|H163chat|h19:12:40|h|r 你加入了一个团队。|cffff2020（在团队中时，大部分非团队任务将无法完成。）|r1101", -- [1]
-			"1543144360|cff68ccef|H163chat|h19:12:40|h|r 团队副本难度设置为英雄。1101", -- [2]
-			"1543144360|cff68ccef|H163chat|h19:12:40|h|r 已将经典旧世团队副本难度设置为25人（英雄）。1101", -- [3]
-			"1543144360|cff68ccef|H163chat|h19:12:40|h|r |cffcd1a1c【爱不易】|r- 延迟加载 - 正在载入插件, 剩余 |cff00ff0047|r1111", -- [4]
-			"1543144361|cff68ccef|H163chat|h19:12:41|h|r |cffcd1a1c【爱不易】|r- 延迟加载 - 正在载入插件, 剩余 |cff00ff0031|r1111", -- [5]
-			"1543144361|cff68ccef|H163chat|h19:12:41|h|r |cffcd1a1c【爱不易】|r- 延迟加载 - 正在载入插件, 剩余 |cff00ff0015|r1111", -- [6]
-			"1543144362|cff68ccef|H163chat|h19:12:42|h|r |cffcd1a1c【爱不易】|r- 全部插件加载完毕。1111", -- [7]
-			"1543144363|cff68ccef|H163chat|h19:12:43|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:心若有情:1820:CHANNEL:1|h[|cfff48cba心若有情|r]|h： H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r 舒 ：心 1 ：：：8 ~ 10.752941250801090.7529412508010967", -- [8]
-			"1543144366|cff68ccef|H163chat|h19:12:46|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:个人躺尸速推:1821:CHANNEL:1|h[|cffff7c0a个人躺尸速推|r]|h： H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r ........10.752941250801090.7529412508010967", -- [9]
-			"1543144367|cff68ccef|H163chat|h19:12:47|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:辣酱小年糕:1822:CHANNEL:1|h[|cfff48cba辣酱小年糕|r]|h： -光之边缘-公会开荒M奥迪尔，活动时间周67两天晚上8-11点，现招募稳定开荒操作意识俱佳的玩家，不喜浪费时间的M，不强制入会10.752941250801090.7529412508010967", -- [10]
-			"1543144368|cff68ccef|H163chat|h19:12:48|h|r |Hchannel:channel:4|h[4. 交易 - 城市]|h |Hplayer:其疾如行:1823:CHANNEL:4|h[|cff00ff96其疾如行|r]|h： - 1 0  。大.米 .马 .上 . 打.,10.752941250801090.7529412508010970", -- [11]
-			"1543144369|cff68ccef|H163chat|h19:12:49|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:孤独安静死亡:1824:CHANNEL:1|h[|cff0070dd孤独安静死亡|r]|h： 公会团开荒奥迪尔M4，招能稳定参加活动375+DZ,FS,LR,CJQ，活动所需团队提供，活动时间周1 2 4 5，19：30~23：00~10.752941250801090.7529412508010967", -- [12]
-			"1543144370|cff68ccef|H163chat|h19:12:50|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:摸装小红手:1825:CHANNEL:1|h[|cffffffff摸装小红手|r]|h： H  |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r放``心```1````810.752941250801090.7529412508010967", -- [13]
-			"1543144372|cff68ccef|H163chat|h19:12:52|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:消费选我呀:1826:CHANNEL:1|h[|cffffffff消费选我呀|r]|h： H  |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r放``心```1````810.752941250801090.7529412508010967", -- [14]
-			"1543144374|cff68ccef|H163chat|h19:12:54|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Rthgfghfhfgh:1827:CHANNEL:1|h[|cffaad372Rthgfghfhfgh|r]|h： |TInterface\\AddOns\\DuowanChat\\icon\\shout.tga:18.0|t M..1..8.. 10.752941250801090.7529412508010967", -- [15]
-			"1543144376|cff68ccef|H163chat|h19:12:56|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:阿根哥哥:1828:CHANNEL:1|h[|cff3fc6ea阿根哥哥|r]|h： |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t<<满满的回忆>>|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t老司机,新回归.上班族休闲工会,进度方面:不冲不落后.欢迎各位怪叔叔,坏萝莉！各种奶爸奶妈.10.752941250801090.7529412508010967", -- [16]
-			"1543144377|cff68ccef|H163chat|h19:12:57|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:消费来找我丶:1829:CHANNEL:1|h[|cffff7c0a消费来找我丶|r]|h：   H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r  ******10.752941250801090.7529412508010967", -- [17]
-			"1543144378|cff68ccef|H163chat|h19:12:58|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Jhtghjgfhfgf:1830:CHANNEL:1|h[|cffc41e3aJhtghjgfhfgf|r]|h： |cffffff00|Hachievement:10149:Player-707-04B57698:1:9:8:18:4294967295:4294967295:4294967295:4294967295|h[地狱火团队的荣耀]|h|r|cff71d5ff|Hspell:186305:0|h[地火恐狼]|h|r全做，随便来 ，  免，、费10.752941250801090.7529412508010967", -- [18]
-			"1543144379|cff68ccef|H163chat|h19:12:59|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:这里优惠多:1831:CHANNEL:1|h[|cff00ff96这里优惠多|r]|h： H  |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r放``心```1````810.752941250801090.7529412508010967", -- [19]
-			"1543144380|cff68ccef|H163chat|h19:13:00|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:本末倒置丶:1832:CHANNEL:1|h[|cffc41e3a本末倒置丶|r]|h： 出-96.-w.GG金--.甩G--/M... 10.752941250801090.7529412508010967", -- [20]
-			"1543144380|cff68ccef|H163chat|h19:13:00|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:本末倒置丶:1833:CHANNEL:1|h[|cffc41e3a本末倒置丶|r]|h： 出-96.G-w.GG-金-.甩--G--/M...10.752941250801090.7529412508010967", -- [21]
-			"1543144382|cff68ccef|H163chat|h19:13:02|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:狂傲与共:1834:CHANNEL:1|h[|cffc41e3a狂傲与共|r]|h：  /—./20.速。来.M10.752941250801090.7529412508010967", -- [22]
-			"1543144382|cff68ccef|H163chat|h19:13:02|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:狂傲与共:1835:CHANNEL:1|h[|cffc41e3a狂傲与共|r]|h： 《 /—./20.速。来.M10.752941250801090.7529412508010967", -- [23]
-			"1543144384|cff68ccef|H163chat|h19:13:04|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:蜀黍你好坏:1836:CHANNEL:1|h[|cffc41e3a蜀黍你好坏|r]|h： |cffa335ee|Hkeystone:158923:247:12:9:7:12:16|h[钥石：暴富矿区！！ (12)]|h|r2W,来人370+.10.752941250801090.7529412508010967", -- [24]
-			"1543144386|cff68ccef|H163chat|h19:13:06|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:灬艾瑞莉娅丶:1837:CHANNEL:1|h[|cffa330c9灬艾瑞莉娅丶|r]|h：  <<九州>> 公会收人 欢迎喜欢大秘境的休闲玩家 和团本玩家M4进度 M进度团招收各种强力DPS活动时周471期待你的加入 轻松游戏愉快交友 10.752941250801090.7529412508010967", -- [25]
-			"1543144386|cff68ccef|H163chat|h19:13:06|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:唯恐天下不:1838:CHANNEL:1|h[|cffff7c0a唯恐天下不|r]|h： .安.稳.1一 满级.来.M10.752941250801090.7529412508010967", -- [26]
-			"1543144388|cff68ccef|H163chat|h19:13:08|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:买装超级快速:1839:CHANNEL:1|h[|cffff7c0a买装超级快速|r]|h： H / M|cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r 1：：：8.10.752941250801090.7529412508010967", -- [27]
-			"1543144390|cff68ccef|H163chat|h19:13:10|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:黑色年华:1841:CHANNEL:1|h[|cffaad372黑色年华|r]|h： 《为戰》公会,开荒M4全天公修，  招收稳定 武僧T 奶D SS FS及其他优秀DPS和治疗，活动时间4567 晚8-1110.752941250801090.7529412508010967", -- [28]
-			"1543144391|cff68ccef|H163chat|h19:13:11|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:雷霆纵横:1842:CHANNEL:1|h[|cffc41e3a雷霆纵横|r]|h：  1---120--速.成..M.10.752941250801090.7529412508010967", -- [29]
-			"1543144391|cff68ccef|H163chat|h19:13:11|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:雷霆纵横:1843:CHANNEL:1|h[|cffc41e3a雷霆纵横|r]|h：  1---120--速.成..M..10.752941250801090.7529412508010967", -- [30]
+			"1546104626|cff68ccef|H163chat|h01:30:26|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [1]
+			"1546104627|cff68ccef|H163chat|h01:30:27|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [2]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [3]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [4]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [5]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [6]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [7]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [8]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [9]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 可发送的信息数量受限，请稍候再发送下一条信息。1101", -- [10]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 可发送的信息数量受限，请稍候再发送下一条信息。1101", -- [11]
+			"1546104636|cff68ccef|H163chat|h01:30:36|h|r 可发送的信息数量受限，请稍候再发送下一条信息。1101", -- [12]
+			"1546104646|cff68ccef|H163chat|h01:30:46|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [13]
+			"1546104646|cff68ccef|H163chat|h01:30:46|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [14]
+			"1546104646|cff68ccef|H163chat|h01:30:46|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [15]
+			"1546104646|cff68ccef|H163chat|h01:30:46|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [16]
+			"1546104646|cff68ccef|H163chat|h01:30:46|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [17]
+			"1546104646|cff68ccef|H163chat|h01:30:46|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [18]
+			"1546104658|cff68ccef|H163chat|h01:30:58|h|r 发送给|HBNplayer:|Kq16|k:17:238:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 爸爸吧010.9647059440612853", -- [19]
+			"1546104662|cff68ccef|H163chat|h01:31:02|h|r 发送给|HBNplayer:|Kq16|k:17:241:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 爸爸爸爸010.9647059440612853", -- [20]
+			"1546104670|cff68ccef|H163chat|h01:31:10|h|r 发送给|HBNplayer:|Kq16|k:17:245:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： hello010.9647059440612853", -- [21]
+			"1546104742|cff68ccef|H163chat|h01:32:22|h|r 你学会新的法术：|cff71d5ff|Hspell:197995:0|h[奔涌之流]|h|r1101", -- [22]
+			"1546104759|cff68ccef|H163chat|h01:32:39|h|r 发送给|HBNplayer:|Kq16|k:17:293:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 爸比010.9647059440612853", -- [23]
+			"1546104762|cff68ccef|H163chat|h01:32:42|h|r 发送给|HBNplayer:|Kq16|k:17:296:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 在吗010.9647059440612853", -- [24]
+			"1546104765|cff68ccef|H163chat|h01:32:45|h|r 发送给|HBNplayer:|Kq16|k:17:298:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 爸比010.9647059440612853", -- [25]
+			"1546104776|cff68ccef|H163chat|h01:32:56|h|r 发送给|HBNplayer:|Kq16|k:17:304:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 爸比010.9647059440612853", -- [26]
+			"1546104799|cff68ccef|H163chat|h01:33:19|h|r 发送给|HBNplayer:|Kq16|k:17:314:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 。。。010.9647059440612853", -- [27]
+			"1546104835|cff68ccef|H163chat|h01:33:55|h|r 未找到名为“你喵的-末日行者”的在线玩家。1101", -- [28]
+			"1546104843|cff68ccef|H163chat|h01:34:03|h|r 发送给|HBNplayer:|Kq16|k:17:316:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 爸比我错了010.9647059440612853", -- [29]
+			"1546104847|cff68ccef|H163chat|h01:34:07|h|r 发送给|HBNplayer:|Kq16|k:17:317:BN_WHISPER:|Kq16|k|h[|Kq16|k]|h： 爸比爱我010.9647059440612853", -- [30]
+		}, -- [1]
+		nil, -- [2]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [3]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [4]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [5]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [6]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [7]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [8]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [9]
+		{
+			false, -- [1]
+			false, -- [2]
+			false, -- [3]
+			false, -- [4]
+			false, -- [5]
+			false, -- [6]
+			false, -- [7]
+			false, -- [8]
+			false, -- [9]
+			false, -- [10]
+			false, -- [11]
+			false, -- [12]
+			false, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			false, -- [18]
+			false, -- [19]
+			false, -- [20]
+			false, -- [21]
+			false, -- [22]
+			false, -- [23]
+			false, -- [24]
+			false, -- [25]
+			false, -- [26]
+			false, -- [27]
+			false, -- [28]
+			false, -- [29]
+			false, -- [30]
+		}, -- [10]
+	},
+	["末日行者-魔王降临丶"] = {
+		{
+			"1537443724|cff68ccef|H163chat|h19:42:04|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:低头丶浅笑-末日行者:325:CHANNEL:4|h[|cfffff468低头丶浅笑|r]|h： H |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r  1-8   晚上7点 MMMMMMMMMMMMM10.752941250801090.7529412508010970", -- [1]
+			"1537443725|cff68ccef|H163chat|h19:42:05|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:我只是龙套-末日行者:326:CHANNEL:4|h[|cffaad372我只是龙套|r]|h： 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 10.752941250801090.7529412508010970", -- [2]
+			"1537443725|cff68ccef|H163chat|h19:42:05|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:诸神熊猫-末日行者:327:CHANNEL:4|h[|cff00ff96诸神熊猫|r]|h： 诸神的辉煌招收 猎人 法师  术士 贼 战士 ms 活动时间412 ，8点到11点有意者密10.752941250801090.7529412508010970", -- [3]
+			"1537443727|cff68ccef|H163chat|h19:42:07|h|r 战痕命运印记：荣誉奖章完成。1101", -- [4]
+			"1537443728|cff68ccef|H163chat|h19:42:08|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:武大郎丶狂-末日行者:329:CHANNEL:4|h[|cff00ff96武大郎丶狂|r]|h： H |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r 1-8   晚上7点MMMMMMMM10.752941250801090.7529412508010970", -- [5]
+			"1537443728|cff68ccef|H163chat|h19:42:08|h|r 你获得了：|cffffffff|Hcurrency:1580:0|h[战痕命运印记]|h|r x1。00.66666668653488059", -- [6]
+			"1537443729|cff68ccef|H163chat|h19:42:09|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:南羅病猫:331:CHANNEL:4|h[|cff00ff96南羅病猫|r]|h：  <悟 空>公会招新，公会主打PVE，招收稳定各职业玩家，活动时间7.30-11.00，急缺T，治疗，有意者请联系，打本时候不秒回，见谅10.752941250801090.7529412508010970", -- [7]
+			"1537443731|cff68ccef|H163chat|h19:42:11|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:暴走小仙女-末日行者:332:CHANNEL:4|h[|cffff7c0a暴走小仙女|r]|h： [奥迪尔]_ H1-7-8 --要的--MM10.752941250801090.7529412508010970", -- [8]
+			"1537443732|cff68ccef|H163chat|h19:42:12|h|r 战痕命运印记：金币完成。1101", -- [9]
+			"1537443733|cff68ccef|H163chat|h19:42:13|h|r 你获得了：|cffffffff|Hcurrency:1580:0|h[战痕命运印记]|h|r x1。00.66666668653488059", -- [10]
+			"1537443733|cff68ccef|H163chat|h19:42:13|h|r |Hchannel:RAID|h[团队]|h |Hplayer:隋右边-末日行者:337:RAID:|h[|cffc69b6d隋右边|r]|h： ALL IN的战士都那么B的吗 一个重组整列的都没有10.4980392456054704", -- [11]
+			"1537443735|cff68ccef|H163chat|h19:42:15|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:萨德斯安安-末日行者:338:CHANNEL:4|h[|cffff7c0a萨德斯安安|r]|h： 奥迪尔 英雄 普通 要的MMM10.752941250801090.7529412508010970", -- [12]
+			"1537443735|cff68ccef|H163chat|h19:42:15|h|r |Hchannel:channel:2|h[2. 交易 - 城市]|h |Hplayer:Bnghhyio-末日行者:340:CHANNEL:2|h[|cffffffffBnghhyio|r]|h： 接  О  -  l2О . . M...10.752941250801090.7529412508010968", -- [13]
+			"1537443735|cff68ccef|H163chat|h19:42:15|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:青青女神-末日行者:341:CHANNEL:4|h[|cffff7c0a青青女神|r]|h： 奥迪尔 英雄 普通 要的MMM10.752941250801090.7529412508010970", -- [14]
+			"1537443736|cff68ccef|H163chat|h19:42:16|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:娇纵小可爱-末日行者:342:CHANNEL:4|h[|cffff7c0a娇纵小可爱|r]|h： [奥迪尔]_ H1-7-8 --要的--MMMM10.752941250801090.7529412508010970", -- [15]
+			"1537443736|cff68ccef|H163chat|h19:42:16|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:荒灬-末日行者:343:CHANNEL:4|h[|cfffff468荒灬|r]|h： H~~~~ 奥迪尔1====8~~~~~晚上7 点 10.752941250801090.7529412508010970", -- [16]
+			"1537443738|cff68ccef|H163chat|h19:42:18|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:低头丶坏笑-末日行者:345:CHANNEL:4|h[|cffaad372低头丶坏笑|r]|h： H |cff66bbff|Hjournal:0:1031:16|h[奥迪尔]|h|r 1-8   晚上7点   MMMMMMM10.752941250801090.7529412508010970", -- [17]
+			"1537443738|cff68ccef|H163chat|h19:42:18|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:此女子很萌-末日行者:346:CHANNEL:4|h[|cff3fc6ea此女子很萌|r]|h：   H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r ..1...7...8   需/的...密...10.752941250801090.7529412508010970", -- [18]
+			"1537443739|cff68ccef|H163chat|h19:42:19|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:诗与灬远方-末日行者:347:CHANNEL:4|h[|cff0070dd诗与灬远方|r]|h：  晚  7  点， H  1 - 810.752941250801090.7529412508010970", -- [19]
+			"1537443743|cff68ccef|H163chat|h19:42:23|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:小花丶念-末日行者:351:CHANNEL:4|h[|cff00ff96小花丶念|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [20]
+			"1537443743|cff68ccef|H163chat|h19:42:23|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:小花丶梦-末日行者:353:CHANNEL:4|h[|cffffffff小花丶梦|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [21]
+			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:低调地冲锋-末日行者:354:CHANNEL:4|h[|cffc69b6d低调地冲锋|r]|h：  星光龍 无敵 飞机头 火鷹 凤&凰 怒之煞  季鹍 炮舰 午夜 魔钢   ++++bao----chu10.752941250801090.7529412508010970", -- [22]
+			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:根根哥-末日行者:355:CHANNEL:4|h[|cfff48cba根根哥|r]|h： |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t<<满满的回忆>>|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t老司机,新回归.上班族休闲工会,进度方面:不冲不落后.双休日团本,平时大米.欢迎各位怪叔叔,坏萝莉！各种奶爸奶妈10.752941250801090.7529412508010970", -- [23]
+			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:吊丝团团长-末日行者:356:CHANNEL:4|h[|cffc69b6d吊丝团团长|r]|h： 英雄 奥迪尔 有坑 来 10.752941250801090.7529412508010970", -- [24]
+			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:吊丝团团长-末日行者:357:CHANNEL:4|h[|cffc69b6d吊丝团团长|r]|h： 英雄   奥   迪   尔   有  坑 来10.752941250801090.7529412508010970", -- [25]
+			"1537443745|cff68ccef|H163chat|h19:42:25|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:七朵小仙女丶-末日行者:358:CHANNEL:4|h[|cffffffff七朵小仙女丶|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [26]
+			"1537443745|cff68ccef|H163chat|h19:42:25|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:八朵小花飘丶-末日行者:359:CHANNEL:4|h[|cff8787ed八朵小花飘丶|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [27]
+			"1537443745|cff68ccef|H163chat|h19:42:25|h|r |Hchannel:RAID|h[团队]|h |Hplayer:白露级四番舰-末日行者:360:RAID:|h[|cfff48cba白露级四番舰|r]|h： 战吊10.4980392456054704", -- [28]
+			"1537443747|cff68ccef|H163chat|h19:42:27|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:夜色丶流-末日行者:362:CHANNEL:4|h[|cffa330c9夜色丶流|r]|h： [澳 迪 尔】...Ｈ...  1 - 8.....大米 10层  M M 10.752941250801090.7529412508010970", -- [29]
+			"1537443748|cff68ccef|H163chat|h19:42:28|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:虎越万重山-末日行者:365:CHANNEL:4|h[|cfffff468虎越万重山|r]|h： H |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r  .. 1  -  8 .....  M   M10.752941250801090.7529412508010970", -- [30]
 		}, -- [1]
 		nil, -- [2]
 		{
@@ -4031,38 +4472,38 @@ _163UI_ChatHistoryBacklogDB = {
 			false, -- [30]
 		}, -- [10]
 	},
-	["末日行者-魔王降临丶"] = {
+	["末日行者-陈粒"] = {
 		{
-			"1537443724|cff68ccef|H163chat|h19:42:04|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:低头丶浅笑-末日行者:325:CHANNEL:4|h[|cfffff468低头丶浅笑|r]|h： H |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r  1-8   晚上7点 MMMMMMMMMMMMM10.752941250801090.7529412508010970", -- [1]
-			"1537443725|cff68ccef|H163chat|h19:42:05|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:我只是龙套-末日行者:326:CHANNEL:4|h[|cffaad372我只是龙套|r]|h： 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 3层风暴来个t4=1 10.752941250801090.7529412508010970", -- [2]
-			"1537443725|cff68ccef|H163chat|h19:42:05|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:诸神熊猫-末日行者:327:CHANNEL:4|h[|cff00ff96诸神熊猫|r]|h： 诸神的辉煌招收 猎人 法师  术士 贼 战士 ms 活动时间412 ，8点到11点有意者密10.752941250801090.7529412508010970", -- [3]
-			"1537443727|cff68ccef|H163chat|h19:42:07|h|r 战痕命运印记：荣誉奖章完成。1101", -- [4]
-			"1537443728|cff68ccef|H163chat|h19:42:08|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:武大郎丶狂-末日行者:329:CHANNEL:4|h[|cff00ff96武大郎丶狂|r]|h： H |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r 1-8   晚上7点MMMMMMMM10.752941250801090.7529412508010970", -- [5]
-			"1537443728|cff68ccef|H163chat|h19:42:08|h|r 你获得了：|cffffffff|Hcurrency:1580:0|h[战痕命运印记]|h|r x1。00.66666668653488059", -- [6]
-			"1537443729|cff68ccef|H163chat|h19:42:09|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:南羅病猫:331:CHANNEL:4|h[|cff00ff96南羅病猫|r]|h：  <悟 空>公会招新，公会主打PVE，招收稳定各职业玩家，活动时间7.30-11.00，急缺T，治疗，有意者请联系，打本时候不秒回，见谅10.752941250801090.7529412508010970", -- [7]
-			"1537443731|cff68ccef|H163chat|h19:42:11|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:暴走小仙女-末日行者:332:CHANNEL:4|h[|cffff7c0a暴走小仙女|r]|h： [奥迪尔]_ H1-7-8 --要的--MM10.752941250801090.7529412508010970", -- [8]
-			"1537443732|cff68ccef|H163chat|h19:42:12|h|r 战痕命运印记：金币完成。1101", -- [9]
-			"1537443733|cff68ccef|H163chat|h19:42:13|h|r 你获得了：|cffffffff|Hcurrency:1580:0|h[战痕命运印记]|h|r x1。00.66666668653488059", -- [10]
-			"1537443733|cff68ccef|H163chat|h19:42:13|h|r |Hchannel:RAID|h[团队]|h |Hplayer:隋右边-末日行者:337:RAID:|h[|cffc69b6d隋右边|r]|h： ALL IN的战士都那么B的吗 一个重组整列的都没有10.4980392456054704", -- [11]
-			"1537443735|cff68ccef|H163chat|h19:42:15|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:萨德斯安安-末日行者:338:CHANNEL:4|h[|cffff7c0a萨德斯安安|r]|h： 奥迪尔 英雄 普通 要的MMM10.752941250801090.7529412508010970", -- [12]
-			"1537443735|cff68ccef|H163chat|h19:42:15|h|r |Hchannel:channel:2|h[2. 交易 - 城市]|h |Hplayer:Bnghhyio-末日行者:340:CHANNEL:2|h[|cffffffffBnghhyio|r]|h： 接  О  -  l2О . . M...10.752941250801090.7529412508010968", -- [13]
-			"1537443735|cff68ccef|H163chat|h19:42:15|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:青青女神-末日行者:341:CHANNEL:4|h[|cffff7c0a青青女神|r]|h： 奥迪尔 英雄 普通 要的MMM10.752941250801090.7529412508010970", -- [14]
-			"1537443736|cff68ccef|H163chat|h19:42:16|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:娇纵小可爱-末日行者:342:CHANNEL:4|h[|cffff7c0a娇纵小可爱|r]|h： [奥迪尔]_ H1-7-8 --要的--MMMM10.752941250801090.7529412508010970", -- [15]
-			"1537443736|cff68ccef|H163chat|h19:42:16|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:荒灬-末日行者:343:CHANNEL:4|h[|cfffff468荒灬|r]|h： H~~~~ 奥迪尔1====8~~~~~晚上7 点 10.752941250801090.7529412508010970", -- [16]
-			"1537443738|cff68ccef|H163chat|h19:42:18|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:低头丶坏笑-末日行者:345:CHANNEL:4|h[|cffaad372低头丶坏笑|r]|h： H |cff66bbff|Hjournal:0:1031:16|h[奥迪尔]|h|r 1-8   晚上7点   MMMMMMM10.752941250801090.7529412508010970", -- [17]
-			"1537443738|cff68ccef|H163chat|h19:42:18|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:此女子很萌-末日行者:346:CHANNEL:4|h[|cff3fc6ea此女子很萌|r]|h：   H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r ..1...7...8   需/的...密...10.752941250801090.7529412508010970", -- [18]
-			"1537443739|cff68ccef|H163chat|h19:42:19|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:诗与灬远方-末日行者:347:CHANNEL:4|h[|cff0070dd诗与灬远方|r]|h：  晚  7  点， H  1 - 810.752941250801090.7529412508010970", -- [19]
-			"1537443743|cff68ccef|H163chat|h19:42:23|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:小花丶念-末日行者:351:CHANNEL:4|h[|cff00ff96小花丶念|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [20]
-			"1537443743|cff68ccef|H163chat|h19:42:23|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:小花丶梦-末日行者:353:CHANNEL:4|h[|cffffffff小花丶梦|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [21]
-			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:低调地冲锋-末日行者:354:CHANNEL:4|h[|cffc69b6d低调地冲锋|r]|h：  星光龍 无敵 飞机头 火鷹 凤&凰 怒之煞  季鹍 炮舰 午夜 魔钢   ++++bao----chu10.752941250801090.7529412508010970", -- [22]
-			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:根根哥-末日行者:355:CHANNEL:4|h[|cfff48cba根根哥|r]|h： |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t<<满满的回忆>>|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t老司机,新回归.上班族休闲工会,进度方面:不冲不落后.双休日团本,平时大米.欢迎各位怪叔叔,坏萝莉！各种奶爸奶妈10.752941250801090.7529412508010970", -- [23]
-			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:吊丝团团长-末日行者:356:CHANNEL:4|h[|cffc69b6d吊丝团团长|r]|h： 英雄 奥迪尔 有坑 来 10.752941250801090.7529412508010970", -- [24]
-			"1537443744|cff68ccef|H163chat|h19:42:24|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:吊丝团团长-末日行者:357:CHANNEL:4|h[|cffc69b6d吊丝团团长|r]|h： 英雄   奥   迪   尔   有  坑 来10.752941250801090.7529412508010970", -- [25]
-			"1537443745|cff68ccef|H163chat|h19:42:25|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:七朵小仙女丶-末日行者:358:CHANNEL:4|h[|cffffffff七朵小仙女丶|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [26]
-			"1537443745|cff68ccef|H163chat|h19:42:25|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:八朵小花飘丶-末日行者:359:CHANNEL:4|h[|cff8787ed八朵小花飘丶|r]|h：   |TInterface\\AddOns\\DuowanChat\\icon\\heart.tga:18.0|t 【 澳 迪 尓 】-----------【 1--8 】----【 来 賣 德 】10.752941250801090.7529412508010970", -- [27]
-			"1537443745|cff68ccef|H163chat|h19:42:25|h|r |Hchannel:RAID|h[团队]|h |Hplayer:白露级四番舰-末日行者:360:RAID:|h[|cfff48cba白露级四番舰|r]|h： 战吊10.4980392456054704", -- [28]
-			"1537443747|cff68ccef|H163chat|h19:42:27|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:夜色丶流-末日行者:362:CHANNEL:4|h[|cffa330c9夜色丶流|r]|h： [澳 迪 尔】...Ｈ...  1 - 8.....大米 10层  M M 10.752941250801090.7529412508010970", -- [29]
-			"1537443748|cff68ccef|H163chat|h19:42:28|h|r |Hchannel:channel:4|h[4. 世界]|h |Hplayer:虎越万重山-末日行者:365:CHANNEL:4|h[|cfffff468虎越万重山|r]|h： H |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r  .. 1  -  8 .....  M   M10.752941250801090.7529412508010970", -- [30]
+			"1543144360|cff68ccef|H163chat|h19:12:40|h|r 你加入了一个团队。|cffff2020（在团队中时，大部分非团队任务将无法完成。）|r1101", -- [1]
+			"1543144360|cff68ccef|H163chat|h19:12:40|h|r 团队副本难度设置为英雄。1101", -- [2]
+			"1543144360|cff68ccef|H163chat|h19:12:40|h|r 已将经典旧世团队副本难度设置为25人（英雄）。1101", -- [3]
+			"1543144360|cff68ccef|H163chat|h19:12:40|h|r |cffcd1a1c【爱不易】|r- 延迟加载 - 正在载入插件, 剩余 |cff00ff0047|r1111", -- [4]
+			"1543144361|cff68ccef|H163chat|h19:12:41|h|r |cffcd1a1c【爱不易】|r- 延迟加载 - 正在载入插件, 剩余 |cff00ff0031|r1111", -- [5]
+			"1543144361|cff68ccef|H163chat|h19:12:41|h|r |cffcd1a1c【爱不易】|r- 延迟加载 - 正在载入插件, 剩余 |cff00ff0015|r1111", -- [6]
+			"1543144362|cff68ccef|H163chat|h19:12:42|h|r |cffcd1a1c【爱不易】|r- 全部插件加载完毕。1111", -- [7]
+			"1543144363|cff68ccef|H163chat|h19:12:43|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:心若有情:1820:CHANNEL:1|h[|cfff48cba心若有情|r]|h： H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r 舒 ：心 1 ：：：8 ~ 10.752941250801090.7529412508010967", -- [8]
+			"1543144366|cff68ccef|H163chat|h19:12:46|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:个人躺尸速推:1821:CHANNEL:1|h[|cffff7c0a个人躺尸速推|r]|h： H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r ........10.752941250801090.7529412508010967", -- [9]
+			"1543144367|cff68ccef|H163chat|h19:12:47|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:辣酱小年糕:1822:CHANNEL:1|h[|cfff48cba辣酱小年糕|r]|h： -光之边缘-公会开荒M奥迪尔，活动时间周67两天晚上8-11点，现招募稳定开荒操作意识俱佳的玩家，不喜浪费时间的M，不强制入会10.752941250801090.7529412508010967", -- [10]
+			"1543144368|cff68ccef|H163chat|h19:12:48|h|r |Hchannel:channel:4|h[4. 交易 - 城市]|h |Hplayer:其疾如行:1823:CHANNEL:4|h[|cff00ff96其疾如行|r]|h： - 1 0  。大.米 .马 .上 . 打.,10.752941250801090.7529412508010970", -- [11]
+			"1543144369|cff68ccef|H163chat|h19:12:49|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:孤独安静死亡:1824:CHANNEL:1|h[|cff0070dd孤独安静死亡|r]|h： 公会团开荒奥迪尔M4，招能稳定参加活动375+DZ,FS,LR,CJQ，活动所需团队提供，活动时间周1 2 4 5，19：30~23：00~10.752941250801090.7529412508010967", -- [12]
+			"1543144370|cff68ccef|H163chat|h19:12:50|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:摸装小红手:1825:CHANNEL:1|h[|cffffffff摸装小红手|r]|h： H  |cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r放``心```1````810.752941250801090.7529412508010967", -- [13]
+			"1543144372|cff68ccef|H163chat|h19:12:52|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:消费选我呀:1826:CHANNEL:1|h[|cffffffff消费选我呀|r]|h： H  |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r放``心```1````810.752941250801090.7529412508010967", -- [14]
+			"1543144374|cff68ccef|H163chat|h19:12:54|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Rthgfghfhfgh:1827:CHANNEL:1|h[|cffaad372Rthgfghfhfgh|r]|h： |TInterface\\AddOns\\DuowanChat\\icon\\shout.tga:18.0|t M..1..8.. 10.752941250801090.7529412508010967", -- [15]
+			"1543144376|cff68ccef|H163chat|h19:12:56|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:阿根哥哥:1828:CHANNEL:1|h[|cff3fc6ea阿根哥哥|r]|h： |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t<<满满的回忆>>|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_6:0|t老司机,新回归.上班族休闲工会,进度方面:不冲不落后.欢迎各位怪叔叔,坏萝莉！各种奶爸奶妈.10.752941250801090.7529412508010967", -- [16]
+			"1543144377|cff68ccef|H163chat|h19:12:57|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:消费来找我丶:1829:CHANNEL:1|h[|cffff7c0a消费来找我丶|r]|h：   H |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r  ******10.752941250801090.7529412508010967", -- [17]
+			"1543144378|cff68ccef|H163chat|h19:12:58|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:Jhtghjgfhfgf:1830:CHANNEL:1|h[|cffc41e3aJhtghjgfhfgf|r]|h： |cffffff00|Hachievement:10149:Player-707-04B57698:1:9:8:18:4294967295:4294967295:4294967295:4294967295|h[地狱火团队的荣耀]|h|r|cff71d5ff|Hspell:186305:0|h[地火恐狼]|h|r全做，随便来 ，  免，、费10.752941250801090.7529412508010967", -- [18]
+			"1543144379|cff68ccef|H163chat|h19:12:59|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:这里优惠多:1831:CHANNEL:1|h[|cff00ff96这里优惠多|r]|h： H  |cff66bbff|Hjournal:0:1031:15|h[奥迪尔]|h|r放``心```1````810.752941250801090.7529412508010967", -- [19]
+			"1543144380|cff68ccef|H163chat|h19:13:00|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:本末倒置丶:1832:CHANNEL:1|h[|cffc41e3a本末倒置丶|r]|h： 出-96.-w.GG金--.甩G--/M... 10.752941250801090.7529412508010967", -- [20]
+			"1543144380|cff68ccef|H163chat|h19:13:00|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:本末倒置丶:1833:CHANNEL:1|h[|cffc41e3a本末倒置丶|r]|h： 出-96.G-w.GG-金-.甩--G--/M...10.752941250801090.7529412508010967", -- [21]
+			"1543144382|cff68ccef|H163chat|h19:13:02|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:狂傲与共:1834:CHANNEL:1|h[|cffc41e3a狂傲与共|r]|h：  /—./20.速。来.M10.752941250801090.7529412508010967", -- [22]
+			"1543144382|cff68ccef|H163chat|h19:13:02|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:狂傲与共:1835:CHANNEL:1|h[|cffc41e3a狂傲与共|r]|h： 《 /—./20.速。来.M10.752941250801090.7529412508010967", -- [23]
+			"1543144384|cff68ccef|H163chat|h19:13:04|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:蜀黍你好坏:1836:CHANNEL:1|h[|cffc41e3a蜀黍你好坏|r]|h： |cffa335ee|Hkeystone:158923:247:12:9:7:12:16|h[钥石：暴富矿区！！ (12)]|h|r2W,来人370+.10.752941250801090.7529412508010967", -- [24]
+			"1543144386|cff68ccef|H163chat|h19:13:06|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:灬艾瑞莉娅丶:1837:CHANNEL:1|h[|cffa330c9灬艾瑞莉娅丶|r]|h：  <<九州>> 公会收人 欢迎喜欢大秘境的休闲玩家 和团本玩家M4进度 M进度团招收各种强力DPS活动时周471期待你的加入 轻松游戏愉快交友 10.752941250801090.7529412508010967", -- [25]
+			"1543144386|cff68ccef|H163chat|h19:13:06|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:唯恐天下不:1838:CHANNEL:1|h[|cffff7c0a唯恐天下不|r]|h： .安.稳.1一 满级.来.M10.752941250801090.7529412508010967", -- [26]
+			"1543144388|cff68ccef|H163chat|h19:13:08|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:买装超级快速:1839:CHANNEL:1|h[|cffff7c0a买装超级快速|r]|h： H / M|cff66bbff|Hjournal:0:1031:14|h[奥迪尔]|h|r 1：：：8.10.752941250801090.7529412508010967", -- [27]
+			"1543144390|cff68ccef|H163chat|h19:13:10|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:黑色年华:1841:CHANNEL:1|h[|cffaad372黑色年华|r]|h： 《为戰》公会,开荒M4全天公修，  招收稳定 武僧T 奶D SS FS及其他优秀DPS和治疗，活动时间4567 晚8-1110.752941250801090.7529412508010967", -- [28]
+			"1543144391|cff68ccef|H163chat|h19:13:11|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:雷霆纵横:1842:CHANNEL:1|h[|cffc41e3a雷霆纵横|r]|h：  1---120--速.成..M.10.752941250801090.7529412508010967", -- [29]
+			"1543144391|cff68ccef|H163chat|h19:13:11|h|r |Hchannel:channel:1|h[1. 世界]|h |Hplayer:雷霆纵横:1843:CHANNEL:1|h[|cffc41e3a雷霆纵横|r]|h：  1---120--速.成..M..10.752941250801090.7529412508010967", -- [30]
 		}, -- [1]
 		nil, -- [2]
 		{

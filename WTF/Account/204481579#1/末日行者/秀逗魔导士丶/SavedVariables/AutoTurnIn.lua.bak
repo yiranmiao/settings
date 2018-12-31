@@ -13,15 +13,15 @@ AutoTurnInCharacterDB = {
 	["autoequip"] = false,
 	["armor"] = {
 	},
-	["relictoggle"] = true,
 	["darkmoonautostart"] = true,
+	["relictoggle"] = true,
 	["darkmoonteleport"] = true,
 	["artifactpowertoggle"] = true,
 	["stat"] = {
 	},
 	["debug"] = false,
-	["tournament"] = 2,
 	["version"] = "7.0.9",
+	["tournament"] = 2,
 	["lootreward"] = 1,
 	["all"] = 1,
 	["trivial"] = false,

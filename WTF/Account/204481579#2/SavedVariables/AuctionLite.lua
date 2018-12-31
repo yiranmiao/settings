@@ -1,5 +1,14 @@
 
 AuctionLiteDB = {
+	["profiles"] = {
+		["Default"] = {
+			["lastTab"] = 4,
+		},
+	},
+	["profileKeys"] = {
+		["丶理想三旬 - 末日行者"] = "Default",
+		["喵阿喵丶 - 末日行者"] = "Default",
+	},
 	["factionrealm"] = {
 		["Alliance - 末日行者"] = {
 			["prices"] = {
@@ -18,14 +27,6 @@ AuctionLiteDB = {
 					["listings"] = 250.120310529663,
 				},
 			},
-		},
-	},
-	["profileKeys"] = {
-		["丶理想三旬 - 末日行者"] = "Default",
-	},
-	["profiles"] = {
-		["Default"] = {
-			["lastTab"] = 4,
 		},
 	},
 }

@@ -1,3 +1,6 @@
+VER 3 0100000000000002 "as" "538745"
+/w 你喵的-末日行者 爸爸
+END
 VER 3 0100000000000001 "恶魔" "INV_MISC_QUESTIONMARK"
 /cast 恶魔变形
 /cancle 恶魔变形

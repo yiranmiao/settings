@@ -2,17 +2,10 @@
 ChocolateBarDB = {
 	["profileKeys"] = {
 		["丶理想三旬 - 末日行者"] = "Default",
+		["喵阿喵丶 - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
-			["moduleOptions"] = {
-				["Placeholder"] = {
-					["placeholderNames"] = {
-					},
-				},
-				["MoreChocolate"] = {
-				},
-			},
 			["objSettings"] = {
 				["163UI_TeamStats"] = {
 					["showText"] = false,
@@ -32,10 +25,8 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["TidyPlatesIcon"] = {
-					["showText"] = false,
+				["LDB_WhisperPop"] = {
 					["barName"] = "ChocolateBar1",
-					["align"] = "right",
 				},
 				["世界战场时间"] = {
 					["barName"] = "ChocolateBar1",
@@ -43,7 +34,7 @@ ChocolateBarDB = {
 				["邮件提示"] = {
 					["barName"] = "ChocolateBar1",
 				},
-				["ExRT"] = {
+				["BagnonLauncher"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
@@ -60,12 +51,14 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 				},
 				["163_Clock"] = {
+					["index"] = -1,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
-					["index"] = -1,
 				},
-				["Broker_Equipment"] = {
+				["ExRT"] = {
+					["showText"] = false,
 					["barName"] = "ChocolateBar1",
+					["align"] = "right",
 				},
 				["Broker_DurabilityInfo"] = {
 					["barName"] = "ChocolateBar1",
@@ -104,16 +97,24 @@ ChocolateBarDB = {
 				["AutoTurnIn"] = {
 					["barName"] = "ChocolateBar1",
 				},
-				["BagnonLauncher"] = {
+				["Broker_Equipment"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["TidyPlatesIcon"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["LDB_WhisperPop"] = {
-					["barName"] = "ChocolateBar1",
-				},
 			},
 			["fixedStrata"] = true,
+			["moduleOptions"] = {
+				["MoreChocolate"] = {
+				},
+				["Placeholder"] = {
+					["placeholderNames"] = {
+					},
+				},
+			},
 		},
 	},
 }

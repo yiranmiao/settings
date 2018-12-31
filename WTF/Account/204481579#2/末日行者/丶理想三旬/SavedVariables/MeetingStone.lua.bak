@@ -8,9 +8,7 @@ MEETINGSTONE_CHARACTER_DB = {
 			["createHistoryList"] = {
 				"2-146-659-0", -- [1]
 			},
-			["searchHistoryList"] = {
-				"6-0-0-0", -- [1]
-			},
+			["lastSearchCode"] = "6-0-0-0",
 			["version"] = "80100.01",
 			["settings"] = {
 				["storage"] = {
@@ -18,6 +16,9 @@ MEETINGSTONE_CHARACTER_DB = {
 					["x"] = -3.97470092773438,
 					["scale"] = 1,
 				},
+			},
+			["searchHistoryList"] = {
+				"6-0-0-0", -- [1]
 			},
 			["recent"] = {
 				["3-135-496-0"] = {
@@ -1934,46 +1935,6 @@ MEETINGSTONE_CHARACTER_DB = {
 						["class"] = 8,
 					}, -- [8]
 				},
-				["2-146-659-0"] = {
-					{
-						["role"] = "DAMAGER",
-						["name"] = "誓言丷-末日行者",
-						["iLvl"] = 388,
-						["time"] = 1545221067,
-						["class"] = 12,
-						["bTag"] = "别二好吗#5352",
-					}, -- [1]
-					{
-						["role"] = "DAMAGER",
-						["name"] = "神火槍波波-杜隆坦",
-						["iLvl"] = 381,
-						["time"] = 1545220916,
-						["class"] = 3,
-						["bTag"] = "神火枪波波#5380",
-					}, -- [2]
-					{
-						["role"] = "DAMAGER",
-						["name"] = "忧郁的伤痕-国王之谷",
-						["time"] = 1545221067,
-						["class"] = 8,
-					}, -- [3]
-					{
-						["role"] = "HEALER",
-						["name"] = "Freezen-羽月",
-						["iLvl"] = 384,
-						["time"] = 1545221067,
-						["class"] = 7,
-						["bTag"] = "Freezen1010#5248",
-					}, -- [4]
-					{
-						["role"] = "DAMAGER",
-						["name"] = "郭森斯坦哒-熊猫酒仙",
-						["iLvl"] = 387,
-						["time"] = 1545221067,
-						["class"] = 9,
-						["bTag"] = "ShadowKey#51514",
-					}, -- [5]
-				},
 				["3-0-657-0"] = {
 					{
 						["role"] = "HEALER",
@@ -2325,6 +2286,23 @@ MEETINGSTONE_CHARACTER_DB = {
 						["class"] = 12,
 					}, -- [46]
 				},
+				["1-248-651-0"] = {
+					{
+						["role"] = "DAMAGER",
+						["name"] = "猎手归来-末日行者",
+						["iLvl"] = 384,
+						["time"] = 1544957876,
+						["class"] = 3,
+						["leader"] = true,
+						["bTag"] = "NoBed#5405",
+					}, -- [1]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "这把刀有毒-格瑞姆巴托",
+						["time"] = 1544957876,
+						["class"] = 4,
+					}, -- [2]
+				},
 				["1-248-652-0"] = {
 					{
 						["role"] = "HEALER",
@@ -2551,25 +2529,47 @@ MEETINGSTONE_CHARACTER_DB = {
 						["class"] = 5,
 					}, -- [26]
 				},
-				["1-248-651-0"] = {
+				["2-146-659-0"] = {
 					{
 						["role"] = "DAMAGER",
-						["name"] = "猎手归来-末日行者",
-						["iLvl"] = 384,
-						["time"] = 1544957876,
-						["class"] = 3,
-						["leader"] = true,
-						["bTag"] = "NoBed#5405",
+						["name"] = "誓言丷-末日行者",
+						["iLvl"] = 388,
+						["time"] = 1545221067,
+						["class"] = 12,
+						["bTag"] = "别二好吗#5352",
 					}, -- [1]
 					{
 						["role"] = "DAMAGER",
-						["name"] = "这把刀有毒-格瑞姆巴托",
-						["time"] = 1544957876,
-						["class"] = 4,
+						["name"] = "神火槍波波-杜隆坦",
+						["iLvl"] = 381,
+						["time"] = 1545220916,
+						["class"] = 3,
+						["bTag"] = "神火枪波波#5380",
 					}, -- [2]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "忧郁的伤痕-国王之谷",
+						["time"] = 1545221067,
+						["class"] = 8,
+					}, -- [3]
+					{
+						["role"] = "HEALER",
+						["name"] = "Freezen-羽月",
+						["iLvl"] = 384,
+						["time"] = 1545221067,
+						["class"] = 7,
+						["bTag"] = "Freezen1010#5248",
+					}, -- [4]
+					{
+						["role"] = "DAMAGER",
+						["name"] = "郭森斯坦哒-熊猫酒仙",
+						["iLvl"] = 387,
+						["time"] = 1545221067,
+						["class"] = 9,
+						["bTag"] = "ShadowKey#51514",
+					}, -- [5]
 				},
 			},
-			["lastSearchCode"] = "6-0-0-0",
 		},
 	},
 }

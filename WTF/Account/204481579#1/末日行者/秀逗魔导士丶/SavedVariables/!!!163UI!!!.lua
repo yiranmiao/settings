@@ -1,6 +1,7 @@
 
 U1DB = {
 	["minimapPos"] = 231.005904312593,
+	["enteredWorld"] = true,
 	["addons"] = {
 		["dbm-draenor"] = 1,
 		["battlegroundtargets"] = 0,
@@ -39,6 +40,7 @@ U1DB = {
 		["tullarange"] = 0,
 		["xloot"] = 0,
 		["tidyplateswidgets"] = 1,
+		["bfainvasiontimer"] = 0,
 		["bgdefender"] = 0,
 		["tiptacoptions"] = 1,
 		["dbm-garrisoninvasions"] = 1,
@@ -120,6 +122,7 @@ U1DB = {
 		["dbm-hellfirecitadel"] = 1,
 		["gathermate2"] = 0,
 		["163ui_teamstats"] = 1,
+		["bfainvasiontimer_options"] = 1,
 		["!bauderrorframe"] = 0,
 		["dbm-voa"] = 1,
 		["dbm-emeraldnightmare"] = 1,
@@ -270,29 +273,30 @@ U1DB = {
 		["gladiatorlossa2/notall/battleground"] = false,
 		["163ui_moreoptions/cvar_overrideArchive"] = true,
 		["!!!163ui!!!/disableLaterLoading"] = true,
-		["dbm-core/hugebar"] = false,
+		["163ui_moreoptions/cvar_comboPointLocation"] = "2",
+		["comergy_redux/ShowTargetHealthBar"] = false,
 		["wmarker/Raidshown"] = {
 			["alone"] = true,
 			["vertical"] = true,
 			["shown"] = true,
 		},
-		["163ui_moreoptions/cvar_comboPointLocation"] = "2",
 		["gathermate2/showMinimap"] = true,
-		["merchantex/sell/details"] = "_NIL",
-		["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
-		["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
+		["gladiatorlossa2/notall/arena"] = true,
+		["dbm-core/hugebar"] = false,
+		["azeritetooltip/OnlySpec"] = "_NIL",
+		["!!!163ui!!!/sortmem"] = false,
 		["163ui_buff/cvar_noBuffDebuffFilterOnTarget"] = false,
 		["azeritetooltip/Compact"] = "_NIL",
 		["163ui_moreoptions/cvar_floatingCombatTextCombatDamage"] = true,
 		["landingGarrisonMMB"] = {
 			["minimapPos"] = 306.100392241333,
 		},
-		["comergy_redux/ShowTargetHealthBar"] = false,
-		["gladiatorlossa2/notall/arena"] = true,
+		["163ui_moreoptions/cvar_nameplateMaxDistance"] = "45",
 		["163ui_moreoptions/cvar_autoQuestWatch"] = true,
+		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
 		["duowanchat/channel"] = false,
+		["gladiatorlossa2/notall"] = true,
 		["masque/style"] = "Zoomed",
-		["!!!163ui!!!/sortmem"] = false,
 		["163ui_moreoptions/cvar_threatShowNumeric"] = true,
 		["comergy_redux/ShowPlayerHealthBar"] = false,
 		["!bauderrorframe/PlaySound"] = "_NIL",
@@ -302,15 +306,15 @@ U1DB = {
 			["vertical"] = true,
 			["shown"] = true,
 		},
-		["163ui_moreoptions/cvar_ActionButtonUseKeyDown"] = true,
+		["comergy_redux/Locked"] = false,
 		["!!!163ui!!!/questWatchSort"] = true,
 		["dominos/showgrid"] = false,
 		["163ui_moreoptions/cvar_nameplateShowSelf"] = false,
-		["163ui_buff/cvar_buffDurations"] = true,
+		["163ui_moreoptions/cvar_ShowClassColorInNameplate"] = true,
 		["eventalertmod/SCD_RemoveWhenCooldown"] = false,
 		["163ui_chathistory/showhis"] = true,
 		["gathermate2/showMinimap/showMinimap"] = true,
-		["comergy_redux/Locked"] = false,
+		["merchantex/sell/details"] = "_NIL",
 		["comergy_redux/VerticalBars"] = false,
 		["oglow/oGlowPipes"] = {
 			["merchant"] = true,
@@ -324,23 +328,23 @@ U1DB = {
 			["gbank"] = true,
 			["bank"] = true,
 		},
-		["gladiatorlossa2/notall"] = true,
+		["recount/FilterBoss"] = "_NIL",
 		["163ui_chat/worldchannel"] = true,
 		["163ui_moreoptions/cvar_floatingCombatTextCombatHealing"] = true,
 		["163ui_moreoptions/cvar_nameplateOtherTopInset"] = false,
-		["recount/FilterBoss"] = "_NIL",
-		["azeritetooltip/OnlySpec"] = "_NIL",
-		["duowanchat/level"] = true,
 		["163ui_moreoptions/cvar_floatingCombatTextCombatLogPeriodicSpells"] = true,
+		["bfainvasiontimer/type"] = 1,
+		["163ui_buff/cvar_buffDurations"] = true,
+		["163ui_moreoptions/cvar_ShowClassColorInFriendlyNameplate"] = true,
 		["163ui_moreoptions/cvar_floatingCombatTextPetSpellDamage"] = true,
 		["ExtraActionBar/bar1"] = true,
 		["targetnameplateindicator/tex"] = "Q_GreenTarget",
-		["163ui_moreoptions/cvar_ShowClassColorInFriendlyNameplate"] = true,
+		["parrot/shortenAmount"] = false,
 		["163ui_moreoptions/cvar_floatingCombatTextPetMeleeDamage"] = true,
 		["deathannounce/auto"] = false,
 		["163ui_moreoptions/cvar_nameplateShowFriendlyNPCs"] = false,
-		["parrot/shortenAmount"] = false,
 		["gladiatorlossa2/notall/field"] = false,
+		["duowanchat/level"] = true,
 		["gladius/lock"] = false,
 		["!!!163ui!!!/english"] = "_NIL",
 		["163ui_moreoptions/cameraDistanceMaxZoomFactor"] = 2.6,
@@ -355,18 +359,23 @@ U1DB = {
 			323.999969482422, -- [4]
 			["integrated"] = true,
 		},
-		["TeamStatsFrame"] = {
-			399.052520751953, -- [1]
-			768.421020507813, -- [2]
-			728.000244140625, -- [3]
-			450.000030517578, -- [4]
-			["integrated"] = true,
+		["SwingBar"] = {
+			673.111328125, -- [1]
+			210, -- [2]
+			180.000030517578, -- [3]
+			16.9999942779541, -- [4]
+			nil, -- [5]
+			"BOTTOM", -- [6]
+			"CastingBarFrame", -- [7]
+			"TOP", -- [8]
+			0, -- [9]
+			20, -- [10]
 		},
-		["LiteBuffFrame"] = {
-			985.013732910156, -- [1]
-			185.818954467773, -- [2]
-			49.999927520752, -- [3]
-			50.0000038146973, -- [4]
+		["U1CT"] = {
+			718.111328125, -- [1]
+			758.421020507813, -- [2]
+			90.0000152587891, -- [3]
+			27.0000038146973, -- [4]
 			["integrated"] = true,
 		},
 		["SimpleInfoAnchorFrame"] = {
@@ -394,23 +403,18 @@ U1DB = {
 			157.000045776367, -- [3]
 			55.9999923706055, -- [4]
 		},
-		["SwingBar"] = {
-			673.111328125, -- [1]
-			210, -- [2]
-			180.000030517578, -- [3]
-			16.9999942779541, -- [4]
-			nil, -- [5]
-			"BOTTOM", -- [6]
-			"CastingBarFrame", -- [7]
-			"TOP", -- [8]
-			0, -- [9]
-			20, -- [10]
+		["TeamStatsFrame"] = {
+			399.052520751953, -- [1]
+			768.421020507813, -- [2]
+			728.000244140625, -- [3]
+			450.000030517578, -- [4]
+			["integrated"] = true,
 		},
 		["SimpleInfoHitPointAnchorFrameNew"] = {
 		},
 		["DWCChatFrame"] = {
 			-0, -- [1]
-			155, -- [2]
+			190.000015258789, -- [2]
 			235, -- [3]
 			27.0000038146973, -- [4]
 			nil, -- [5]
@@ -456,22 +460,22 @@ U1DB = {
 		},
 		["TomTomBlock"] = {
 		},
-		["U1CT"] = {
-			718.111328125, -- [1]
-			758.421020507813, -- [2]
-			90.0000152587891, -- [3]
-			27.0000038146973, -- [4]
+		["LiteBuffFrame"] = {
+			985.013732910156, -- [1]
+			185.818954467773, -- [2]
+			49.999927520752, -- [3]
+			50.0000038146973, -- [4]
 			["integrated"] = true,
 		},
 	},
-	["last_logout_time"] = 1545394004,
-	["selectedTag"] = "MAPQUEST",
+	["last_logout_time"] = 1546179798,
+	["lastSearch"] = "bf",
 	["ignoreList"] = {
 	},
 	["sortByName"] = true,
-	["enteredWorld"] = true,
+	["selectedTag"] = "ITEM",
 	["collectList"] = {
 	},
-	["selectedAddon"] = "163ui_moreoptions",
+	["selectedAddon"] = "bfainvasiontimer",
 	["loadSpeed"] = 2,
 }

@@ -44,6 +44,12 @@ END
 VER 3 010000000000000E "- 宏" "136017"
 /tar 蛆虫
 END
+VER 3 0100000000000011 "1" "INV_Misc_QuestionMark"
+#showtooltip 复仇之怒
+/CAST 复仇之怒
+/CAST 烈焰之血(种族特长)
+/Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
+END
 VER 3 0100000000000012 "1" "644389"
 /g  出售各坐骑BOS  CD  工会价 通通500G    要什么坐骑CD有什么坐骑CD 无敌 飞机 南风 2B龙 不再是梦想 省去了没CD找人帮忙的麻烦 大家还在等什么只要500G坐骑抱回家
 END
@@ -58,16 +64,6 @@ VER 3 010000000000000F "1" "INV_Misc_QuestionMark"
 /CAST 复仇之怒
 /Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
 END
-VER 3 0100000000000011 "1" "INV_Misc_QuestionMark"
-#showtooltip 复仇之怒
-/CAST 复仇之怒
-/CAST 烈焰之血(种族特长)
-/Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
-END
-VER 3 0100000000000013 "aa" "606552"
-/target 玄牛雕像
-/cast 嚎镇八方
-END
 VER 3 0100000000000002 "YY " "INV_MISC_QUESTIONMARK"
 /团队 YY80118982
 END
@@ -76,4 +72,8 @@ VER 3 0100000000000001 "倒数" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0100000000000003 "取消铁骨" "651728"
 /cancelaura 铁骨酒
+END
+VER 3 0100000000000013 "群嘲" "620830"
+/target 玄牛雕像
+/cast 嚎镇八方
 END

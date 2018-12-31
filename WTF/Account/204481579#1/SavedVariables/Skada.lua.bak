@@ -7,42 +7,42 @@ SkadaDB = {
 	["profileKeys"] = {
 		["南城凉喵 - 末日行者"] = "Default",
 		["杨超越降临 - 末日行者"] = "Default",
+		["丶理想三旬 - 末日行者"] = "Default",
+		["扛阿古斯专用 - 末日行者"] = "Default",
 		["陈粒 - 末日行者"] = "Default",
-		["魔王降临丶 - 末日行者"] = "Default",
 		["秀逗魔导士丶 - 末日行者"] = "Default",
 		["Kungenë - 末日行者"] = "Default",
 		["理想叁旬丶 - 末日行者"] = "Default",
 		["等你不等风丶 - 末日行者"] = "Default",
-		["扛阿古斯专用 - 末日行者"] = "Default",
-		["丶理想三旬 - 末日行者"] = "Default",
+		["Justgan - 风暴之眼"] = "Default",
+		["魔王降临丶 - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["modeclicks"] = {
-				["伤害"] = 9,
+				["伤害"] = 14,
 			},
 			["windows"] = {
 				{
 					["set"] = "total",
-					["y"] = 4.76922464370728,
+					["y"] = 36.565860748291,
 					["mode"] = "伤害",
 					["barwidth"] = 214.211791992188,
 					["background"] = {
 						["height"] = 164.800521850586,
 					},
-					["x"] = -118.439819335938,
+					["x"] = -124.005859375,
 				}, -- [1]
 			},
 			["report"] = {
 				["number"] = 3,
 				["channel"] = "guild",
-				["mode"] = "治疗",
-				["set"] = 3,
+				["mode"] = "敌对受到伤害",
 			},
 			["versions"] = {
-				["1.6.7"] = true,
-				["1.6.4"] = true,
 				["1.6.3"] = true,
+				["1.6.4"] = true,
+				["1.6.7"] = true,
 			},
 			["setstokeep"] = 50,
 		},

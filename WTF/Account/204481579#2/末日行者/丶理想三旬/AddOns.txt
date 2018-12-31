@@ -277,3 +277,5 @@ dct_spellAlert: enabled
 dct_options: enabled
 tomcats-darkshorerares: enabled
 handynotes_dungeonlocations: disabled
+bfainvasiontimer: disabled
+bfainvasiontimer_options: enabled

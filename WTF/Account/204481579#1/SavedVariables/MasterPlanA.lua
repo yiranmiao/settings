@@ -58,8 +58,8 @@ MasterPlanAG = {
 			["faction"] = "Alliance",
 		},
 		["Kungenë"] = {
-			["class"] = "WARRIOR",
 			["faction"] = "Alliance",
+			["class"] = "WARRIOR",
 		},
 		["等你不等风丶"] = {
 			["faction"] = "Alliance",

@@ -6,6 +6,7 @@ SkadaDB = {
 	},
 	["profileKeys"] = {
 		["丶理想三旬 - 末日行者"] = "Default",
+		["喵阿喵丶 - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -24,9 +25,9 @@ SkadaDB = {
 				["mode"] = "伤害",
 			},
 			["versions"] = {
-				["1.6.7"] = true,
-				["1.6.4"] = true,
 				["1.6.3"] = true,
+				["1.6.4"] = true,
+				["1.6.7"] = true,
 			},
 		},
 	},

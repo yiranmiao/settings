@@ -2,7 +2,7 @@
 TomCats_DarkshoreRares_Character = {
 	["preferences"] = {
 		["TomCats-DarkshoreRaresMinimapButton"] = {
-			["position"] = -2.69085238258425,
+			["position"] = -2.98616191181025,
 		},
 	},
 }

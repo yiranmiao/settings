@@ -23,8 +23,8 @@ H: 525
 Frame: LootFrame
 FrameLevel: 1
 Anchor: CENTER
-X: 128
-Y: -63
+X: 67
+Y: 6
 W: 170
 H: 240
 Frame: U1Frame
@@ -34,6 +34,13 @@ X: 69
 Y: 43
 W: 823
 H: 500
+Frame: WorldQuestTrackerFinderFrame
+FrameLevel: 1
+Anchor: BOTTOM
+X: 301
+Y: 115
+W: 240
+H: 170
 Frame: TomTomCrazyArrow
 FrameLevel: 1
 Anchor: CENTER

@@ -34,8 +34,8 @@ MasterPlanAG = {
 			["faction"] = "Alliance",
 		},
 		["陈粒"] = {
-			["faction"] = "Alliance",
 			["class"] = "MONK",
+			["faction"] = "Alliance",
 		},
 		["理想叁旬丶"] = {
 			["faction"] = "Alliance",

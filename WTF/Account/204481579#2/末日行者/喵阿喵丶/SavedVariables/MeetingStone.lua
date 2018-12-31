@@ -5,7 +5,7 @@ MEETINGSTONE_CHARACTER_DB = {
 	},
 	["profiles"] = {
 		["喵阿喵丶 - 末日行者"] = {
-			["version"] = "80000.01",
+			["version"] = "80100.01",
 		},
 	},
 }

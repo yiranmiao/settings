@@ -80,10 +80,6 @@ END
 VER 3 000000000000021F " " "413587"
 /script SetCVar("cameradistanceMax",50)
 END
-VER 3 000000000000021C " " "INV_Misc_QuestionMark"
-#showtooltip 奥术冲击
-/cast [nochanneling:奥术飞弹] 奥术冲击
-END
 VER 3 000000000000021B " " "INV_Misc_QuestionMark"
 #showtooltip 法术反制
 /tar 锋颚踏浪者
@@ -361,17 +357,17 @@ VER 3 0000000000000252 "111" "132180"
 /施放 [target=focus,help][help][target=targettarget,help][target=pet]误导;误导
 /script if UnitExists("focus") then SendChatMessage(UnitName("focus").." 已被误导","yell");end
 END
+VER 3 00000000000001FC "123" "134400"
+/cast 血肉之盾
+/cast 护体胆汁
+/cast 蜷缩
+END
 VER 3 00000000000001FD "123" "338784"
 /script SetRaidTarget("mouseover",2)
 /click ExtraActionButton1
 END
 VER 3 0000000000000253 "123" "132317"
 /script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript("OnUpdate",X)
-END
-VER 3 00000000000001FC "123" "134400"
-/cast 血肉之盾
-/cast 护体胆汁
-/cast 蜷缩
 END
 VER 3 0000000000000254 "1231" "INV_Misc_QuestionMark"
 #showtooltip
@@ -507,6 +503,9 @@ END
 VER 3 0000000000000208 "圣光术" "INV_Misc_QuestionMark"
 #showtooltips 圣光术
 /cast [target=mouseover,help]圣光术;圣光术
+END
+VER 3 000000000000026C "烈焰" "INV_MISC_QUESTIONMARK"
+/cast [@cursor]烈焰风暴
 END
 VER 3 000000000000020A "焦点" "538767"
 /cast [target=focus] 血魔之握

@@ -44,6 +44,11 @@ END
 VER 3 010000000000000E "- 宏" "136017"
 /tar 蛆虫
 END
+VER 3 010000000000000F "1" "INV_Misc_QuestionMark"
+#showtooltip
+/CAST 复仇之怒
+/Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
+END
 VER 3 0100000000000011 "1" "INV_Misc_QuestionMark"
 #showtooltip 复仇之怒
 /CAST 复仇之怒
@@ -56,11 +61,6 @@ END
 VER 3 0100000000000010 "1" "INV_Misc_QuestionMark"
 #showtooltip 复仇之怒
 /USE 普兰比尔德的合剂
-/CAST 复仇之怒
-/Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
-END
-VER 3 010000000000000F "1" "INV_Misc_QuestionMark"
-#showtooltip
 /CAST 复仇之怒
 /Y 諸行無常，諸法無我，涅槃寂靜，壹切如來。
 END

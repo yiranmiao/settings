@@ -3,14 +3,15 @@ ChocolateBarDB = {
 	["profileKeys"] = {
 		["南城凉喵 - 末日行者"] = "Default",
 		["杨超越降临 - 末日行者"] = "Default",
-		["丶理想三旬 - 末日行者"] = "Default",
+		["Justgan - 风暴之眼"] = "Default",
+		["陈粒 - 末日行者"] = "Default",
 		["魔王降临丶 - 末日行者"] = "Default",
 		["秀逗魔导士丶 - 末日行者"] = "Default",
 		["Kungenë - 末日行者"] = "Default",
 		["理想叁旬丶 - 末日行者"] = "Default",
-		["等你不等风丶 - 末日行者"] = "Default",
 		["扛阿古斯专用 - 末日行者"] = "Default",
-		["陈粒 - 末日行者"] = "Default",
+		["等你不等风丶 - 末日行者"] = "Default",
+		["丶理想三旬 - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -101,10 +102,8 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["Accountant_Classic"] = {
-					["showText"] = false,
+				["AutoTurnIn"] = {
 					["barName"] = "ChocolateBar1",
-					["align"] = "right",
 				},
 				["WeakAuras"] = {
 					["barName"] = "ChocolateBar1",
@@ -122,15 +121,15 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["!BaudErrorFrame"] = {
+				["Wholly Coordinates"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["Dominos"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
 				["_NPCScan.Overlay"] = {
-					["barName"] = "ChocolateBar1",
-				},
-				["BRRaidSave"] = {
 					["barName"] = "ChocolateBar1",
 				},
 				["163_Clock"] = {
@@ -149,10 +148,10 @@ ChocolateBarDB = {
 				["NPCScan"] = {
 					["barName"] = "ChocolateBar1",
 				},
-				["Broker_MicroMenu"] = {
+				["LDB_WhisperPop"] = {
 					["barName"] = "ChocolateBar1",
 				},
-				["LDB_WhisperPop"] = {
+				["Broker_MicroMenu"] = {
 					["barName"] = "ChocolateBar1",
 				},
 				["!!!163UI!!!"] = {
@@ -160,19 +159,21 @@ ChocolateBarDB = {
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["Dominos"] = {
+				["BRRaidSave"] = {
+					["barName"] = "ChocolateBar1",
+				},
+				["!BaudErrorFrame"] = {
 					["showText"] = false,
 					["barName"] = "ChocolateBar1",
 					["align"] = "right",
 				},
-				["Wholly Coordinates"] = {
-					["barName"] = "ChocolateBar1",
-				},
 				["MeetingStone"] = {
 					["barName"] = "ChocolateBar1",
 				},
-				["AutoTurnIn"] = {
+				["Accountant_Classic"] = {
+					["showText"] = false,
 					["barName"] = "ChocolateBar1",
+					["align"] = "right",
 				},
 				["BagnonLauncher"] = {
 					["showText"] = false,
@@ -185,15 +186,15 @@ ChocolateBarDB = {
 					["align"] = "right",
 				},
 			},
-			["fixedStrata"] = true,
 			["moduleOptions"] = {
-				["MoreChocolate"] = {
-				},
 				["Placeholder"] = {
 					["placeholderNames"] = {
 					},
 				},
+				["MoreChocolate"] = {
+				},
 			},
+			["fixedStrata"] = true,
 		},
 	},
 }

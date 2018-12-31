@@ -2,6 +2,7 @@
 QuestAnnounceDB = {
 	["profileKeys"] = {
 		["丶理想三旬 - 末日行者"] = "Default",
+		["喵阿喵丶 - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -13,9 +14,9 @@ QuestAnnounceDB = {
 				},
 				["settings"] = {
 					["enable"] = true,
-					["every"] = 2,
-					["debug"] = false,
 					["sound"] = false,
+					["debug"] = false,
+					["every"] = 2,
 				},
 				["announceIn"] = {
 					["party"] = true,

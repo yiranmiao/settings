@@ -86,7 +86,7 @@ SavedInstancesDB = {
 					["amount"] = 1169,
 				},
 			},
-			["WeeklyResetTime"] = 1545865199,
+			["WeeklyResetTime"] = 1546469999,
 			["DailyWorldQuest"] = {
 				["days0"] = {
 					["questneed"] = 4,
@@ -103,7 +103,7 @@ SavedInstancesDB = {
 			["MythicKey"] = {
 			},
 			["lastbosstime"] = 1536417475,
-			["DailyResetTime"] = 1545519599,
+			["DailyResetTime"] = 1546210799,
 			["lastbossyelltime"] = 1536417475,
 			["Money"] = 62263554,
 			["LastSeen"] = 1536417811,
@@ -112,7 +112,7 @@ SavedInstancesDB = {
 			["Show"] = "saved",
 			["MythicKeyBest"] = {
 				["level"] = 0,
-				["ResetTime"] = 1545865199,
+				["ResetTime"] = 1546469999,
 				["WeeklyReward"] = false,
 			},
 			["PlayedLevel"] = 263729,
@@ -131,23 +131,23 @@ SavedInstancesDB = {
 			["Order"] = 50,
 			["Class"] = "DEATHKNIGHT",
 			["Race"] = "暗夜精灵",
-			["WeeklyResetTime"] = 1545865199,
+			["WeeklyResetTime"] = 1546469999,
 			["DailyWorldQuest"] = {
 				["days0"] = {
+					["dayleft"] = 0,
 					["name"] = "大使任务缺失",
 					["iscompleted"] = true,
-					["dayleft"] = 0,
 				},
 			},
-			["DailyResetTime"] = 1545519599,
+			["DailyResetTime"] = 1546210799,
 			["Level"] = 120,
 			["LClass"] = "死亡骑士",
 			["RBGrating"] = 0,
 			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 11,
-				["level"] = 0,
-				["ResetTime"] = 1545865199,
 				["WeeklyReward"] = true,
+				["level"] = 0,
+				["LastWeekLevel"] = 11,
+				["ResetTime"] = 1546469999,
 			},
 			["PlayedTotal"] = 3773398,
 			["MythicKey"] = {
@@ -277,38 +277,39 @@ SavedInstancesDB = {
 			["LastSeen"] = 1537721477,
 		},
 		["陈粒 - 末日行者"] = {
-			["lastbossyell"] = "普里西拉·艾什凡: 史诗钥石",
-			["IL"] = 384.25,
+			["lastbossyell"] = "纯净圣母: 史诗",
+			["IL"] = 385.1875,
 			["Zone"] = "伯拉勒斯港",
 			["Order"] = 50,
 			["Class"] = "MONK",
-			["Race"] = "人类",
+			["lastboss"] = "维克提斯: 史诗",
+			["LastSeen"] = 1546184555,
 			["currency"] = {
+				[1718] = {
+					["amount"] = 43,
+				},
 				[1220] = {
 					["amount"] = 14689,
 				},
-				[1580] = {
-					["weeklyMax"] = 2,
-					["earnedThisWeek"] = 2,
-					["totalMax"] = 5,
-					["amount"] = 0,
+				[1717] = {
+					["amount"] = 16,
 				},
 				[1273] = {
 					["weeklyMax"] = 3,
 					["totalMax"] = 6,
 					["amount"] = 1,
 				},
-				[1718] = {
-					["amount"] = 136,
+				[1560] = {
+					["amount"] = 5,
+				},
+				[1580] = {
+					["earnedThisWeek"] = 2,
+					["weeklyMax"] = 2,
+					["totalMax"] = 5,
+					["amount"] = 0,
 				},
 				[1710] = {
 					["amount"] = 67,
-				},
-				[1560] = {
-					["amount"] = 185,
-				},
-				[1166] = {
-					["amount"] = 200,
 				},
 				[1533] = {
 					["amount"] = 1902,
@@ -317,243 +318,250 @@ SavedInstancesDB = {
 					["totalMax"] = 1000,
 					["amount"] = 55,
 				},
+				[1166] = {
+					["amount"] = 200,
+				},
+				[1275] = {
+					["amount"] = 70,
+				},
 				[1226] = {
 					["amount"] = 4566,
-				},
-				[1155] = {
-					["totalMax"] = 300,
-					["amount"] = 214,
-				},
-				[1717] = {
-					["amount"] = 16,
 				},
 				[1508] = {
 					["totalMax"] = 2000,
 					["amount"] = 454,
 				},
-				[1275] = {
-					["amount"] = 70,
+				[1155] = {
+					["totalMax"] = 300,
+					["amount"] = 214,
 				},
 			},
+			["WeeklyResetTime"] = 1546469999,
 			["Quests"] = {
-				[52834] = {
-					["Expires"] = 1545865199,
-					["Link"] = "|cffffff00|Hquest:52834:90|h[战痕命运印记：金币]|h|r",
-					["Title"] = "战痕命运印记：金币",
+				[54363] = {
+					["Link"] = "|cffffff00|Hquest:54363:90|h[黑海岸捐赠：战争资源]|h|r",
 					["Zone"] = {
 						["mapType"] = 3,
 						["mapID"] = 1161,
 						["name"] = "伯拉勒斯",
 						["parentMapID"] = 895,
 					},
+					["Title"] = "黑海岸捐赠：战争资源",
+					["isDaily"] = true,
 				},
-				[52838] = {
-					["Expires"] = 1545865199,
-					["Title"] = "战痕命运印记：大把的金币",
+				[54394] = {
+					["Link"] = "|cffffff00|Hquest:54394:90|h[黑海岸捐赠：里脊须肉]|h|r",
 					["Zone"] = {
 						["mapType"] = 3,
 						["mapID"] = 1161,
 						["name"] = "伯拉勒斯",
 						["parentMapID"] = 895,
 					},
+					["Title"] = "黑海岸捐赠：里脊须肉",
+					["isDaily"] = true,
 				},
 			},
 			["Skills"] = {
-				["xmute"] = {
-					["Expires"] = 1545519599,
-					["Title"] = "炼金术: 转化",
-				},
 			},
 			["Level"] = 120,
 			["LClass"] = "武僧",
 			["RBGrating"] = 0,
+			["MythicKeyBest"] = {
+				["WeeklyReward"] = false,
+				["level"] = 13,
+				["LastWeekLevel"] = 13,
+				["ResetTime"] = 1546469999,
+			},
+			["lastbosstime"] = 1546176222,
+			["PlayedTotal"] = 974485,
+			["lastbossyelltime"] = 1546176247,
+			["Money"] = 140335448,
 			["MythicKey"] = {
-				["abbrev"] = "托尔",
-				["ResetTime"] = 1545865199,
-				["link"] = "|cffa335ee|Hkeystone:158923:246:12:9:6:4:16|h[钥石：托尔达戈 (12)]|h|r",
+				["abbrev"] = "神庙",
+				["ResetTime"] = 1546469999,
+				["link"] = "|cffa335ee|Hkeystone:158923:250:12:10:7:2:16|h[钥石：塞塔里斯神庙 (12)]|h|r",
 				["color"] = "ffa335ee",
 				["level"] = 12,
 			},
-			["PlayedTotal"] = 950256,
-			["lastbosstime"] = 1545410503,
-			["lastbossyelltime"] = 1545410511,
-			["Money"] = 5918657,
-			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 13,
-				["level"] = 13,
-				["ResetTime"] = 1545865199,
-				["WeeklyReward"] = false,
-			},
-			["LastSeen"] = 1545452996,
-			["lastboss"] = "维克戈斯: 史诗钥石",
 			["Show"] = "saved",
 			["BonusRoll"] = {
 				{
 					["name"] = "泽克沃兹: 史诗",
-					["time"] = 1545394604,
+					["time"] = 1546174404,
 					["currencyID"] = 1553,
 				}, -- [1]
 				{
+					["name"] = "纯净圣母: 史诗",
+					["time"] = 1546171324,
+					["currencyID"] = 1553,
+				}, -- [2]
+				{
+					["name"] = "泽克沃兹: 史诗",
+					["time"] = 1545394604,
+					["currencyID"] = 1553,
+				}, -- [3]
+				{
+					["time"] = 1545305296,
 					["name"] = "朽木伊弗斯",
 					["item"] = "|cffa335ee|Hitem:166690::::::::120:270::3:3:5479:1502:4786:::|h[守护者的缠根腰带]|h|r",
-					["time"] = 1545305296,
-				}, -- [2]
+				}, -- [4]
 				{
 					["name"] = "纯净圣母: 史诗",
 					["time"] = 1545230851,
 					["currencyID"] = 1553,
-				}, -- [3]
+				}, -- [5]
 				{
+					["item"] = "|cffa335ee|Hitem:160652::::::::120:270::6:3:4800:1507:4786:::|h[构造体过载器]|h|r",
 					["time"] = 1545229987,
 					["name"] = "塔罗克: 史诗",
-					["item"] = "|cffa335ee|Hitem:160652::::::::120:270::6:3:4800:1507:4786:::|h[构造体过载器]|h|r",
-				}, -- [4]
+				}, -- [6]
 				{
 					["name"] = "米斯拉克斯: 英雄",
 					["time"] = 1545138341,
 					["currencyID"] = 1553,
-				}, -- [5]
+				}, -- [7]
 				{
 					["name"] = "藏宝竞技场: 史诗钥石",
 					["time"] = 1544799859,
 					["currencyID"] = 1553,
-				}, -- [6]
+				}, -- [8]
 				{
 					["time"] = 1544620957,
 					["name"] = "哈兰·斯威提勋爵: 史诗钥石",
 					["currencyID"] = 1553,
-				}, -- [7]
+				}, -- [9]
 				{
 					["time"] = 1544200046,
 					["name"] = "萨维斯: 史诗",
 					["currencyID"] = 1533,
-				}, -- [8]
+				}, -- [10]
 				{
 					["time"] = 1544198836,
 					["name"] = "萨维斯: 英雄",
 					["currencyID"] = 1533,
-				}, -- [9]
+				}, -- [11]
 				{
-					["time"] = 1544021348,
 					["name"] = "亚兹玛: 史诗钥石",
 					["item"] = "|cffa335ee|Hitem:158306::::::::120:270::16:3:5010:1542:4786:::|h[流光决意腰带]|h|r",
+					["time"] = 1544021348,
 					["currencyID"] = 1553,
-				}, -- [10]
+				}, -- [12]
 				{
 					["time"] = 1544013562,
 					["name"] = "纯净圣母: 史诗",
 					["currencyID"] = 1553,
-				}, -- [11]
+				}, -- [13]
 				{
 					["time"] = 1543409914,
 					["name"] = "萨维斯: 英雄",
 					["currencyID"] = 1533,
-				}, -- [12]
+				}, -- [14]
 				{
 					["time"] = 1543409420,
 					["name"] = "萨维斯: 史诗",
 					["currencyID"] = 1533,
-				}, -- [13]
+				}, -- [15]
 				{
 					["time"] = 1543147144,
 					["name"] = "纯净圣母: 史诗",
 					["currencyID"] = 1553,
-				}, -- [14]
+				}, -- [16]
 				{
 					["time"] = 1542718362,
 					["name"] = "藏宝竞技场: 史诗钥石",
 					["currencyID"] = 1553,
-				}, -- [15]
+				}, -- [17]
 				{
 					["time"] = 1542630423,
 					["name"] = "纯净圣母: 史诗",
 					["currencyID"] = 1553,
-				}, -- [16]
+				}, -- [18]
 				{
 					["time"] = 1542465830,
 					["name"] = "不羁畸变怪: 史诗钥石",
 					["currencyID"] = 1553,
-				}, -- [17]
+				}, -- [19]
 				{
 					["time"] = 1541223171,
 					["name"] = "纯净圣母: 史诗",
 					["currencyID"] = 1553,
-				}, -- [18]
+				}, -- [20]
 				{
-					["name"] = "塔罗克: 史诗",
 					["item"] = "|cffa335ee|Hitem:160618::::::::120:270::6:3:4800:1517:4783:::|h[沉降癫狂手套]|h|r",
 					["time"] = 1541220328,
+					["name"] = "塔罗克: 史诗",
 					["currencyID"] = 1553,
-				}, -- [19]
+				}, -- [21]
 				{
-					["time"] = 1540476397,
 					["name"] = "腐臭吞噬者: 史诗",
 					["item"] = "|cffa335ee|Hitem:160643::::::::120:268::6:3:4800:1507:4786:::|h[腐臭恐兽的缠结斗篷]|h|r",
+					["time"] = 1540476397,
 					["currencyID"] = 1553,
-				}, -- [20]
+				}, -- [22]
 				{
 					["time"] = 1540472262,
 					["name"] = "维克提斯: 史诗",
 					["currencyID"] = 1553,
-				}, -- [21]
+				}, -- [23]
 				{
 					["time"] = 1540471205,
 					["name"] = "泽克沃兹: 史诗",
 					["currencyID"] = 1553,
-				}, -- [22]
+				}, -- [24]
 				{
 					["name"] = "米斯拉克斯: 英雄",
 					["time"] = 1539952827,
 					["currencyID"] = 1553,
-				}, -- [23]
+				}, -- [25]
 			},
-			["PlayedLevel"] = 330628,
+			["PlayedLevel"] = 354857,
 			["Faction"] = "Alliance",
 			["ILe"] = 383.3125,
-			["DailyResetTime"] = 1545519599,
+			["DailyResetTime"] = 1546210799,
 			["DailyWorldQuest"] = {
 				["days2"] = {
-					["questneed"] = 3,
-					["name"] = "始祖龟求知者",
-					["isfinish"] = false,
+					["questneed"] = 4,
+					["name"] = "普罗德摩尔海军部",
 					["iscompleted"] = false,
+					["isfinish"] = false,
 					["dayleft"] = 2,
-					["questdone"] = 0,
+					["questdone"] = 1,
 				},
 				["days1"] = {
 					["questneed"] = 4,
-					["name"] = "艾泽拉斯的勇士",
-					["isfinish"] = false,
+					["name"] = "风暴之末",
 					["iscompleted"] = false,
+					["isfinish"] = false,
 					["dayleft"] = 1,
 					["questdone"] = 0,
 				},
 				["days0"] = {
-					["questneed"] = 4,
-					["name"] = "联盟战事",
-					["isfinish"] = false,
+					["questneed"] = 3,
+					["name"] = "始祖龟求知者",
 					["iscompleted"] = false,
+					["isfinish"] = false,
 					["dayleft"] = 0,
-					["questdone"] = 1,
+					["questdone"] = 0,
 				},
 			},
-			["WeeklyResetTime"] = 1545865199,
+			["Race"] = "人类",
 		},
 		["秀逗魔导士丶 - 末日行者"] = {
-			["lastbossyell"] = "赛拉·月卫: 普通",
-			["IL"] = 378.6875,
-			["Zone"] = "德鲁斯瓦",
+			["lastbossyell"] = "科古斯狱长: 史诗钥石",
+			["IL"] = 379.9375,
+			["Zone"] = "伯拉勒斯港",
 			["Order"] = 50,
 			["Class"] = "MAGE",
 			["Race"] = "虚空精灵",
 			["currency"] = {
-				[1501] = {
-					["amount"] = 24,
-				},
-				[1273] = {
+				[1129] = {
 					["weeklyMax"] = 3,
-					["totalMax"] = 6,
-					["amount"] = 3,
+					["totalMax"] = 20,
+					["amount"] = 0,
+				},
+				[1149] = {
+					["totalMax"] = 5000,
+					["amount"] = 25,
 				},
 				[402] = {
 					["amount"] = 1,
@@ -574,24 +582,23 @@ SavedInstancesDB = {
 				},
 				[1580] = {
 					["weeklyMax"] = 2,
-					["earnedThisWeek"] = 2,
+					["earnedThisWeek"] = 1,
 					["totalMax"] = 5,
-					["amount"] = 1,
+					["amount"] = 2,
 				},
-				[1191] = {
-					["totalMax"] = 5000,
-					["amount"] = 2225,
+				[1501] = {
+					["amount"] = 24,
 				},
 				[776] = {
 					["totalMax"] = 20,
 					["amount"] = 4,
 				},
-				[1149] = {
-					["totalMax"] = 5000,
-					["amount"] = 25,
+				[823] = {
+					["amount"] = 138316,
 				},
-				[777] = {
-					["amount"] = 46474,
+				[994] = {
+					["totalMax"] = 20,
+					["amount"] = 0,
 				},
 				[824] = {
 					["totalMax"] = 10000,
@@ -604,7 +611,7 @@ SavedInstancesDB = {
 					["amount"] = 93,
 				},
 				[1718] = {
-					["amount"] = 132,
+					["amount"] = 39,
 				},
 				[1155] = {
 					["totalMax"] = 2000,
@@ -615,7 +622,7 @@ SavedInstancesDB = {
 					["amount"] = 99,
 				},
 				[1560] = {
-					["amount"] = 38,
+					["amount"] = 18,
 				},
 				[1220] = {
 					["amount"] = 1214,
@@ -623,10 +630,9 @@ SavedInstancesDB = {
 				[1717] = {
 					["amount"] = 21,
 				},
-				[1129] = {
-					["weeklyMax"] = 3,
-					["totalMax"] = 20,
-					["amount"] = 0,
+				[1191] = {
+					["totalMax"] = 5000,
+					["amount"] = 2225,
 				},
 				[1533] = {
 					["amount"] = 1033,
@@ -652,35 +658,16 @@ SavedInstancesDB = {
 					["totalMax"] = 2000,
 					["amount"] = 433,
 				},
-				[994] = {
-					["totalMax"] = 20,
-					["amount"] = 0,
+				[777] = {
+					["amount"] = 46474,
 				},
-				[823] = {
-					["amount"] = 138316,
+				[1273] = {
+					["weeklyMax"] = 3,
+					["totalMax"] = 6,
+					["amount"] = 3,
 				},
 			},
 			["Quests"] = {
-				[52834] = {
-					["Expires"] = 1545865199,
-					["Title"] = "战痕命运印记：金币",
-					["Zone"] = {
-						["mapType"] = 3,
-						["mapID"] = 1161,
-						["name"] = "伯拉勒斯",
-						["parentMapID"] = 895,
-					},
-				},
-				[52838] = {
-					["Expires"] = 1545865199,
-					["Title"] = "战痕命运印记：大把的金币",
-					["Zone"] = {
-						["mapType"] = 3,
-						["mapID"] = 1161,
-						["name"] = "伯拉勒斯",
-						["parentMapID"] = 895,
-					},
-				},
 			},
 			["Skills"] = {
 			},
@@ -688,25 +675,25 @@ SavedInstancesDB = {
 			["LClass"] = "法师",
 			["RBGrating"] = 0,
 			["MythicKeyBest"] = {
+				["ResetTime"] = 1546469999,
+				["level"] = 14,
 				["WeeklyReward"] = false,
-				["level"] = 0,
 				["LastWeekLevel"] = 13,
-				["ResetTime"] = 1545865199,
 			},
-			["lastbosstime"] = 1545318777,
-			["PlayedTotal"] = 16826912,
-			["lastbossyelltime"] = 1544802271,
-			["Money"] = 43558750,
-			["LastSeen"] = 1545394004,
+			["lastbosstime"] = 1546179671,
+			["PlayedTotal"] = 16833046,
+			["lastbossyelltime"] = 1546179671,
+			["Money"] = 35762909,
+			["LastSeen"] = 1546179798,
 			["MythicKey"] = {
-				["abbrev"] = "围攻",
-				["ResetTime"] = 1545865199,
-				["link"] = "|cffa335ee|Hkeystone:158923:353:12:9:6:4:16|h[钥石：围攻伯拉勒斯 (12)]|h|r",
+				["abbrev"] = "托尔",
+				["ResetTime"] = 1546469999,
+				["link"] = "|cffa335ee|Hkeystone:158923:246:12:10:7:2:16|h[钥石：托尔达戈 (12)]|h|r",
 				["color"] = "ffa335ee",
 				["level"] = 12,
 			},
 			["Show"] = "saved",
-			["lastboss"] = "朽木伊弗斯",
+			["lastboss"] = "科古斯狱长: 史诗钥石",
 			["BonusRoll"] = {
 				{
 					["name"] = "朽木伊弗斯",
@@ -714,15 +701,15 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [1]
 				{
-					["item"] = "|cffa335ee|Hitem:160642::::::::120:63::5:3:4799:1497:4783:::|h[涟漪低语斗篷]|h|r",
 					["time"] = 1544359519,
 					["name"] = "祖尔: 英雄",
+					["item"] = "|cffa335ee|Hitem:160642::::::::120:63::5:3:4799:1497:4783:::|h[涟漪低语斗篷]|h|r",
 					["currencyID"] = 1553,
 				}, -- [2]
 				{
-					["item"] = "|cffa335ee|Hitem:160696::::::::120:63::5:4:4799:1808:1492:4786:::|h[迫近灭亡法典]|h|r",
 					["time"] = 1543731427,
 					["name"] = "米斯拉克斯: 英雄",
+					["item"] = "|cffa335ee|Hitem:160696::::::::120:63::5:4:4799:1808:1492:4786:::|h[迫近灭亡法典]|h|r",
 					["currencyID"] = 1553,
 				}, -- [3]
 				{
@@ -731,9 +718,9 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [4]
 				{
-					["name"] = "高莱克·图尔: 史诗钥石",
 					["item"] = "|cffa335ee|Hitem:159272::::::::120:64::16:3:5010:1542:4786:::|h[扭曲女巫裹手]|h|r",
 					["time"] = 1542463056,
+					["name"] = "高莱克·图尔: 史诗钥石",
 					["currencyID"] = 1553,
 				}, -- [5]
 				{
@@ -742,15 +729,15 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [6]
 				{
-					["name"] = "祖尔: 英雄",
 					["item"] = "|cffa335ee|Hitem:160642::::::::120:64::5:3:4799:1492:4786:::|h[涟漪低语斗篷]|h|r",
 					["time"] = 1542459024,
+					["name"] = "祖尔: 英雄",
 					["currencyID"] = 1553,
 				}, -- [7]
 				{
-					["time"] = 1542434888,
 					["name"] = "末日之嚎",
 					["item"] = "|cffa335ee|Hitem:161466::::::::120:64::3:3:5120:1492:4786:::|h[战斗法师的风帽]|h|r",
+					["time"] = 1542434888,
 					["currencyID"] = 257,
 				}, -- [8]
 				{
@@ -759,51 +746,62 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [9]
 			},
-			["PlayedLevel"] = 182622,
+			["PlayedLevel"] = 188756,
 			["Faction"] = "Alliance",
-			["ILe"] = 377.75,
-			["DailyResetTime"] = 1545519599,
+			["ILe"] = 379,
+			["DailyResetTime"] = 1546210799,
 			["DailyWorldQuest"] = {
+				["days2"] = {
+					["questneed"] = 4,
+					["name"] = "普罗德摩尔海军部",
+					["isfinish"] = false,
+					["iscompleted"] = false,
+					["dayleft"] = 2,
+					["questdone"] = 0,
+				},
 				["days1"] = {
 					["questneed"] = 4,
-					["name"] = "艾泽拉斯的勇士",
+					["name"] = "风暴之末",
 					["isfinish"] = false,
 					["iscompleted"] = false,
 					["dayleft"] = 1,
-					["questdone"] = 1,
+					["questdone"] = 0,
 				},
 				["days0"] = {
-					["name"] = "大使任务缺失",
-					["iscompleted"] = true,
+					["questneed"] = 3,
+					["name"] = "始祖龟求知者",
+					["isfinish"] = false,
+					["iscompleted"] = false,
 					["dayleft"] = 0,
+					["questdone"] = 0,
 				},
 			},
-			["WeeklyResetTime"] = 1545865199,
+			["WeeklyResetTime"] = 1546469999,
 		},
 		["Kungenë - 末日行者"] = {
-			["lastbossyell"] = "泰坦守护者赫兹雷尔: 史诗钥石",
-			["IL"] = 388.3125,
+			["lastbossyell"] = "猎头者莉扎",
+			["IL"] = 388.75,
 			["Zone"] = "伯拉勒斯港",
 			["Order"] = 50,
 			["Class"] = "WARRIOR",
-			["lastboss"] = "不羁畸变怪: 史诗钥石",
-			["WeeklyResetTime"] = 1545865199,
+			["Race"] = "光铸德莱尼",
 			["currency"] = {
-				[1718] = {
-					["amount"] = 153,
-				},
 				[1580] = {
-					["earnedThisWeek"] = 2,
 					["weeklyMax"] = 2,
-					["totalMax"] = 5,
 					["amount"] = 0,
+					["totalMax"] = 5,
+					["earnedThisWeek"] = 2,
+				},
+				[1191] = {
+					["totalMax"] = 5000,
+					["amount"] = 325,
+				},
+				[777] = {
+					["amount"] = 176,
 				},
 				[1149] = {
 					["totalMax"] = 5000,
 					["amount"] = 1593,
-				},
-				[823] = {
-					["amount"] = 1169,
 				},
 				[994] = {
 					["totalMax"] = 20,
@@ -814,13 +812,15 @@ SavedInstancesDB = {
 					["amount"] = 7723,
 				},
 				[1710] = {
-					["amount"] = 407,
+					["amount"] = 416,
 				},
 				[515] = {
 					["amount"] = 3,
 				},
-				[1501] = {
-					["amount"] = 33,
+				[1129] = {
+					["weeklyMax"] = 3,
+					["totalMax"] = 20,
+					["amount"] = 0,
 				},
 				[1155] = {
 					["totalMax"] = 1000,
@@ -831,18 +831,16 @@ SavedInstancesDB = {
 					["amount"] = 166,
 				},
 				[1560] = {
-					["amount"] = 977,
+					["amount"] = 2477,
 				},
 				[1220] = {
 					["amount"] = 7162,
 				},
 				[1717] = {
-					["amount"] = 21,
+					["amount"] = 96,
 				},
-				[1129] = {
-					["weeklyMax"] = 3,
-					["totalMax"] = 20,
-					["amount"] = 0,
+				[1718] = {
+					["amount"] = 172,
 				},
 				[1533] = {
 					["amount"] = 1437,
@@ -869,46 +867,73 @@ SavedInstancesDB = {
 					["totalMax"] = 2000,
 					["amount"] = 194,
 				},
-				[777] = {
-					["amount"] = 176,
+				[1501] = {
+					["amount"] = 33,
 				},
-				[1191] = {
-					["totalMax"] = 5000,
-					["amount"] = 325,
+				[823] = {
+					["amount"] = 1169,
 				},
 			},
-			["Race"] = "光铸德莱尼",
 			["Quests"] = {
-				[52838] = {
-					["Expires"] = 1545865199,
-					["Title"] = "战痕命运印记：大把的金币",
+				[54368] = {
+					["isDaily"] = true,
 					["Zone"] = {
 						["mapType"] = 3,
 						["mapID"] = 1161,
 						["name"] = "伯拉勒斯",
 						["parentMapID"] = 895,
 					},
+					["Title"] = "黑海岸捐赠：不稳定的时空转移器",
+					["Link"] = "|cffffff00|Hquest:54368:90|h[黑海岸捐赠：不稳定的时空转移器]|h|r",
 				},
-				[52834] = {
-					["Expires"] = 1545865199,
-					["Title"] = "战痕命运印记：金币",
+				[54363] = {
+					["isDaily"] = true,
 					["Zone"] = {
 						["mapType"] = 3,
 						["mapID"] = 1161,
 						["name"] = "伯拉勒斯",
 						["parentMapID"] = 895,
 					},
+					["Title"] = "黑海岸捐赠：战争资源",
+					["Link"] = "|cffffff00|Hquest:54363:90|h[黑海岸捐赠：战争资源]|h|r",
 				},
-				[53037] = {
-					["Expires"] = 1545865199,
-					["Link"] = "|cffffff00|Hquest:53037:90|h[战争的使者]|h|r",
-					["Title"] = "战争的使者",
+				[53436] = {
+					["Expires"] = 1546469999,
 					["Zone"] = {
 						["mapType"] = 3,
 						["mapID"] = 1161,
 						["name"] = "伯拉勒斯",
 						["parentMapID"] = 895,
 					},
+					["Title"] = "联盟的艾泽里特",
+					["Link"] = "|cffffff00|Hquest:53436:90|h[联盟的艾泽里特]|h|r",
+				},
+				[54378] = {
+					["isDaily"] = true,
+					["Zone"] = {
+						["mapType"] = 3,
+						["mapID"] = 1161,
+						["name"] = "伯拉勒斯",
+						["parentMapID"] = 895,
+					},
+					["Title"] = "黑海岸捐赠：鲜血喷发药水",
+					["Link"] = "|cffffff00|Hquest:54378:90|h[黑海岸捐赠：鲜血喷发药水]|h|r",
+				},
+				[53435] = {
+					["Expires"] = 1546469999,
+					["Title"] = "部落的艾泽里特",
+					["Link"] = "|cffffff00|Hquest:53435:90|h[部落的艾泽里特]|h|r",
+				},
+				[54394] = {
+					["isDaily"] = true,
+					["Zone"] = {
+						["mapType"] = 3,
+						["mapID"] = 1161,
+						["name"] = "伯拉勒斯",
+						["parentMapID"] = 895,
+					},
+					["Title"] = "黑海岸捐赠：里脊须肉",
+					["Link"] = "|cffffff00|Hquest:54394:90|h[黑海岸捐赠：里脊须肉]|h|r",
 				},
 			},
 			["Skills"] = {
@@ -917,151 +942,160 @@ SavedInstancesDB = {
 			["LClass"] = "战士",
 			["RBGrating"] = 0,
 			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 14,
-				["level"] = 12,
-				["ResetTime"] = 1545865199,
 				["WeeklyReward"] = false,
+				["level"] = 12,
+				["LastWeekLevel"] = 12,
+				["ResetTime"] = 1546469999,
 			},
-			["PlayedTotal"] = 7156521,
-			["lastbosstime"] = 1545469401,
-			["lastbossyelltime"] = 1545469403,
-			["Money"] = 2637570590,
+			["PlayedTotal"] = 7282083,
+			["LastSeen"] = 1546183768,
+			["lastbossyelltime"] = 1546166915,
+			["Money"] = 2298567022,
+			["lastbosstime"] = 1546149049,
 			["MythicKey"] = {
-				["abbrev"] = "围攻",
-				["ResetTime"] = 1545865199,
-				["link"] = "|cffa335ee|Hkeystone:158923:353:13:9:6:4:16|h[钥石：围攻伯拉勒斯 (13)]|h|r",
+				["abbrev"] = "暴富",
+				["ResetTime"] = 1546469999,
+				["link"] = "|cffa335ee|Hkeystone:158923:247:13:10:7:2:16|h[钥石：暴富矿区！！ (13)]|h|r",
 				["color"] = "ffa335ee",
 				["level"] = 13,
 			},
+			["lastboss"] = "米斯拉克斯: 英雄",
 			["Show"] = "saved",
 			["BonusRoll"] = {
+				{
+					["name"] = "米斯拉克斯: 史诗",
+					["time"] = 1545918787,
+					["currencyID"] = 1553,
+				}, -- [1]
+				{
+					["name"] = "塔罗克: 史诗",
+					["item"] = "|cffa335ee|Hitem:160637::::::::120:72::6:3:4800:1507:4786:::|h[赤红巨像护臂]|h|r",
+					["time"] = 1545911730,
+				}, -- [2]
 				{
 					["name"] = "朽木伊弗斯",
 					["time"] = 1545304936,
 					["currencyID"] = 1553,
-				}, -- [1]
+				}, -- [3]
 				{
 					["time"] = 1545234628,
 					["name"] = "不羁畸变怪: 史诗钥石",
 					["currencyID"] = 1553,
-				}, -- [2]
-				{
-					["name"] = "戈霍恩: 史诗",
-					["item"] = "|cffa335ee|Hitem:160654::::::::120:73::6:3:4800:1507:4786:::|h[被征服的戈霍恩的触须]|h|r",
-					["time"] = 1545055471,
-				}, -- [3]
-				{
-					["time"] = 1544106386,
-					["name"] = "米斯拉克斯: 史诗",
-					["item"] = "|cffa335ee|Hitem:160646::::::::120:73::6:4:4800:42:1512:4783:::|h[确信消亡印戒]|h|r",
-					["currencyID"] = 1553,
 				}, -- [4]
 				{
-					["time"] = 1544099594,
+					["time"] = 1545055471,
+					["name"] = "戈霍恩: 史诗",
+					["item"] = "|cffa335ee|Hitem:160654::::::::120:73::6:3:4800:1507:4786:::|h[被征服的戈霍恩的触须]|h|r",
+				}, -- [5]
+				{
+					["name"] = "米斯拉克斯: 史诗",
+					["item"] = "|cffa335ee|Hitem:160646::::::::120:73::6:4:4800:42:1512:4783:::|h[确信消亡印戒]|h|r",
+					["time"] = 1544106386,
+					["currencyID"] = 1553,
+				}, -- [6]
+				{
 					["name"] = "维克提斯: 史诗",
 					["item"] = "|cffa335ee|Hitem:160655::::::::120:73::6:3:4800:1507:4786:::|h[血源疫病注射器]|h|r",
+					["time"] = 1544099594,
 					["currencyID"] = 1553,
-				}, -- [5]
+				}, -- [7]
 				{
 					["name"] = "米斯拉克斯: 史诗",
 					["time"] = 1543502277,
 					["currencyID"] = 1553,
-				}, -- [6]
+				}, -- [8]
 				{
 					["name"] = "塔罗克: 史诗",
 					["time"] = 1543492274,
 					["currencyID"] = 1553,
-				}, -- [7]
+				}, -- [9]
 				{
 					["time"] = 1542896050,
 					["name"] = "米斯拉克斯: 史诗",
 					["currencyID"] = 1553,
-				}, -- [8]
+				}, -- [10]
 				{
-					["time"] = 1542895079,
 					["name"] = "祖尔: 史诗",
 					["item"] = "|cffa335ee|Hitem:160722::::::::120:73::6:3:4824:1507:4786:::|h[末日阴谋胸甲]|h|r",
+					["time"] = 1542895079,
 					["currencyID"] = 1553,
-				}, -- [9]
+				}, -- [11]
 				{
-					["time"] = 1542888001,
 					["name"] = "纯净圣母: 史诗",
 					["item"] = "|cffa335ee|Hitem:160634::::::::120:73::6:3:4824:1507:4786:::|h[移动迷网头盔]|h|r",
+					["time"] = 1542888001,
 					["currencyID"] = 1553,
-				}, -- [10]
+				}, -- [12]
 				{
 					["time"] = 1542290999,
 					["name"] = "米斯拉克斯: 史诗",
 					["currencyID"] = 1553,
-				}, -- [11]
+				}, -- [13]
 				{
-					["time"] = 1541162432,
 					["name"] = "米斯拉克斯: 英雄",
 					["item"] = "|cffa335ee|Hitem:160653::::::::120:73::5:3:4799:1507:4784:::|h[夏尔扎克斯的迷蒙之眼]|h|r",
+					["time"] = 1541162432,
 					["currencyID"] = 1553,
-				}, -- [12]
+				}, -- [14]
 				{
 					["name"] = "米斯拉克斯: 英雄",
 					["time"] = 1540991541,
 					["currencyID"] = 1553,
-				}, -- [13]
+				}, -- [15]
 				{
-					["name"] = "戈霍恩: 英雄",
 					["item"] = "|cffa335ee|Hitem:160733::::::::120:73::5:3:4799:1492:4786:::|h[鲜血囊肿战靴]|h|r",
 					["time"] = 1539954412,
+					["name"] = "戈霍恩: 英雄",
 					["currencyID"] = 1553,
-				}, -- [14]
+				}, -- [16]
 				{
 					["time"] = 1539792445,
 					["name"] = "亚兹玛: 史诗钥石",
 					["currencyID"] = 1553,
-				}, -- [15]
+				}, -- [17]
 				{
 					["name"] = "祖尔: 英雄",
 					["time"] = 1538829048,
 					["currencyID"] = 1553,
-				}, -- [16]
+				}, -- [18]
 				{
 					["name"] = "维克提斯: 英雄",
 					["time"] = 1538826601,
 					["currencyID"] = 1553,
-				}, -- [17]
+				}, -- [19]
 				{
 					["name"] = "纯净圣母: 英雄",
 					["time"] = 1538049182,
 					["currencyID"] = 1553,
-				}, -- [18]
+				}, -- [20]
 				{
 					["time"] = 1536594569,
 					["name"] = "末日之嚎",
 					["currencyID"] = 1553,
-				}, -- [19]
+				}, -- [21]
 			},
-			["PlayedLevel"] = 1289035,
+			["PlayedLevel"] = 1414597,
 			["Faction"] = "Alliance",
-			["ILe"] = 387.0625,
-			["DailyResetTime"] = 1545519599,
+			["ILe"] = 387.5,
+			["DailyResetTime"] = 1546210799,
 			["DailyWorldQuest"] = {
 				["days2"] = {
-					["questneed"] = 3,
-					["name"] = "始祖龟求知者",
-					["iscompleted"] = false,
-					["isfinish"] = false,
 					["dayleft"] = 2,
-					["questdone"] = 0,
-				},
-				["days1"] = {
 					["name"] = "大使任务缺失",
 					["iscompleted"] = true,
-					["dayleft"] = 1,
 				},
 				["days0"] = {
+					["dayleft"] = 0,
 					["name"] = "大使任务缺失",
 					["iscompleted"] = true,
-					["dayleft"] = 0,
+				},
+				["days1"] = {
+					["dayleft"] = 1,
+					["name"] = "大使任务缺失",
+					["iscompleted"] = true,
 				},
 			},
-			["LastSeen"] = 1545496747,
+			["WeeklyResetTime"] = 1546469999,
 		},
 		["理想叁旬丶 - 末日行者"] = {
 			["lastbossyell"] = "拆解者米斯拉克斯: 英雄",
@@ -1178,34 +1212,34 @@ SavedInstancesDB = {
 			},
 			["PlayedTotal"] = 4373274,
 			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 11,
-				["level"] = 0,
-				["ResetTime"] = 1545865199,
 				["WeeklyReward"] = false,
+				["level"] = 0,
+				["LastWeekLevel"] = 11,
+				["ResetTime"] = 1546469999,
 			},
 			["lastbossyelltime"] = 1540533875,
 			["Money"] = 453651870,
-			["WeeklyResetTime"] = 1545865199,
+			["WeeklyResetTime"] = 1546469999,
 			["lastbosstime"] = 1540533875,
 			["lastboss"] = "米斯拉克斯: 英雄",
 			["Show"] = "saved",
 			["BonusRoll"] = {
 				{
-					["item"] = "|cffa335ee|Hitem:160686::::::::120:250::6:3:4800:1507:4786:::|h[沃洛尔，坚贞者的流光之刃]|h|r",
 					["time"] = 1539873482,
 					["name"] = "米斯拉克斯: 史诗",
+					["item"] = "|cffa335ee|Hitem:160686::::::::120:250::6:3:4800:1507:4786:::|h[沃洛尔，坚贞者的流光之刃]|h|r",
 					["currencyID"] = 1553,
 				}, -- [1]
 				{
-					["name"] = "维克提斯: 史诗",
 					["item"] = "|cffa335ee|Hitem:160636::::::::120:250::6:3:4824:1507:4786:::|h[剧毒诱变剂护胸]|h|r",
 					["time"] = 1539867794,
+					["name"] = "维克提斯: 史诗",
 					["currencyID"] = 1553,
 				}, -- [2]
 				{
-					["time"] = 1539260979,
 					["name"] = "纯净圣母: 史诗",
 					["item"] = "|cffa335ee|Hitem:160634::::::::120:250::6:3:4824:1507:4786:::|h[移动迷网头盔]|h|r",
+					["time"] = 1539260979,
 					["currencyID"] = 1553,
 				}, -- [3]
 				{
@@ -1214,9 +1248,9 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [4]
 				{
-					["item"] = "|cffa335ee|Hitem:160655::::::::120:250::6:4:4800:40:1507:4786:::|h[血源疫病注射器]|h|r",
 					["time"] = 1538150728,
 					["name"] = "维克提斯: 史诗",
+					["item"] = "|cffa335ee|Hitem:160655::::::::120:250::6:4:4800:40:1507:4786:::|h[血源疫病注射器]|h|r",
 					["currencyID"] = 1553,
 				}, -- [5]
 				{
@@ -1228,7 +1262,7 @@ SavedInstancesDB = {
 			["PlayedLevel"] = 1292526,
 			["Faction"] = "Alliance",
 			["ILe"] = 383.75,
-			["DailyResetTime"] = 1545519599,
+			["DailyResetTime"] = 1546210799,
 			["DailyWorldQuest"] = {
 				["days0"] = {
 					["questneed"] = 4,
@@ -1248,7 +1282,7 @@ SavedInstancesDB = {
 			["Order"] = 50,
 			["Class"] = "DEATHKNIGHT",
 			["Race"] = "暗夜精灵",
-			["WeeklyResetTime"] = 1545865199,
+			["WeeklyResetTime"] = 1546469999,
 			["DailyWorldQuest"] = {
 				["days0"] = {
 					["questneed"] = 4,
@@ -1259,7 +1293,7 @@ SavedInstancesDB = {
 					["questdone"] = 0,
 				},
 			},
-			["DailyResetTime"] = 1545519599,
+			["DailyResetTime"] = 1546210799,
 			["Level"] = 120,
 			["LClass"] = "死亡骑士",
 			["RBGrating"] = 0,
@@ -1267,10 +1301,10 @@ SavedInstancesDB = {
 			},
 			["lastbosstime"] = 1537365996,
 			["MythicKeyBest"] = {
-				["WeeklyReward"] = false,
+				["ResetTime"] = 1546469999,
 				["level"] = 0,
+				["WeeklyReward"] = false,
 				["LastWeekLevel"] = 11,
-				["ResetTime"] = 1545865199,
 			},
 			["lastbossyelltime"] = 1537365997,
 			["Money"] = 1383455688,
@@ -1285,9 +1319,9 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [1]
 				{
-					["time"] = 1536850981,
 					["name"] = "塔罗克: 史诗",
 					["item"] = "|cffa335ee|Hitem:160679::::::::120:250::6:3:4800:1512:4783:::|h[霍尔，腐化者的战锤]|h|r",
+					["time"] = 1536850981,
 					["currencyID"] = 1553,
 				}, -- [2]
 				{
@@ -1471,10 +1505,10 @@ SavedInstancesDB = {
 			["lastbossyelltime"] = 1539362029,
 			["Money"] = 195487633,
 			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 12,
-				["level"] = 0,
-				["ResetTime"] = 1545865199,
 				["WeeklyReward"] = true,
+				["level"] = 0,
+				["LastWeekLevel"] = 12,
+				["ResetTime"] = 1546469999,
 			},
 			["LastSeen"] = 1539363889,
 			["Show"] = "saved",
@@ -1486,16 +1520,16 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [1]
 				{
-					["item"] = "|cffa335ee|Hitem:160649::::::::120:270::5:3:4799:1492:4786:::|h[疫苗提取物]|h|r",
 					["time"] = 1539346102,
 					["name"] = "维克提斯: 英雄",
+					["item"] = "|cffa335ee|Hitem:160649::::::::120:270::5:3:4799:1492:4786:::|h[疫苗提取物]|h|r",
 					["currencyID"] = 1553,
 				}, -- [2]
 			},
 			["PlayedLevel"] = 53801,
 			["Faction"] = "Alliance",
 			["ILe"] = 358.8125,
-			["DailyResetTime"] = 1545519599,
+			["DailyResetTime"] = 1546210799,
 			["DailyWorldQuest"] = {
 				["days0"] = {
 					["questneed"] = 4,
@@ -1506,7 +1540,7 @@ SavedInstancesDB = {
 					["questdone"] = 1,
 				},
 			},
-			["WeeklyResetTime"] = 1545865199,
+			["WeeklyResetTime"] = 1546469999,
 		},
 		["丶理想三旬 - 末日行者"] = {
 			["lastbossyell"] = "哈兰·斯威提: 史诗钥石",
@@ -1528,18 +1562,17 @@ SavedInstancesDB = {
 					["totalMax"] = 5,
 					["earnedThisWeek"] = 0,
 				},
-				[1273] = {
-					["weeklyMax"] = 3,
-					["totalMax"] = 6,
-					["amount"] = 0,
+				[823] = {
+					["amount"] = 76403,
 				},
 				[776] = {
 					["totalMax"] = 20,
 					["amount"] = 2,
 				},
-				[1149] = {
-					["totalMax"] = 5000,
-					["amount"] = 10,
+				[1273] = {
+					["weeklyMax"] = 3,
+					["totalMax"] = 6,
+					["amount"] = 0,
 				},
 				[994] = {
 					["totalMax"] = 20,
@@ -1608,11 +1641,12 @@ SavedInstancesDB = {
 				[777] = {
 					["amount"] = 109003,
 				},
-				[823] = {
-					["amount"] = 76403,
+				[1149] = {
+					["totalMax"] = 5000,
+					["amount"] = 10,
 				},
 			},
-			["WeeklyResetTime"] = 1545865199,
+			["WeeklyResetTime"] = 1546469999,
 			["DailyWorldQuest"] = {
 				["days0"] = {
 					["questneed"] = 3,
@@ -1623,15 +1657,15 @@ SavedInstancesDB = {
 					["questdone"] = 0,
 				},
 			},
-			["DailyResetTime"] = 1545519599,
+			["DailyResetTime"] = 1546210799,
 			["Level"] = 120,
 			["LClass"] = "死亡骑士",
 			["RBGrating"] = 0,
 			["MythicKeyBest"] = {
-				["LastWeekLevel"] = 11,
-				["level"] = 0,
-				["ResetTime"] = 1545865199,
 				["WeeklyReward"] = true,
+				["level"] = 0,
+				["LastWeekLevel"] = 11,
+				["ResetTime"] = 1546469999,
 			},
 			["lastbosstime"] = 1541945541,
 			["MythicKey"] = {
@@ -1649,9 +1683,9 @@ SavedInstancesDB = {
 					["currencyID"] = 1553,
 				}, -- [1]
 				{
-					["time"] = 1541594311,
 					["name"] = "米斯拉克斯: 史诗",
 					["item"] = "|cffa335ee|Hitem:160686::::::::120:250::6:3:4800:1507:4786:::|h[沃洛尔，坚贞者的流光之刃]|h|r",
+					["time"] = 1541594311,
 					["currencyID"] = 1553,
 				}, -- [2]
 			},
@@ -1665,70 +1699,77 @@ SavedInstancesDB = {
 			["LastSeen"] = 1541945948,
 		},
 	},
+	["MinimapIcon"] = {
+		["minimapPos"] = -1870,
+		["hide"] = false,
+	},
 	["Tooltip"] = {
-		["Currency515"] = true,
-		["CategorySort"] = "EXPANSION",
-		["SelfAlways"] = false,
-		["Currency1149"] = true,
-		["NumberFormat"] = true,
-		["Currency1226"] = false,
-		["RaidsFirst"] = true,
-		["ShowSoloCategory"] = false,
-		["CombineWorldBosses"] = false,
-		["TrackBonus"] = false,
-		["HistoryText"] = false,
-		["NewFirst"] = true,
-		["Currency738"] = false,
-		["CurrencyEarned"] = true,
-		["Currency1220"] = true,
-		["ServerSort"] = true,
-		["CurrencyValueColor"] = true,
-		["ShowRandom"] = true,
-		["ShowExpired"] = false,
-		["Currency994"] = false,
-		["TrackWeeklyQuests"] = true,
-		["Currency1710"] = true,
-		["ShowHints"] = true,
-		["LimitWarn"] = true,
 		["Scale"] = 1,
-		["ShowCategories"] = false,
-		["RowHighlight"] = 0.1,
-		["DailyWorldQuest"] = true,
-		["Currency824"] = false,
-		["AbbreviateKeystone"] = true,
-		["Currency776"] = false,
+		["Currency1226"] = false,
+		["Currency1710"] = true,
+		["HistoryText"] = false,
+		["CategorySpaces"] = false,
+		["Currency738"] = false,
+		["ShowRandom"] = true,
+		["Currency1718"] = true,
 		["TrackDeserter"] = true,
-		["ServerOnly"] = false,
-		["Currency1273"] = true,
-		["TrackLFG"] = true,
-		["CombineLFR"] = true,
+		["Currency1716"] = true,
 		["TrackDailyQuests"] = true,
 		["Currency823"] = false,
-		["Currency1580"] = true,
-		["ShowServer"] = false,
-		["ShowHoliday"] = true,
-		["CategorySpaces"] = false,
-		["Currency1155"] = true,
 		["Currency1191"] = true,
-		["TrackFarm"] = true,
 		["ConnectedRealms"] = "group",
-		["Currency1129"] = false,
-		["SelfFirst"] = true,
-		["FitToScreen"] = true,
+		["ServerSort"] = true,
 		["ReverseInstances"] = false,
-		["AugmentBonus"] = true,
 		["CurrencyMax"] = false,
-		["MythicKeyBest"] = true,
-		["TrackPlayed"] = true,
-		["MythicKey"] = true,
-		["TrackSkills"] = true,
-		["Currency1587"] = true,
 		["ReportResets"] = true,
-		["Currency1101"] = false,
 		["Currency1166"] = true,
 		["Currency1560"] = true,
+		["Currency515"] = true,
+		["CategorySort"] = "EXPANSION",
+		["ShowSoloCategory"] = false,
+		["ShowServer"] = false,
+		["NumberFormat"] = true,
+		["ShowExpired"] = false,
+		["RaidsFirst"] = true,
+		["Currency1155"] = true,
+		["CurrencyEarned"] = true,
+		["Currency776"] = false,
+		["CurrencyValueColor"] = true,
+		["Currency994"] = false,
+		["TrackWeeklyQuests"] = true,
+		["MythicKey"] = true,
+		["CombineLFR"] = true,
+		["LimitWarn"] = true,
+		["DailyWorldQuestAllNames"] = true,
+		["DailyWorldQuest"] = true,
+		["Currency824"] = false,
+		["ShowHoliday"] = true,
+		["Currency1273"] = true,
+		["TrackLFG"] = true,
+		["AugmentBonus"] = true,
+		["Currency1580"] = true,
+		["Currency1717"] = true,
+		["AbbreviateKeystone"] = true,
+		["TrackFarm"] = true,
+		["SelfFirst"] = true,
+		["CombineWorldBosses"] = false,
+		["ShowCategories"] = false,
+		["Currency1129"] = false,
+		["TrackPlayed"] = true,
+		["FitToScreen"] = true,
+		["ShowHints"] = true,
+		["NewFirst"] = true,
+		["ServerOnly"] = false,
+		["Currency1220"] = true,
+		["Currency1587"] = true,
+		["TrackBonus"] = false,
+		["TrackSkills"] = true,
+		["Currency1149"] = true,
+		["SelfAlways"] = false,
+		["Currency1101"] = false,
+		["RowHighlight"] = 0.1,
+		["MythicKeyBest"] = true,
 	},
-	["bfSet"] = true,
 	["Instances"] = {
 		[""] = {
 			["LFDID"] = 1508,
@@ -1827,6 +1868,15 @@ SavedInstancesDB = {
 			["LFDID"] = 532,
 			["Expansion"] = 4,
 			["Show"] = "saved",
+			["Kungenë - 末日行者"] = {
+				[6] = {
+					["Expires"] = 1546470002,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1008:6:59|h[魔古山宝库]|h|r",
+					["ID"] = 481086487,
+					["Locked"] = true,
+				},
+			},
 			["Raid"] = true,
 			["RecLevel"] = 90,
 		},
@@ -2134,14 +2184,14 @@ SavedInstancesDB = {
 				[2] = {
 					true, -- [1]
 					["ID"] = -1,
-					["Expires"] = 1545865199,
+					["Expires"] = 1546469999,
 				},
 			},
 			["陈粒 - 末日行者"] = {
 				[2] = {
 					true, -- [1]
 					["ID"] = -1,
-					["Expires"] = 1545865199,
+					["Expires"] = 1546469999,
 				},
 			},
 			["RecLevel"] = 120,
@@ -2150,7 +2200,7 @@ SavedInstancesDB = {
 				[2] = {
 					true, -- [1]
 					["ID"] = -1,
-					["Expires"] = 1545865199,
+					["Expires"] = 1546469999,
 				},
 			},
 		},
@@ -2373,26 +2423,19 @@ SavedInstancesDB = {
 			["Show"] = "saved",
 		},
 		["奥迪尔"] = {
-			["丶理想三旬 - 末日行者"] = {
+			["南城凉喵 - 末日行者"] = {
 				[14] = {
 					["Expires"] = 0,
 					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1861:14:254|h[奥迪尔]|h|r",
-					["ID"] = 294174201,
-					["Locked"] = false,
-				},
-				[16] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1861:16:246|h[奥迪尔]|h|r",
-					["ID"] = 476840306,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1861:14:255|h[奥迪尔]|h|r",
+					["ID"] = 470564701,
 					["Locked"] = false,
 				},
 				[15] = {
 					["Expires"] = 0,
 					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1861:15:126|h[奥迪尔]|h|r",
-					["ID"] = 176135681,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1861:15:98|h[奥迪尔]|h|r",
+					["ID"] = 470614739,
 					["Locked"] = false,
 				},
 			},
@@ -2420,6 +2463,47 @@ SavedInstancesDB = {
 					["Locked"] = false,
 				},
 			},
+			["丶理想三旬 - 末日行者"] = {
+				[14] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1861:14:254|h[奥迪尔]|h|r",
+					["ID"] = 294174201,
+					["Locked"] = false,
+				},
+				[16] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1861:16:246|h[奥迪尔]|h|r",
+					["ID"] = 476840306,
+					["Locked"] = false,
+				},
+				[15] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1861:15:126|h[奥迪尔]|h|r",
+					["ID"] = 176135681,
+					["Locked"] = false,
+				},
+			},
+			["陈粒 - 末日行者"] = {
+				[16] = {
+					["Expires"] = 1546470000,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1861:16:116|h[奥迪尔]|h|r",
+					["ID"] = 481147154,
+					["Locked"] = true,
+				},
+				[15] = {
+					["Expires"] = 1546470000,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1861:15:254|h[奥迪尔]|h|r",
+					["ID"] = 481072400,
+					["Locked"] = true,
+				},
+			},
+			["Show"] = "saved",
+			["LFDID"] = 1889,
 			["魔王降临丶 - 末日行者"] = {
 				[14] = {
 					["Expires"] = 0,
@@ -2440,40 +2524,6 @@ SavedInstancesDB = {
 					["Extended"] = false,
 					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1861:15:255|h[奥迪尔]|h|r",
 					["ID"] = 471196285,
-					["Locked"] = false,
-				},
-			},
-			["南城凉喵 - 末日行者"] = {
-				[14] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1861:14:255|h[奥迪尔]|h|r",
-					["ID"] = 470564701,
-					["Locked"] = false,
-				},
-				[15] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1861:15:98|h[奥迪尔]|h|r",
-					["ID"] = 470614739,
-					["Locked"] = false,
-				},
-			},
-			["Show"] = "saved",
-			["LFDID"] = 1889,
-			["陈粒 - 末日行者"] = {
-				[16] = {
-					["Expires"] = 1545865197,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1861:16:118|h[奥迪尔]|h|r",
-					["ID"] = 480412446,
-					["Locked"] = true,
-				},
-				[15] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1861:15:254|h[奥迪尔]|h|r",
-					["ID"] = 480178060,
 					["Locked"] = false,
 				},
 			},
@@ -2502,17 +2552,17 @@ SavedInstancesDB = {
 					["Locked"] = false,
 				},
 				[16] = {
-					["Expires"] = 1545865200,
+					["Expires"] = 1546470002,
 					["Extended"] = false,
 					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1861:16:254|h[奥迪尔]|h|r",
-					["ID"] = 480337885,
+					["ID"] = 480928392,
 					["Locked"] = true,
 				},
 				[15] = {
-					["Expires"] = 1545865200,
+					["Expires"] = 1546470002,
 					["Extended"] = false,
 					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1861:15:254|h[奥迪尔]|h|r",
-					["ID"] = 480429497,
+					["ID"] = 481116836,
 					["Locked"] = true,
 				},
 			},
@@ -2539,7 +2589,7 @@ SavedInstancesDB = {
 					["Locked"] = false,
 				},
 			},
-			["Raid"] = true,
+			["RecLevel"] = 120,
 			["扛阿古斯专用 - 末日行者"] = {
 				[15] = {
 					["Expires"] = 0,
@@ -2549,7 +2599,7 @@ SavedInstancesDB = {
 					["Locked"] = false,
 				},
 			},
-			["RecLevel"] = 120,
+			["Raid"] = true,
 		},
 		["火焰之地"] = {
 			["LFDID"] = 362,
@@ -3258,19 +3308,19 @@ SavedInstancesDB = {
 			["RecLevel"] = 120,
 			["Show"] = "saved",
 		},
-		["玛拉顿－毒菇洞穴"] = {
-			["LFDID"] = 26,
+		["斯坦索姆－正门"] = {
+			["LFDID"] = 40,
 			["Expansion"] = 0,
 			["Show"] = "saved",
 			["RecLevel"] = 0,
 			["Raid"] = false,
 		},
-		["皇家图书馆"] = {
-			["LFDID"] = 1924,
-			["Expansion"] = 6,
-			["Raid"] = true,
-			["RecLevel"] = 110,
+		["纳拉克"] = {
 			["Show"] = "saved",
+			["Expansion"] = 4,
+			["WorldBoss"] = 814,
+			["RecLevel"] = 90,
+			["Raid"] = true,
 		},
 		["决战奥格瑞玛"] = {
 			["LFDID"] = 766,
@@ -3343,12 +3393,12 @@ SavedInstancesDB = {
 			},
 			["RecLevel"] = 110,
 		},
-		["黑翼之巢"] = {
-			["LFDID"] = 50,
-			["Expansion"] = 0,
+		["黑石塔上层"] = {
+			["LFDID"] = 1004,
+			["Expansion"] = 5,
 			["Show"] = "saved",
-			["RecLevel"] = 60,
-			["Raid"] = true,
+			["Raid"] = false,
+			["RecLevel"] = 90,
 		},
 		["噬魂之喉"] = {
 			["LFDID"] = 1192,
@@ -3357,12 +3407,12 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 110,
 		},
-		["魔环"] = {
-			["LFDID"] = 211,
-			["Expansion"] = 2,
+		["黑心林地"] = {
+			["LFDID"] = 1202,
+			["Expansion"] = 6,
 			["Show"] = "saved",
 			["Raid"] = false,
-			["RecLevel"] = 80,
+			["RecLevel"] = 100,
 		},
 		["黑翼血环"] = {
 			["Show"] = "saved",
@@ -3394,12 +3444,12 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 80,
 		},
-		["大十字军的试炼"] = {
-			["LFDID"] = 250,
-			["Expansion"] = 2,
+		["艾萨拉之眼"] = {
+			["LFDID"] = 1175,
+			["Expansion"] = 6,
 			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 80,
+			["Raid"] = false,
+			["RecLevel"] = 100,
 		},
 		["Lord Kazzak"] = {
 			["Show"] = "saved",
@@ -3430,12 +3480,12 @@ SavedInstancesDB = {
 			["Random"] = true,
 			["Raid"] = false,
 		},
-		["纳拉克"] = {
+		["生态船"] = {
+			["LFDID"] = 191,
+			["Expansion"] = 1,
 			["Show"] = "saved",
-			["Expansion"] = 4,
-			["WorldBoss"] = 814,
-			["RecLevel"] = 90,
-			["Raid"] = true,
+			["Raid"] = false,
+			["RecLevel"] = 70,
 		},
 		["死亡矿井"] = {
 			["LFDID"] = 326,
@@ -3485,19 +3535,19 @@ SavedInstancesDB = {
 			["Raid"] = true,
 			["RecLevel"] = 80,
 		},
-		["团队搜寻器: 被遗忘的深渊"] = {
-			["LFDID"] = 836,
-			["Expansion"] = 4,
-			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 90,
-		},
-		["饱受折磨的守护者"] = {
-			["LFDID"] = 1927,
+		["萨格拉斯之墓"] = {
+			["LFDID"] = 1527,
 			["Expansion"] = 6,
+			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 110,
+		},
+		["团队搜寻器: 毁灭者高台"] = {
+			["LFDID"] = 1369,
+			["Expansion"] = 5,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 100,
 		},
 		["幽暗沼泽"] = {
 			["LFDID"] = 186,
@@ -3520,12 +3570,13 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["熔火之心"] = {
-			["LFDID"] = 48,
-			["Expansion"] = 0,
+		["随机《德拉诺之王》地下城"] = {
+			["LFDID"] = 788,
+			["Expansion"] = 5,
 			["Show"] = "saved",
-			["RecLevel"] = 60,
-			["Raid"] = true,
+			["RecLevel"] = 0,
+			["Random"] = true,
+			["Raid"] = false,
 		},
 		["乌达斯塔"] = {
 			["Show"] = "saved",
@@ -3541,13 +3592,6 @@ SavedInstancesDB = {
 			["Raid"] = true,
 			["RecLevel"] = 85,
 		},
-		["魔导师平台"] = {
-			["LFDID"] = 1154,
-			["Expansion"] = 1,
-			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 70,
-		},
 		["蔚索斯"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
@@ -3556,6 +3600,13 @@ SavedInstancesDB = {
 			["Raid"] = true,
 			["杨超越降临 - 末日行者"] = {
 			},
+		},
+		["团队搜寻器: 暗夜之塔"] = {
+			["LFDID"] = 1292,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["RecLevel"] = 110,
+			["Raid"] = true,
 		},
 		["黑鸦堡垒"] = {
 			["LFDID"] = 1205,
@@ -3578,12 +3629,12 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 85,
 		},
-		["旋云之巅"] = {
-			["LFDID"] = 1147,
-			["Expansion"] = 3,
+		["黑翼之巢"] = {
+			["LFDID"] = 50,
+			["Expansion"] = 0,
 			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 85,
+			["RecLevel"] = 60,
+			["Raid"] = true,
 		},
 		["哀嚎洞穴"] = {
 			["LFDID"] = 1,
@@ -3592,80 +3643,85 @@ SavedInstancesDB = {
 			["RecLevel"] = 0,
 			["Raid"] = false,
 		},
-		["黑石塔上层"] = {
-			["LFDID"] = 1004,
-			["Expansion"] = 5,
+		["随机时空漫游地下城（巫妖王之怒）"] = {
 			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 90,
-		},
-		["团队搜寻器: 赞达拉的背水一战"] = {
-			["LFDID"] = 835,
 			["Expansion"] = 4,
-			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 90,
+			["LFDID"] = 995,
+			["Holiday"] = true,
+			["RecLevel"] = 0,
+			["Random"] = true,
+			["Raid"] = false,
 		},
-		["地渊孢林"] = {
+		["托尔达戈"] = {
 			["南城凉喵 - 末日行者"] = {
 				[23] = {
 					["Expires"] = 0,
 					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1841:23:15|h[地渊孢林]|h|r",
-					["ID"] = 469908261,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1771:23:15|h[托尔达戈]|h|r",
+					["ID"] = 469903806,
+					["Locked"] = false,
+				},
+				[2] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1771:2:3|h[托尔达戈]|h|r",
+					["ID"] = 2715089934,
 					["Locked"] = false,
 				},
 			},
 			["Expansion"] = 7,
 			["杨超越降临 - 末日行者"] = {
+				[2] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:2:15|h[托尔达戈]|h|r",
+					["ID"] = 469011460,
+					["Locked"] = false,
+				},
 				[23] = {
 					["Expires"] = 0,
 					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1841:23:15|h[地渊孢林]|h|r",
-					["ID"] = 469996791,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:23:15|h[托尔达戈]|h|r",
+					["ID"] = 470000555,
 					["Locked"] = false,
 				},
 			},
-			["Raid"] = false,
-			["LFDID"] = 1777,
+			["LFDID"] = 1778,
 			["魔王降临丶 - 末日行者"] = {
 				[23] = {
 					["Expires"] = 0,
 					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1841:23:15|h[地渊孢林]|h|r",
-					["ID"] = 469996791,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:23:15|h[托尔达戈]|h|r",
+					["ID"] = 470000555,
 					["Locked"] = false,
 				},
-			},
-			["秀逗魔导士丶 - 末日行者"] = {
-				[23] = {
+				[2] = {
 					["Expires"] = 0,
 					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05FAF262:1841:23:15|h[地渊孢林]|h|r",
-					["ID"] = 477616083,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:2:15|h[托尔达戈]|h|r",
+					["ID"] = 469011460,
 					["Locked"] = false,
 				},
 			},
-			["Kungenë - 末日行者"] = {
-				[23] = {
-					["Expires"] = 1545865200,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1841:23:15|h[地渊孢林]|h|r",
-					["ID"] = 480461573,
-					["Locked"] = true,
-				},
-			},
-			["RecLevel"] = 110,
+			["Raid"] = false,
+			["RecLevel"] = 115,
 			["扛阿古斯专用 - 末日行者"] = {
 				[23] = {
 					["Expires"] = 0,
 					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1841:23:15|h[地渊孢林]|h|r",
-					["ID"] = 3391359684,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1771:23:15|h[托尔达戈]|h|r",
+					["ID"] = 3391561122,
 					["Locked"] = false,
 				},
 			},
 			["Show"] = "saved",
+		},
+		["围攻砮皂寺"] = {
+			["LFDID"] = 1465,
+			["Expansion"] = 4,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 90,
 		},
 		["团队搜寻器: 联盟之力"] = {
 			["LFDID"] = 1947,
@@ -3689,7 +3745,7 @@ SavedInstancesDB = {
 			["RecLevel"] = 80,
 		},
 		["地狱火堡垒"] = {
-			["Show"] = "saved",
+			["LFDID"] = 989,
 			["Expansion"] = 5,
 			["秀逗魔导士丶 - 末日行者"] = {
 				[16] = {
@@ -3709,16 +3765,16 @@ SavedInstancesDB = {
 					["Locked"] = false,
 				},
 			},
-			["RecLevel"] = 100,
-			["LFDID"] = 989,
-			["Raid"] = true,
-		},
-		["突袭紫罗兰监狱"] = {
-			["LFDID"] = 1209,
-			["Expansion"] = 6,
 			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 105,
+			["Raid"] = true,
+			["RecLevel"] = 100,
+		},
+		["皇家图书馆"] = {
+			["LFDID"] = 1924,
+			["Expansion"] = 6,
+			["Raid"] = true,
+			["RecLevel"] = 110,
+			["Show"] = "saved",
 		},
 		["鬼母阿娜"] = {
 			["Show"] = "saved",
@@ -3735,94 +3791,49 @@ SavedInstancesDB = {
 			["Random"] = true,
 			["Raid"] = false,
 		},
-		["黑心林地"] = {
-			["LFDID"] = 1202,
+		["突袭紫罗兰监狱"] = {
+			["LFDID"] = 1209,
 			["Expansion"] = 6,
 			["Show"] = "saved",
 			["Raid"] = false,
-			["RecLevel"] = 100,
+			["RecLevel"] = 105,
 		},
-		["雷电王座"] = {
-			["LFDID"] = 634,
-			["Expansion"] = 4,
+		["剃刀高地"] = {
+			["LFDID"] = 20,
+			["Expansion"] = 0,
 			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 90,
-		},
-		["塞塔里斯神庙"] = {
-			["南城凉喵 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1877:23:15|h[塞塔里斯神庙]|h|r",
-					["ID"] = 469912908,
-					["Locked"] = false,
-				},
-			},
-			["Expansion"] = 7,
-			["杨超越降临 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1877:23:15|h[塞塔里斯神庙]|h|r",
-					["ID"] = 469976504,
-					["Locked"] = false,
-				},
-			},
-			["LFDID"] = 1775,
-			["魔王降临丶 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1877:23:15|h[塞塔里斯神庙]|h|r",
-					["ID"] = 469976504,
-					["Locked"] = false,
-				},
-			},
-			["Show"] = "saved",
-			["Kungenë - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1877:23:15|h[塞塔里斯神庙]|h|r",
-					["ID"] = 479669605,
-					["Locked"] = false,
-				},
-			},
+			["RecLevel"] = 0,
 			["Raid"] = false,
-			["扛阿古斯专用 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1877:23:15|h[塞塔里斯神庙]|h|r",
-					["ID"] = 3391394139,
-					["Locked"] = false,
-				},
-			},
-			["RecLevel"] = 110,
 		},
-		["随机时空漫游地下城（巫妖王之怒）"] = {
+		["随机地下城（争霸艾泽拉斯）"] = {
+			["LFDID"] = 1670,
+			["Expansion"] = 7,
 			["Show"] = "saved",
-			["Expansion"] = 4,
-			["LFDID"] = 995,
-			["Holiday"] = true,
 			["RecLevel"] = 0,
 			["Random"] = true,
 			["Raid"] = false,
 		},
-		["沙索斯"] = {
+		["时空漫游团队副本：黑暗神殿"] = {
+			["Show"] = "saved",
+			["Expansion"] = 1,
+			["LFDID"] = 1533,
+			["Raid"] = true,
+			["Holiday"] = true,
+			["RecLevel"] = 110,
+		},
+		["布鲁塔卢斯"] = {
 			["Show"] = "saved",
 			["Expansion"] = 6,
-			["WorldBoss"] = 1763,
+			["WorldBoss"] = 1883,
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["团队搜寻器: 修身殿"] = {
-			["LFDID"] = 837,
-			["Expansion"] = 4,
+		["守望者地窟"] = {
+			["LFDID"] = 1044,
+			["Expansion"] = 6,
 			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 90,
+			["Raid"] = false,
+			["RecLevel"] = 110,
 		},
 		["奥金尼地穴"] = {
 			["LFDID"] = 178,
@@ -3838,12 +3849,12 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["斯坦索姆－正门"] = {
-			["LFDID"] = 40,
-			["Expansion"] = 0,
+		["团队搜寻器: 围攻达萨罗"] = {
+			["LFDID"] = 1945,
+			["Expansion"] = 7,
+			["Raid"] = true,
+			["RecLevel"] = 120,
 			["Show"] = "saved",
-			["RecLevel"] = 0,
-			["Raid"] = false,
 		},
 		["Dragon of Nightmare"] = {
 			["Show"] = "saved",
@@ -3852,19 +3863,19 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["丝瓦什"] = {
+		["十字军的试炼"] = {
+			["LFDID"] = 248,
+			["Expansion"] = 2,
 			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 1885,
-			["RecLevel"] = 110,
 			["Raid"] = true,
+			["RecLevel"] = 80,
 		},
-		["暗影迷宫"] = {
-			["LFDID"] = 181,
-			["Expansion"] = 1,
+		["奥金顿"] = {
+			["LFDID"] = 1008,
+			["Expansion"] = 5,
 			["Show"] = "saved",
 			["Raid"] = false,
-			["RecLevel"] = 70,
+			["RecLevel"] = 100,
 		},
 		["托维尔失落之城"] = {
 			["LFDID"] = 1151,
@@ -3873,25 +3884,54 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 85,
 		},
-		["执政团之座"] = {
-			["LFDID"] = 1535,
-			["Expansion"] = 6,
-			["Show"] = "saved",
-			["RecLevel"] = 110,
-			["Raid"] = false,
-		},
-		["团队搜寻器: 围攻达萨罗"] = {
-			["LFDID"] = 1945,
-			["Expansion"] = 7,
-			["Raid"] = true,
-			["RecLevel"] = 120,
-			["Show"] = "saved",
-		},
 		["雄狮之吼"] = {
 			["Show"] = "saved",
 			["Expansion"] = 7,
 			["WorldBoss"] = 2212,
 			["RecLevel"] = 120,
+			["Raid"] = true,
+		},
+		["随机《燃烧的远征》地下城（英雄）"] = {
+			["LFDID"] = 260,
+			["Expansion"] = 1,
+			["Show"] = "saved",
+			["RecLevel"] = 70,
+			["Random"] = true,
+			["Raid"] = false,
+		},
+		["奥库拉鲁斯"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 2013,
+			["RecLevel"] = 110,
+			["Raid"] = true,
+		},
+		["团队搜寻器: 被遗忘的深渊"] = {
+			["LFDID"] = 836,
+			["Expansion"] = 4,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 90,
+		},
+		["团队搜寻器: 赞达拉的背水一战"] = {
+			["LFDID"] = 835,
+			["Expansion"] = 4,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 90,
+		},
+		["风暴烈酒酿造厂"] = {
+			["LFDID"] = 1466,
+			["Expansion"] = 4,
+			["Show"] = "saved",
+			["Raid"] = false,
+			["RecLevel"] = 90,
+		},
+		["沙索斯"] = {
+			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1763,
+			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
 		["能源舰"] = {
@@ -3901,34 +3941,6 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 70,
 		},
-		["厄运之槌 - 扭木广场"] = {
-			["LFDID"] = 34,
-			["Expansion"] = 0,
-			["Show"] = "saved",
-			["RecLevel"] = 0,
-			["Raid"] = false,
-		},
-		["风暴烈酒酿造厂"] = {
-			["LFDID"] = 1466,
-			["Expansion"] = 4,
-			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 90,
-		},
-		["围攻砮皂寺"] = {
-			["LFDID"] = 1465,
-			["Expansion"] = 4,
-			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 90,
-		},
-		["阿尔卡冯的宝库"] = {
-			["LFDID"] = 240,
-			["Expansion"] = 2,
-			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 80,
-		},
 		["影牙城堡"] = {
 			["LFDID"] = 327,
 			["Expansion"] = 3,
@@ -3936,12 +3948,12 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 85,
 		},
-		["团队搜寻器: 猩红深渊"] = {
-			["LFDID"] = 1732,
-			["Expansion"] = 7,
+		["丝瓦什"] = {
 			["Show"] = "saved",
+			["Expansion"] = 6,
+			["WorldBoss"] = 1885,
+			["RecLevel"] = 110,
 			["Raid"] = true,
-			["RecLevel"] = 120,
 		},
 		["剃刀沼泽"] = {
 			["LFDID"] = 16,
@@ -3980,11 +3992,11 @@ SavedInstancesDB = {
 			["Raid"] = true,
 			["RecLevel"] = 100,
 		},
-		["安其拉废墟"] = {
-			["LFDID"] = 160,
-			["Expansion"] = 0,
+		["团队搜寻器: 万神之座"] = {
+			["LFDID"] = 1613,
+			["Expansion"] = 6,
 			["Show"] = "saved",
-			["RecLevel"] = 60,
+			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
 		["审判官梅托"] = {
@@ -3994,19 +4006,118 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["团队搜寻器: 万神之座"] = {
-			["LFDID"] = 1613,
-			["Expansion"] = 6,
+		["地渊孢林"] = {
+			["南城凉喵 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1841:23:15|h[地渊孢林]|h|r",
+					["ID"] = 469908261,
+					["Locked"] = false,
+				},
+			},
+			["Expansion"] = 7,
+			["杨超越降临 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1841:23:15|h[地渊孢林]|h|r",
+					["ID"] = 469996791,
+					["Locked"] = false,
+				},
+			},
+			["Raid"] = false,
 			["Show"] = "saved",
+			["魔王降临丶 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1841:23:15|h[地渊孢林]|h|r",
+					["ID"] = 469996791,
+					["Locked"] = false,
+				},
+			},
+			["秀逗魔导士丶 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05FAF262:1841:23:15|h[地渊孢林]|h|r",
+					["ID"] = 477616083,
+					["Locked"] = false,
+				},
+			},
+			["Kungenë - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1841:23:15|h[地渊孢林]|h|r",
+					["ID"] = 480461573,
+					["Locked"] = false,
+				},
+			},
 			["RecLevel"] = 110,
-			["Raid"] = true,
+			["扛阿古斯专用 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1841:23:15|h[地渊孢林]|h|r",
+					["ID"] = 3391359684,
+					["Locked"] = false,
+				},
+			},
+			["LFDID"] = 1777,
 		},
-		["巴拉丁监狱"] = {
-			["LFDID"] = 329,
-			["Expansion"] = 3,
+		["塞塔里斯神庙"] = {
+			["南城凉喵 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1877:23:15|h[塞塔里斯神庙]|h|r",
+					["ID"] = 469912908,
+					["Locked"] = false,
+				},
+			},
+			["Expansion"] = 7,
+			["杨超越降临 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1877:23:15|h[塞塔里斯神庙]|h|r",
+					["ID"] = 469976504,
+					["Locked"] = false,
+				},
+			},
+			["LFDID"] = 1775,
+			["魔王降临丶 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1877:23:15|h[塞塔里斯神庙]|h|r",
+					["ID"] = 469976504,
+					["Locked"] = false,
+				},
+			},
+			["Raid"] = false,
+			["Kungenë - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1877:23:15|h[塞塔里斯神庙]|h|r",
+					["ID"] = 479669605,
+					["Locked"] = false,
+				},
+			},
+			["RecLevel"] = 110,
+			["扛阿古斯专用 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1877:23:15|h[塞塔里斯神庙]|h|r",
+					["ID"] = 3391394139,
+					["Locked"] = false,
+				},
+			},
 			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 85,
 		},
 		["禁魔监狱"] = {
 			["LFDID"] = 1011,
@@ -4015,12 +4126,12 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 70,
 		},
-		["战争使者耶纳基兹"] = {
+		["厄运之槌 - 扭木广场"] = {
+			["LFDID"] = 34,
+			["Expansion"] = 0,
 			["Show"] = "saved",
-			["Expansion"] = 7,
-			["WorldBoss"] = 2198,
-			["RecLevel"] = 120,
-			["Raid"] = true,
+			["RecLevel"] = 0,
+			["Raid"] = false,
 		},
 		["妖女奥露拉黛儿"] = {
 			["Show"] = "saved",
@@ -4036,76 +4147,19 @@ SavedInstancesDB = {
 			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["剃刀高地"] = {
-			["LFDID"] = 20,
-			["Expansion"] = 0,
+		["主母芙努娜"] = {
 			["Show"] = "saved",
-			["RecLevel"] = 0,
-			["Raid"] = false,
-		},
-		["维克雷斯庄园"] = {
-			["南城凉喵 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1862:23:31|h[维克雷斯庄园]|h|r",
-					["ID"] = 470083925,
-					["Locked"] = false,
-				},
-				[2] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1862:2:31|h[维克雷斯庄园]|h|r",
-					["ID"] = 2712743004,
-					["Locked"] = false,
-				},
-			},
-			["Expansion"] = 7,
-			["杨超越降临 - 末日行者"] = {
-				[2] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:2:31|h[维克雷斯庄园]|h|r",
-					["ID"] = 2716988753,
-					["Locked"] = false,
-				},
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:23:31|h[维克雷斯庄园]|h|r",
-					["ID"] = 469923165,
-					["Locked"] = false,
-				},
-			},
-			["Show"] = "saved",
-			["魔王降临丶 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:23:31|h[维克雷斯庄园]|h|r",
-					["ID"] = 469923165,
-					["Locked"] = false,
-				},
-				[2] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:2:31|h[维克雷斯庄园]|h|r",
-					["ID"] = 2716988753,
-					["Locked"] = false,
-				},
-			},
+			["Expansion"] = 6,
+			["WorldBoss"] = 2010,
 			["RecLevel"] = 110,
-			["Raid"] = false,
-			["扛阿古斯专用 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1862:23:31|h[维克雷斯庄园]|h|r",
-					["ID"] = 3391561536,
-					["Locked"] = false,
-				},
-			},
-			["LFDID"] = 1779,
+			["Raid"] = true,
+		},
+		["大十字军的试炼"] = {
+			["LFDID"] = 250,
+			["Expansion"] = 2,
+			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 80,
 		},
 		["团队搜寻器: 地下堡垒"] = {
 			["LFDID"] = 841,
@@ -4121,12 +4175,14 @@ SavedInstancesDB = {
 			["Raid"] = true,
 			["RecLevel"] = 90,
 		},
-		["生态船"] = {
-			["LFDID"] = 191,
-			["Expansion"] = 1,
+		["提赞"] = {
 			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 70,
+			["Expansion"] = 7,
+			["WorldBoss"] = 2139,
+			["RecLevel"] = 120,
+			["扛阿古斯专用 - 末日行者"] = {
+			},
+			["Raid"] = true,
 		},
 		["马利费库斯"] = {
 			["Show"] = "saved",
@@ -4361,76 +4417,19 @@ SavedInstancesDB = {
 			["Raid"] = true,
 			["RecLevel"] = 90,
 		},
-		["托尔达戈"] = {
-			["南城凉喵 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1771:23:15|h[托尔达戈]|h|r",
-					["ID"] = 469903806,
-					["Locked"] = false,
-				},
-				[2] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1771:2:3|h[托尔达戈]|h|r",
-					["ID"] = 2715089934,
-					["Locked"] = false,
-				},
-			},
-			["Expansion"] = 7,
-			["杨超越降临 - 末日行者"] = {
-				[2] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:2:15|h[托尔达戈]|h|r",
-					["ID"] = 469011460,
-					["Locked"] = false,
-				},
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:23:15|h[托尔达戈]|h|r",
-					["ID"] = 470000555,
-					["Locked"] = false,
-				},
-			},
-			["LFDID"] = 1778,
-			["魔王降临丶 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:23:15|h[托尔达戈]|h|r",
-					["ID"] = 470000555,
-					["Locked"] = false,
-				},
-				[2] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1771:2:15|h[托尔达戈]|h|r",
-					["ID"] = 469011460,
-					["Locked"] = false,
-				},
-			},
-			["Raid"] = false,
-			["RecLevel"] = 115,
-			["扛阿古斯专用 - 末日行者"] = {
-				[23] = {
-					["Expires"] = 0,
-					["Extended"] = false,
-					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1771:23:15|h[托尔达戈]|h|r",
-					["ID"] = 3391561122,
-					["Locked"] = false,
-				},
-			},
+		["饱受折磨的守护者"] = {
+			["LFDID"] = 1927,
+			["Expansion"] = 6,
+			["Raid"] = true,
+			["RecLevel"] = 110,
 			["Show"] = "saved",
 		},
-		["岩石大厅"] = {
-			["LFDID"] = 213,
-			["Expansion"] = 2,
+		["安其拉废墟"] = {
+			["LFDID"] = 160,
+			["Expansion"] = 0,
 			["Show"] = "saved",
-			["Raid"] = false,
-			["RecLevel"] = 80,
+			["RecLevel"] = 60,
+			["Raid"] = true,
 		},
 		["怒焰裂谷"] = {
 			["LFDID"] = 4,
@@ -4439,34 +4438,90 @@ SavedInstancesDB = {
 			["RecLevel"] = 0,
 			["Raid"] = false,
 		},
-		["时空漫游团队副本：奥杜尔"] = {
+		["森林之王伊弗斯"] = {
 			["Show"] = "saved",
-			["Expansion"] = 2,
-			["LFDID"] = 1677,
+			["Expansion"] = 7,
+			["WorldBoss"] = 2329,
+			["RecLevel"] = 120,
 			["Raid"] = true,
-			["Holiday"] = true,
-			["RecLevel"] = 110,
 		},
-		["艾萨拉之眼"] = {
-			["LFDID"] = 1175,
-			["Expansion"] = 6,
+		["战争使者耶纳基兹"] = {
+			["Show"] = "saved",
+			["Expansion"] = 7,
+			["WorldBoss"] = 2198,
+			["RecLevel"] = 120,
+			["Raid"] = true,
+		},
+		["维克雷斯庄园"] = {
+			["南城凉喵 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1862:23:31|h[维克雷斯庄园]|h|r",
+					["ID"] = 470083925,
+					["Locked"] = false,
+				},
+				[2] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-05F9A461:1862:2:31|h[维克雷斯庄园]|h|r",
+					["ID"] = 2712743004,
+					["Locked"] = false,
+				},
+			},
+			["Expansion"] = 7,
+			["杨超越降临 - 末日行者"] = {
+				[2] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:2:31|h[维克雷斯庄园]|h|r",
+					["ID"] = 2716988753,
+					["Locked"] = false,
+				},
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:23:31|h[维克雷斯庄园]|h|r",
+					["ID"] = 469923165,
+					["Locked"] = false,
+				},
+			},
+			["Show"] = "saved",
+			["魔王降临丶 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:23:31|h[维克雷斯庄园]|h|r",
+					["ID"] = 469923165,
+					["Locked"] = false,
+				},
+				[2] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-04CDD147:1862:2:31|h[维克雷斯庄园]|h|r",
+					["ID"] = 2716988753,
+					["Locked"] = false,
+				},
+			},
+			["RecLevel"] = 110,
+			["Raid"] = false,
+			["扛阿古斯专用 - 末日行者"] = {
+				[23] = {
+					["Expires"] = 0,
+					["Extended"] = false,
+					["Link"] = "|cffff8000|Hinstancelock:Player-1939-06110EC2:1862:23:31|h[维克雷斯庄园]|h|r",
+					["ID"] = 3391561536,
+					["Locked"] = false,
+				},
+			},
+			["LFDID"] = 1779,
+		},
+		["暗影迷宫"] = {
+			["LFDID"] = 181,
+			["Expansion"] = 1,
 			["Show"] = "saved",
 			["Raid"] = false,
-			["RecLevel"] = 100,
-		},
-		["团队搜寻器: 暗夜之塔"] = {
-			["LFDID"] = 1292,
-			["Expansion"] = 6,
-			["Show"] = "saved",
-			["RecLevel"] = 110,
-			["Raid"] = true,
-		},
-		["布鲁塔卢斯"] = {
-			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 1883,
-			["RecLevel"] = 110,
-			["Raid"] = true,
+			["RecLevel"] = 70,
 		},
 		["奈萨里奥的巢穴"] = {
 			["LFDID"] = 1207,
@@ -4506,19 +4561,20 @@ SavedInstancesDB = {
 			["Holiday"] = true,
 			["RecLevel"] = 80,
 		},
-		["团队搜寻器: 毁灭者高台"] = {
-			["LFDID"] = 1369,
-			["Expansion"] = 5,
-			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 100,
-		},
-		["奥金顿"] = {
-			["LFDID"] = 1008,
-			["Expansion"] = 5,
+		["魔导师平台"] = {
+			["LFDID"] = 1154,
+			["Expansion"] = 1,
 			["Show"] = "saved",
 			["Raid"] = false,
-			["RecLevel"] = 100,
+			["RecLevel"] = 70,
+		},
+		["时空漫游团队副本：奥杜尔"] = {
+			["Show"] = "saved",
+			["Expansion"] = 2,
+			["LFDID"] = 1677,
+			["Raid"] = true,
+			["Holiday"] = true,
+			["RecLevel"] = 110,
 		},
 		["随机《燃烧的远征》地下城"] = {
 			["LFDID"] = 259,
@@ -4536,37 +4592,33 @@ SavedInstancesDB = {
 			["Holiday"] = true,
 			["RecLevel"] = 80,
 		},
-		["守望者地窟"] = {
-			["LFDID"] = 1044,
+		["执政团之座"] = {
+			["LFDID"] = 1535,
 			["Expansion"] = 6,
 			["Show"] = "saved",
-			["Raid"] = false,
 			["RecLevel"] = 110,
-		},
-		["随机地下城（争霸艾泽拉斯）"] = {
-			["LFDID"] = 1670,
-			["Expansion"] = 7,
-			["Show"] = "saved",
-			["RecLevel"] = 0,
-			["Random"] = true,
 			["Raid"] = false,
 		},
-		["提赞"] = {
+		["魔环"] = {
+			["LFDID"] = 211,
+			["Expansion"] = 2,
 			["Show"] = "saved",
-			["Expansion"] = 7,
-			["WorldBoss"] = 2139,
-			["RecLevel"] = 120,
-			["扛阿古斯专用 - 末日行者"] = {
-			},
+			["Raid"] = false,
+			["RecLevel"] = 80,
+		},
+		["团队搜寻器: 哀嚎大厅"] = {
+			["LFDID"] = 1495,
+			["Expansion"] = 6,
+			["Show"] = "saved",
+			["RecLevel"] = 110,
 			["Raid"] = true,
 		},
-		["随机《德拉诺之王》地下城"] = {
-			["LFDID"] = 788,
-			["Expansion"] = 5,
+		["熔火之心"] = {
+			["LFDID"] = 48,
+			["Expansion"] = 0,
 			["Show"] = "saved",
-			["RecLevel"] = 0,
-			["Random"] = true,
-			["Raid"] = false,
+			["RecLevel"] = 60,
+			["Raid"] = true,
 		},
 		["团队搜寻器: 黑暗之门"] = {
 			["LFDID"] = 1370,
@@ -4582,12 +4634,12 @@ SavedInstancesDB = {
 			["RecLevel"] = 120,
 			["Raid"] = true,
 		},
-		["森林之王伊弗斯"] = {
+		["巴拉丁监狱"] = {
+			["LFDID"] = 329,
+			["Expansion"] = 3,
 			["Show"] = "saved",
-			["Expansion"] = 7,
-			["WorldBoss"] = 2329,
-			["RecLevel"] = 120,
 			["Raid"] = true,
+			["RecLevel"] = 85,
 		},
 		["艾卓-尼鲁布"] = {
 			["LFDID"] = 241,
@@ -4596,19 +4648,19 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 80,
 		},
-		["主母芙努娜"] = {
+		["旋云之巅"] = {
+			["LFDID"] = 1147,
+			["Expansion"] = 3,
 			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 2010,
-			["RecLevel"] = 110,
-			["Raid"] = true,
+			["Raid"] = false,
+			["RecLevel"] = 85,
 		},
-		["团队搜寻器: 哀嚎大厅"] = {
-			["LFDID"] = 1495,
+		["禁忌深渊"] = {
+			["LFDID"] = 1915,
 			["Expansion"] = 6,
-			["Show"] = "saved",
-			["RecLevel"] = 110,
 			["Raid"] = true,
+			["RecLevel"] = 110,
+			["Show"] = "saved",
 		},
 		["冰雹构造体"] = {
 			["Show"] = "saved",
@@ -4638,26 +4690,26 @@ SavedInstancesDB = {
 			["Raid"] = false,
 			["RecLevel"] = 80,
 		},
-		["十字军的试炼"] = {
-			["LFDID"] = 248,
+		["阿尔卡冯的宝库"] = {
+			["LFDID"] = 240,
 			["Expansion"] = 2,
 			["Show"] = "saved",
 			["Raid"] = true,
 			["RecLevel"] = 80,
 		},
-		["禁忌深渊"] = {
-			["LFDID"] = 1915,
-			["Expansion"] = 6,
-			["Raid"] = true,
-			["RecLevel"] = 110,
+		["团队搜寻器: 修身殿"] = {
+			["LFDID"] = 837,
+			["Expansion"] = 4,
 			["Show"] = "saved",
+			["Raid"] = true,
+			["RecLevel"] = 90,
 		},
-		["团队搜寻器: 奥秘圣殿"] = {
-			["LFDID"] = 1364,
-			["Expansion"] = 5,
+		["岩石大厅"] = {
+			["LFDID"] = 213,
+			["Expansion"] = 2,
 			["Show"] = "saved",
-			["Raid"] = true,
-			["RecLevel"] = 100,
+			["Raid"] = false,
+			["RecLevel"] = 80,
 		},
 		["随机海岛探险（史诗）"] = {
 			["LFDID"] = 1891,
@@ -4668,35 +4720,120 @@ SavedInstancesDB = {
 			["Random"] = true,
 			["Raid"] = false,
 		},
-		["萨格拉斯之墓"] = {
-			["LFDID"] = 1527,
-			["Expansion"] = 6,
+		["团队搜寻器: 奥秘圣殿"] = {
+			["LFDID"] = 1364,
+			["Expansion"] = 5,
 			["Show"] = "saved",
 			["Raid"] = true,
-			["RecLevel"] = 110,
+			["RecLevel"] = 100,
 		},
-		["时空漫游团队副本：黑暗神殿"] = {
+		["雷电王座"] = {
+			["LFDID"] = 634,
+			["Expansion"] = 4,
 			["Show"] = "saved",
-			["Expansion"] = 1,
-			["LFDID"] = 1533,
 			["Raid"] = true,
-			["Holiday"] = true,
-			["RecLevel"] = 110,
+			["RecLevel"] = 90,
 		},
-		["奥库拉鲁斯"] = {
+		["团队搜寻器: 猩红深渊"] = {
+			["LFDID"] = 1732,
+			["Expansion"] = 7,
 			["Show"] = "saved",
-			["Expansion"] = 6,
-			["WorldBoss"] = 2013,
-			["RecLevel"] = 110,
 			["Raid"] = true,
+			["RecLevel"] = 120,
 		},
-		["随机《燃烧的远征》地下城（英雄）"] = {
-			["LFDID"] = 260,
-			["Expansion"] = 1,
+		["玛拉顿－毒菇洞穴"] = {
+			["LFDID"] = 26,
+			["Expansion"] = 0,
 			["Show"] = "saved",
-			["RecLevel"] = 70,
-			["Random"] = true,
+			["RecLevel"] = 0,
 			["Raid"] = false,
+		},
+	},
+	["bfSet"] = true,
+	["DailyResetTime"] = 1546210799,
+	["History"] = {
+	},
+	["RealmMap"] = {
+	},
+	["QuestDB"] = {
+		["Daily"] = {
+			[53213] = 1161,
+			[54363] = 1161,
+			[53217] = 1161,
+			[53218] = 1161,
+			[53219] = 1161,
+			[54368] = 1161,
+			[53223] = 1161,
+			[53224] = 1161,
+			[53228] = 1161,
+			[53229] = 1161,
+			[53231] = 1161,
+			[54380] = 1161,
+			[53265] = 1161,
+			[54394] = 1161,
+			[53360] = 1161,
+			[53366] = 1161,
+			[54378] = 1161,
+			[53239] = 1161,
+			[53234] = 1161,
+			[53334] = 1161,
+			[53211] = 1161,
+			[53236] = 1161,
+			[54389] = 1161,
+		},
+		["Darkmoon"] = {
+			["expires"] = 1100447940,
+		},
+		["AccountDaily"] = {
+			[31752] = -1,
+			[34774] = 1161,
+			[40753] = 1161,
+		},
+		["Weekly"] = {
+			[48910] = -1,
+			[48912] = -1,
+			[40787] = -1,
+			[40173] = -1,
+			[53033] = -1,
+			[53035] = -1,
+			[53037] = 1161,
+			[53039] = -1,
+			[53992] = -1,
+			[44166] = -1,
+			[33334] = -1,
+			[44172] = -1,
+			[53435] = -1,
+			[53036] = -1,
+			[48911] = -1,
+			[40786] = -1,
+			[53955] = -1,
+			[40168] = -1,
+			[53436] = 1161,
+			[53030] = 1161,
+			[53032] = -1,
+			[53034] = -1,
+			[53414] = -1,
+			[53416] = -1,
+			[44174] = -1,
+			[54978] = 1161,
+			[45799] = -1,
+			[44164] = -1,
+			[33338] = -1,
+			[32640] = -1,
+			[32641] = -1,
+			[44171] = -1,
+			[44173] = -1,
+			[44175] = -1,
+			[45563] = -1,
+			["expires"] = 1546469999,
+			[44167] = -1,
+		},
+		["AccountWeekly"] = {
+			[54186] = -1,
+			[46292] = -1,
+			[53038] = -1,
+			[45539] = -1,
+			["expires"] = 1546469999,
 		},
 	},
 	["Indicators"] = {
@@ -4752,8 +4889,8 @@ SavedInstancesDB = {
 			0, -- [2]
 			0, -- [3]
 		},
+		["R7Indicator"] = "BLANK",
 		["R2Text"] = "KILLED/TOTAL",
-		["R8Text"] = "KILLED/TOTALM",
 		["D3Color"] = {
 			1, -- [1]
 			0, -- [2]
@@ -4765,12 +4902,12 @@ SavedInstancesDB = {
 			0.6, -- [2]
 			0, -- [3]
 		},
+		["R1Indicator"] = "BLANK",
 		["R2Color"] = {
 			0.6, -- [1]
 			0, -- [2]
 			0, -- [3]
 		},
-		["R6Text"] = "KILLED/TOTAL",
 		["R3Indicator"] = "BLANK",
 		["R7ClassColor"] = true,
 		["R3Text"] = "KILLED/TOTALH",
@@ -4784,9 +4921,9 @@ SavedInstancesDB = {
 		["R3ClassColor"] = true,
 		["R5Indicator"] = "BLANK",
 		["R5ClassColor"] = true,
-		["R1Indicator"] = "BLANK",
+		["R6Text"] = "KILLED/TOTAL",
 		["R8Indicator"] = "BLANK",
-		["R7Indicator"] = "BLANK",
+		["R8Text"] = "KILLED/TOTALM",
 		["D1Color"] = {
 			0, -- [1]
 			0.6, -- [2]
@@ -4797,111 +4934,11 @@ SavedInstancesDB = {
 		["R7Text"] = "KILLED/TOTALH",
 		["R5Text"] = "KILLED/TOTAL",
 	},
-	["History"] = {
-	},
-	["DailyResetTime"] = 1545519599,
-	["RealmMap"] = {
-	},
-	["QuestDB"] = {
-		["Daily"] = {
-			[53213] = 1161,
-			[53217] = 1161,
-			[53218] = 1161,
-			[53219] = 1161,
-			[53223] = 1161,
-			[53224] = 1161,
-			[53228] = 1161,
-			[53229] = 1161,
-			[53231] = 1161,
-			[53234] = 1161,
-			[53360] = 1161,
-			[53239] = 1161,
-			[53236] = 1161,
-			[53334] = 1161,
-			[53211] = 1161,
-			[53265] = 1161,
-			[53366] = 1161,
-		},
-		["Darkmoon"] = {
-			["expires"] = 1100447940,
-		},
-		["AccountDaily"] = {
-			[31752] = -1,
-			[34774] = 1161,
-			[40753] = 1161,
-		},
-		["Weekly"] = {
-			[36056] = -1,
-			[48910] = -1,
-			[48912] = -1,
-			[37452] = -1,
-			[37454] = -1,
-			[47851] = -1,
-			[37458] = -1,
-			[52834] = 1161,
-			[54978] = 1161,
-			[52838] = 1161,
-			[52840] = 1161,
-			[43896] = -1,
-			[53033] = -1,
-			[53035] = -1,
-			[53037] = 1161,
-			[53039] = -1,
-			[43894] = -1,
-			[44164] = -1,
-			[44166] = -1,
-			[33334] = -1,
-			[44172] = -1,
-			[44174] = -1,
-			[36058] = -1,
-			[37456] = -1,
-			[43510] = -1,
-			[36055] = -1,
-			[36057] = -1,
-			[48911] = -1,
-			[43892] = 627,
-			[47865] = -1,
-			[37453] = -1,
-			[37455] = -1,
-			[37457] = -1,
-			["expires"] = 1545865199,
-			[53435] = -1,
-			[52835] = 1161,
-			[52837] = 1161,
-			[43893] = -1,
-			[43895] = -1,
-			[53032] = -1,
-			[53034] = -1,
-			[53036] = -1,
-			[33338] = -1,
-			[37459] = -1,
-			[52839] = 1161,
-			[45799] = -1,
-			[47864] = -1,
-			[43897] = -1,
-			[44167] = -1,
-			[32641] = -1,
-			[44171] = -1,
-			[44173] = -1,
-			[53436] = 1161,
-			[53030] = 1161,
-			[32640] = -1,
-			[36054] = -1,
-			[44175] = -1,
-		},
-		["AccountWeekly"] = {
-			[54186] = -1,
-			[46292] = -1,
-			[53038] = -1,
-			[45539] = -1,
-			["expires"] = 1545865199,
-		},
-	},
-	["histGeneration"] = 877,
+	["histGeneration"] = 928,
 	["Quests"] = {
 	},
-	["MinimapIcon"] = {
-		["minimapPos"] = -1870,
-		["hide"] = false,
+	["spelltip"] = {
+		[71041] = {
+		},
 	},
 }

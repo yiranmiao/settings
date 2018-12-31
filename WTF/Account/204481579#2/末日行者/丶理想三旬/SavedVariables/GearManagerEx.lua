@@ -8,7 +8,6 @@ GearManagerExDB = {
 		["scale"] = 100,
 		["lock"] = 1,
 		["numeric"] = 1,
-		["hide"] = 1,
 	},
 	["showHelms"] = {
 	},

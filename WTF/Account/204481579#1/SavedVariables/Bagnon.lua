@@ -16,14 +16,6 @@ Bagnon_Sets = {
 	},
 	["inscribeColor"] = {
 	},
-	["leatherColor"] = {
-	},
-	["tackleColor"] = {
-	},
-	["herbColor"] = {
-	},
-	["normalColor"] = {
-	},
 	["global"] = {
 		["inventory"] = {
 			["rules"] = {
@@ -60,14 +52,14 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -66.4918212890625,
-			["x"] = -81.689208984375,
+			["y"] = -65.6971435546875,
+			["x"] = -192.975830078125,
 			["borderColor"] = {
 			},
-			["brokerObject"] = "MeetingStone",
-			["itemScale"] = 1,
-			["scale"] = 1,
 			["alpha"] = 1,
+			["scale"] = 1,
+			["itemScale"] = 1,
+			["brokerObject"] = "MeetingStone",
 		},
 		["vault"] = {
 			["rules"] = {
@@ -142,10 +134,10 @@ Bagnon_Sets = {
 			["x"] = 242.684341430664,
 			["borderColor"] = {
 			},
-			["brokerObject"] = "DBM",
-			["alpha"] = 1,
-			["scale"] = 1,
 			["itemScale"] = 1,
+			["scale"] = 1,
+			["alpha"] = 1,
+			["brokerObject"] = "DBM",
 		},
 		["bank"] = {
 			["y"] = 0,
@@ -186,11 +178,19 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["x"] = 33.7923202514648,
-			["hiddenRules"] = {
-			},
 			["borderColor"] = {
 			},
+			["hiddenRules"] = {
+			},
+			["x"] = 33.7923202514648,
 		},
+	},
+	["normalColor"] = {
+	},
+	["herbColor"] = {
+	},
+	["tackleColor"] = {
+	},
+	["leatherColor"] = {
 	},
 }

@@ -12,4 +12,16 @@ TDDB_TDCORE = {
 			["tdPack"] = true,
 		},
 	},
+	["喵阿喵丶 - 末日行者"] = {
+		["minimapButtons"] = {
+			["tdPack"] = true,
+		},
+		["minimapGroups"] = {
+			["tdPack"] = true,
+		},
+		["minimapAngles"] = {
+			["tdCore"] = -152,
+			["tdPack"] = -253,
+		},
+	},
 }

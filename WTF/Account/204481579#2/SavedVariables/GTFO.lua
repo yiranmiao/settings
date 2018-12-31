@@ -9,10 +9,10 @@ GTFOData = {
 		true, -- [4]
 	},
 	["DataCode"] = "4",
-	["SoundOverrides"] = {
-	},
+	["SoundChannel"] = "Master",
 	["Volume"] = 3,
 	["IgnoreOptions"] = {
 	},
-	["SoundChannel"] = "Master",
+	["SoundOverrides"] = {
+	},
 }
