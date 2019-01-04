@@ -427,8 +427,8 @@ BattlegroundTargets_Options = {
 	["version"] = 27,
 	["FramePosition"] = {
 	},
-	["TransliterationToggle"] = false,
 	["MinimapButtonPos"] = -90,
+	["TransliterationToggle"] = false,
 	["MinimapButton"] = false,
 	["FirstRun"] = true,
 }

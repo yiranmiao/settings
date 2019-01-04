@@ -1,9 +1,0 @@
-
-tdDropDownDB = {
-	["FriendsFrameBroadcastInput"] = {
-	},
-	["SendMailNameEditBox"] = {
-	},
-	["BuyName"] = {
-	},
-}

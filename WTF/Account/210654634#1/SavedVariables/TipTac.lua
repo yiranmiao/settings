@@ -1,3 +1,0 @@
-
-TipTac_Config = {
-}

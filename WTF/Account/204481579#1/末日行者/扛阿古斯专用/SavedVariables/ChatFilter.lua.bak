@@ -1,3 +1,0 @@
-
-CF_IgnoreTable = {
-}

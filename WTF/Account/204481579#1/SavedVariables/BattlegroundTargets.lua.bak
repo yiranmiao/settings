@@ -3,8 +3,8 @@ BattlegroundTargets_Options = {
 	["FirstRun"] = true,
 	["MinimapButton"] = false,
 	["version"] = 27,
-	["TransliterationToggle"] = false,
 	["MinimapButtonPos"] = -90,
+	["TransliterationToggle"] = false,
 	["FramePosition"] = {
 	},
 	["Friend"] = {

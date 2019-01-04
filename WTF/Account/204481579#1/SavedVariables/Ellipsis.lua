@@ -1,17 +1,17 @@
 
 EllipsisDB = {
 	["profileKeys"] = {
-		["南城凉喵 - 末日行者"] = "Default",
+		["Kungenë - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["anchorData"] = {
+				nil, -- [1]
 				{
 					["y"] = 127.999969482422,
-					["x"] = -249.999877929688,
-				}, -- [1]
+					["x"] = 250.000030517578,
+				}, -- [2]
 			},
-			["locked"] = true,
 		},
 	},
 }

@@ -55,34 +55,24 @@ ralllocationnames = {
 	"Well of Eternity", -- [53]
 	"Dragon Soul", -- [54]
 	"Warsong Gulch", -- [55]
-	"阿拉希盆地", -- [56]
+	"Arathi Basin", -- [56]
 	"Alterac Valley", -- [57]
 	"Eye of the Storm", -- [58]
 	"Strand of the Ancients", -- [59]
 	"Isle of Conquest", -- [60]
-	"吉尔尼斯之战", -- [61]
+	"The Battle for Gilneas", -- [61]
 	"Twin Peaks", -- [62]
 	"Scarlet Halls", -- [63]
-	"血色修道院", -- [64]
+	"Scarlet Monastery", -- [64]
 	"Scholomance", -- [65]
-	{
-		["mapType"] = 2,
-		["mapID"] = 876,
-		["name"] = "库尔提拉斯",
-		["parentMapID"] = 947,
-	}, -- [66]
+	"Stormstout Brewery", -- [66]
 	"Temple of the Jade Serpent", -- [67]
 	"Mogu'shan Palace", -- [68]
 	"Shado-Pan Monastery", -- [69]
 	"Gate of the Setting Sun", -- [70]
 	"Siege of Niuzao Temple", -- [71]
 	"Heart of Fear", -- [72]
-	{
-		["mapType"] = 3,
-		["mapID"] = 896,
-		["name"] = "德鲁斯瓦",
-		["parentMapID"] = 876,
-	}, -- [73]
+	"Mogu'shan Vaults", -- [73]
 	"Terrace of Endless Spring", -- [74]
 	"A Brewing Storm", -- [75]
 	"Arena of Annihilation", -- [76]
@@ -91,7 +81,7 @@ ralllocationnames = {
 	"Greenstone Village", -- [79]
 	"Theramore's Fall", -- [80]
 	"Unga Ingoo", -- [81]
-	"寇魔古寺", -- [82]
+	"Temple of Kotmogu", -- [82]
 	"A Little Patience", -- [83]
 	"Lion's Landing", -- [84]
 	"Zan'vess", -- [85]

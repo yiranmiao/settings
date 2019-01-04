@@ -4,5 +4,4 @@ BaudErrorFrameConfig = {
 	["Messages"] = true,
 	["Taint"] = false,
 	["Sound"] = "sound\\doodad\\belltolltribal.ogg",
-	["PlaySound"] = false,
 }

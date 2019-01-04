@@ -1,10 +1,10 @@
 
 GatherMate2DB = {
-	["profileKeys"] = {
-		["南城凉喵 - 末日行者"] = "Default",
-	},
 	["global"] = {
 		["data_version"] = 5,
+	},
+	["profileKeys"] = {
+		["Kungenë - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -1,7 +1,7 @@
 
 OmniBarDB = {
 	["profileKeys"] = {
-		["南城凉喵 - 末日行者"] = "Default",
+		["Kungenë - 末日行者"] = "Default",
 	},
 	["cooldowns"] = {
 	},
@@ -42,8 +42,8 @@ OmniBarDB = {
 						["relativeTo"] = "UIParent",
 						["point"] = "BOTTOM",
 						["relativePoint"] = "BOTTOM",
-						["yOfs"] = 147.987854003906,
-						["xOfs"] = 348.964599609375,
+						["yOfs"] = 196.477127075195,
+						["xOfs"] = 4.76953268051147,
 						["frameStrata"] = "MEDIUM",
 					},
 					["ratedBattleground"] = true,

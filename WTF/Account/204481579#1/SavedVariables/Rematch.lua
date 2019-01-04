@@ -45,13 +45,13 @@ RematchSettings = {
 		},
 		["Script"] = {
 		},
-		["Moveset"] = {
+		["Types"] = {
 		},
-		["Tough"] = {
+		["Favorite"] = {
 		},
-		["Level"] = {
+		["Collected"] = {
 		},
-		["Similar"] = {
+		["Strong"] = {
 		},
 		["Sources"] = {
 		},
@@ -59,25 +59,27 @@ RematchSettings = {
 		},
 		["Rarity"] = {
 		},
-		["Strong"] = {
+		["Similar"] = {
 		},
-		["Collected"] = {
+		["Level"] = {
 		},
-		["Favorite"] = {
+		["Tough"] = {
 		},
-		["Types"] = {
+		["Moveset"] = {
 		},
 	},
+	["CustomScaleValue"] = 100,
+	["JournalPanel"] = 1,
 	["ShowOnTarget"] = true,
 	["CollapsedOptHeaders"] = {
 	},
-	["JournalPanel"] = 1,
+	["LevelingQueue"] = {
+	},
 	["PreferredMode"] = 1,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
 	},
-	["LevelingQueue"] = {
-	},
+	["NotifiedExperimental"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
 	["AutoLoadShow"] = true,
 	["SpecialSlots"] = {

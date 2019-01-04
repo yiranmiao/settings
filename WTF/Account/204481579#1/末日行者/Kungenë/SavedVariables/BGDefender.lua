@@ -1,13 +1,13 @@
 
 BGD_Prefs = {
-	["BGChatTemp"] = "INSTANCE_CHAT",
-	["RaidChatTemp"] = "RAID",
 	["locale"] = "zhCN",
+	["RaidChatTemp"] = "RAID",
+	["BGChatTemp"] = "INSTANCE_CHAT",
 	["BGChat"] = "INSTANCE_CHAT",
 	["version"] = "1.6.12",
-	["movable"] = true,
+	["ShowUI"] = false,
 	["preface"] = false,
 	["Title"] = "|cff880303[爱不易]|r BGDefender 战场通报",
-	["ShowUI"] = false,
+	["movable"] = true,
 	["RaidChat"] = "RAID",
 }

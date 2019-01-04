@@ -18,6 +18,7 @@ Bagnon_Sets = {
 	},
 	["global"] = {
 		["inventory"] = {
+			["y"] = -89.4210205078125,
 			["rules"] = {
 				"all", -- [1]
 				"all/all", -- [2]
@@ -50,16 +51,11 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["hiddenRules"] = {
-			},
-			["y"] = -65.6971435546875,
-			["x"] = -192.975830078125,
 			["borderColor"] = {
 			},
-			["alpha"] = 1,
-			["scale"] = 1,
-			["itemScale"] = 1,
-			["brokerObject"] = "MeetingStone",
+			["hiddenRules"] = {
+			},
+			["x"] = -137.000366210938,
 		},
 		["vault"] = {
 			["rules"] = {
@@ -119,28 +115,18 @@ Bagnon_Sets = {
 				"trade/recipe", -- [20]
 				"quest", -- [21]
 				"misc", -- [22]
-				"quest/all", -- [23]
-				"contain/all", -- [24]
-				"misc/all", -- [25]
 			},
-			["point"] = "TOPLEFT",
-			["hiddenBags"] = {
+			["borderColor"] = {
 			},
 			["color"] = {
 			},
 			["hiddenRules"] = {
 			},
-			["y"] = -34.72119140625,
-			["x"] = 242.684341430664,
-			["borderColor"] = {
+			["hiddenBags"] = {
 			},
-			["itemScale"] = 1,
-			["scale"] = 1,
-			["alpha"] = 1,
-			["brokerObject"] = "DBM",
 		},
 		["bank"] = {
-			["y"] = 0,
+			["y"] = -24.7105102539063,
 			["rules"] = {
 				"all", -- [1]
 				"all/all", -- [2]
@@ -168,13 +154,8 @@ Bagnon_Sets = {
 				"contain/all", -- [24]
 				"misc/all", -- [25]
 			},
-			["point"] = "BOTTOMLEFT",
+			["point"] = "TOPLEFT",
 			["hiddenBags"] = {
-				[11] = false,
-				[7] = false,
-				[-3] = true,
-				[9] = false,
-				[5] = false,
 			},
 			["color"] = {
 			},
@@ -182,7 +163,7 @@ Bagnon_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["x"] = 33.7923202514648,
+			["x"] = 95,
 		},
 	},
 	["normalColor"] = {
