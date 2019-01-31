@@ -121,12 +121,12 @@ VER 3 0000000000000213 " " "237525"
 /cast 联盟勋章
 /cast 战斗大师的侵攻
 END
-VER 3 0000000000000228 "  " "136094"
-/run frm2 = CreateFrame("PlayerModel");frm2:SetPoint("BOTTOMRIGHT",frm,"BOTTOMLEFT",0,0);frm2:SetHeight
-END
 VER 3 0000000000000229 "  " "INV_Misc_QuestionMark"
 #showtooltip [nopet][@pet,dead]召唤水元素;冰冻术
 /cast [nopet][@pet,dead]召唤水元素;冰冻术
+END
+VER 3 0000000000000228 "  " "136094"
+/run frm2 = CreateFrame("PlayerModel");frm2:SetPoint("BOTTOMRIGHT",frm,"BOTTOMLEFT",0,0);frm2:SetHeight
 END
 VER 3 000000000000022A "   " "INV_Misc_QuestionMark"
 #showtooltip 冰霜之环
@@ -146,16 +146,16 @@ END
 VER 3 000000000000022D " /cast [mod] 解散宠" "INV_Misc_QuestionMark"
 #showtooltip 解散宠物
 END
-VER 3 000000000000022E " 1212" "135838"
-/施放 冰冷血脉
-/施放 狂暴(种族特长)
-/施放 镜像
-END
 VER 3 000000000000022F " 1212" "135838"
 /施放 冰冷血脉
 /施放 狂暴(种族特长)
 /施放 镜像
 /use  科普兰的清醒
+END
+VER 3 000000000000022E " 1212" "135838"
+/施放 冰冷血脉
+/施放 狂暴(种族特长)
+/施放 镜像
 END
 VER 3 0000000000000230 " 取消倒数" "134400"
 /pull 0
@@ -357,6 +357,10 @@ VER 3 0000000000000252 "111" "132180"
 /施放 [target=focus,help][help][target=targettarget,help][target=pet]误导;误导
 /script if UnitExists("focus") then SendChatMessage(UnitName("focus").." 已被误导","yell");end
 END
+VER 3 00000000000001FD "123" "338784"
+/script SetRaidTarget("mouseover",2)
+/click ExtraActionButton1
+END
 VER 3 0000000000000253 "123" "132317"
 /script T,F=T or 0,F or CreateFrame("frame")if X then X=nil else X=function()local t=GetTime()if t-T>1 then StaticPopup1Button1:Click()T=t end end end F:SetScript("OnUpdate",X)
 END
@@ -364,10 +368,6 @@ VER 3 00000000000001FC "123" "134400"
 /cast 血肉之盾
 /cast 护体胆汁
 /cast 蜷缩
-END
-VER 3 00000000000001FD "123" "338784"
-/script SetRaidTarget("mouseover",2)
-/click ExtraActionButton1
 END
 VER 3 0000000000000254 "1231" "INV_Misc_QuestionMark"
 #showtooltip
@@ -423,12 +423,12 @@ VER 3 0000000000000256 "2" "136222"
 /施放 奥术洪流(种族特长)
 /S 111打断了,222接上
 END
+VER 3 000000000000025D "22" "132288"
+/laugh
+END
 VER 3 000000000000025C "22" "132874"
 /script SetRaidTarget("mouseover",3)
 /click ExtraActionButton 1
-END
-VER 3 000000000000025D "22" "132288"
-/laugh
 END
 VER 3 0000000000000205 "3" "237527"
 /cast [@arena3] 心灵冰冻

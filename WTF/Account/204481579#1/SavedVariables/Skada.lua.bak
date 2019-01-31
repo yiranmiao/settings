@@ -5,26 +5,36 @@ SkadaDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Andydufresn - 末日行者"] = "Default",
+		["陈粒 - 末日行者"] = "Default",
+		["秀逗魔导士丶 - 末日行者"] = "Default",
 		["Kungenë - 末日行者"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
+			["modeclicks"] = {
+				["伤害"] = 1,
+			},
 			["windows"] = {
 				{
-					["y"] = 95.5940093994141,
+					["y"] = 107.312217712402,
 					["mode"] = "伤害",
-					["barwidth"] = 225.691650390625,
+					["barwidth"] = 255.897903442383,
 					["background"] = {
-						["height"] = 193.719924926758,
+						["height"] = 228.695877075195,
 					},
-					["x"] = -97.45703125,
+					["x"] = -99.36279296875,
 				}, -- [1]
 			},
-			["versions"] = {
-				["1.6.3"] = true,
-				["1.6.4"] = true,
-				["1.6.7"] = true,
+			["report"] = {
+				["mode"] = "死亡",
 			},
+			["versions"] = {
+				["1.6.7"] = true,
+				["1.6.4"] = true,
+				["1.6.3"] = true,
+			},
+			["setstokeep"] = 51,
 		},
 	},
 }

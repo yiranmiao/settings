@@ -111,7 +111,7 @@ tradeskillinfo: disabled
 broker_micromenu: disabled
 gladiatorlossa_zhcn: enabled
 gladiatorlossa2: enabled
-swingbar: enabled
+swingbar: disabled
 blinkhealthtext: disabled
 rangedisplay: disabled
 omnicc: enabled
@@ -119,7 +119,7 @@ fizzle: enabled
 bagbrother: enabled
 atlaslootreverse: enabled
 targetnameplateindicator: enabled
-gtfo: enabled
+gtfo: disabled
 healers-have-to-die: enabled
 handynotes_lunarfestival: enabled
 accountant_classic: enabled
@@ -133,7 +133,7 @@ canimogit: enabled
 en_unitframes: disabled
 handynotes_suramartelemancy: enabled
 kib_questmobs: enabled
-decursive: enabled
+decursive: disabled
 gearstatssummary: enabled
 tdcore: enabled
 combuctor: disabled
@@ -157,7 +157,7 @@ dbm-party-wod: enabled
 tidyplateswidgets: enabled
 tiptacoptions: enabled
 dbm-garrisoninvasions: enabled
-xloot_options: enabled
+xloot_options: disabled
 dbm-timelessisle: enabled
 weakaurasoptions: enabled
 masterplan: enabled
@@ -223,7 +223,7 @@ npcscan: disabled
 compactraid: disabled
 vbar: disabled
 extraactionbar: disabled
-weakauras: disabled
+weakauras: enabled
 shadowedunitframes: disabled
 xloot: disabled
 rematch: disabled
@@ -241,3 +241,6 @@ GridIndicatorsDynamic: disabled
 wholly: disabled
 wmarker: disabled
 achievementsreminder: disabled
+XLoot_Master: disabled
+XLoot_Frame: disabled
+dbm-zuldazarraid: enabled

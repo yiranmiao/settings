@@ -1,6 +1,9 @@
 
 QuestAnnounceDB = {
 	["profileKeys"] = {
+		["Andydufresn - 末日行者"] = "Default",
+		["陈粒 - 末日行者"] = "Default",
+		["秀逗魔导士丶 - 末日行者"] = "Default",
 		["Kungenë - 末日行者"] = "Default",
 	},
 	["profiles"] = {
@@ -14,8 +17,8 @@ QuestAnnounceDB = {
 				["settings"] = {
 					["enable"] = true,
 					["every"] = 2,
-					["sound"] = false,
 					["debug"] = false,
+					["sound"] = false,
 				},
 				["announceIn"] = {
 					["party"] = true,
@@ -24,6 +27,9 @@ QuestAnnounceDB = {
 					["whisper"] = false,
 					["officer"] = false,
 				},
+			},
+			["settings"] = {
+				["enable"] = false,
 			},
 		},
 	},

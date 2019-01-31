@@ -27,65 +27,65 @@ GridDB = {
 			["profiles"] = {
 				["Default"] = {
 					["colors"] = {
-						["HUNTER"] = {
-							["b"] = 0.45,
-							["g"] = 0.83,
-							["r"] = 0.67,
-						},
-						["SHAMAN"] = {
-							["b"] = 0.87,
-							["g"] = 0.44,
-							["r"] = 0,
+						["PALADIN"] = {
+							["r"] = 0.96,
+							["g"] = 0.55,
+							["b"] = 0.73,
 						},
 						["MAGE"] = {
-							["b"] = 0.92,
-							["g"] = 0.78,
 							["r"] = 0.25,
+							["g"] = 0.78,
+							["b"] = 0.92,
 						},
 						["DRUID"] = {
-							["b"] = 0.04,
-							["g"] = 0.49,
 							["r"] = 1,
+							["g"] = 0.49,
+							["b"] = 0.04,
 						},
 						["MONK"] = {
-							["b"] = 0.59,
-							["g"] = 1,
 							["r"] = 0,
+							["g"] = 1,
+							["b"] = 0.59,
 						},
 						["DEATHKNIGHT"] = {
-							["b"] = 0.23,
-							["g"] = 0.12,
 							["r"] = 0.77,
-						},
-						["PALADIN"] = {
-							["b"] = 0.73,
-							["g"] = 0.55,
-							["r"] = 0.96,
+							["g"] = 0.12,
+							["b"] = 0.23,
 						},
 						["PRIEST"] = {
-							["b"] = 1,
-							["g"] = 1,
 							["r"] = 1,
+							["g"] = 1,
+							["b"] = 1,
+						},
+						["HUNTER"] = {
+							["r"] = 0.67,
+							["g"] = 0.83,
+							["b"] = 0.45,
 						},
 						["WARLOCK"] = {
-							["b"] = 0.93,
-							["g"] = 0.53,
 							["r"] = 0.53,
+							["g"] = 0.53,
+							["b"] = 0.93,
 						},
 						["DEMONHUNTER"] = {
-							["b"] = 0.79,
-							["g"] = 0.19,
 							["r"] = 0.64,
-						},
-						["ROGUE"] = {
-							["b"] = 0.41,
-							["g"] = 0.96,
-							["r"] = 1,
+							["g"] = 0.19,
+							["b"] = 0.79,
 						},
 						["WARRIOR"] = {
-							["b"] = 0.43,
-							["g"] = 0.61,
 							["r"] = 0.78,
+							["g"] = 0.61,
+							["b"] = 0.43,
+						},
+						["SHAMAN"] = {
+							["r"] = 0,
+							["g"] = 0.44,
+							["b"] = 0.87,
+						},
+						["ROGUE"] = {
+							["r"] = 1,
+							["g"] = 0.96,
+							["b"] = 0.41,
 						},
 					},
 				},
@@ -132,6 +132,30 @@ GridDB = {
 		},
 		["GridStatusPhase"] = {
 		},
+		["GridLayoutManager"] = {
+		},
+		["GridStatusHealth"] = {
+		},
+		["GridStatusMana"] = {
+		},
+		["GridStatusRole"] = {
+		},
+		["GridStatusMouseover"] = {
+		},
+		["GridIndicatorsDynamic"] = {
+		},
+		["GridStatusReadyCheck"] = {
+		},
+		["GridStatusAuras"] = {
+		},
+		["GridStatusGroup"] = {
+		},
+		["GridStatusRaidIcon"] = {
+		},
+		["GridBuffIcons"] = {
+		},
+		["GridStatusEnemyTarget"] = {
+		},
 		["GridStatusRaidDebuff"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -139,32 +163,11 @@ GridDB = {
 				},
 			},
 		},
-		["GridStatusEnemyTarget"] = {
-		},
-		["GridBuffIcons"] = {
-		},
-		["GridStatusRole"] = {
-		},
-		["GridStatusMouseover"] = {
-		},
-		["GridStatusAuras"] = {
-		},
-		["GridStatusReadyCheck"] = {
-		},
-		["GridIndicatorsDynamic"] = {
-		},
-		["GridStatusGroup"] = {
-		},
-		["GridStatusRaidIcon"] = {
-		},
-		["GridStatusMana"] = {
-		},
-		["GridStatusHealth"] = {
-		},
-		["GridLayoutManager"] = {
-		},
 	},
 	["profileKeys"] = {
+		["Andydufresn - 末日行者"] = "Default",
+		["陈粒 - 末日行者"] = "Default",
+		["秀逗魔导士丶 - 末日行者"] = "Default",
 		["Kungenë - 末日行者"] = "Default",
 	},
 	["profiles"] = {

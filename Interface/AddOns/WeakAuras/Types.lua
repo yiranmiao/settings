@@ -1793,6 +1793,8 @@ WeakAuras.author_option_types = {
   color = L["Color"],
   select = L["Dropdown Menu"],
   space = L["Space"],
+  multiselect = L["Toggle List"],
+  header = L["Separator"],
 }
 
 WeakAuras.author_option_fields = {
@@ -1838,12 +1840,17 @@ WeakAuras.author_option_fields = {
   },
   space = {
     variableWidth = true,
-  }
-}
-
-WeakAuras.space_types = {
-  multi = L["Multi-Line"],
-  single = L["Single-Line"]
+    useHeight = false,
+    height = 1,
+  },
+  multiselect = {
+    default = {true},
+    values = {"val1"},
+  },
+  header = {
+    useName = false,
+    text = "",
+  },
 }
 
 WeakAuras.difficulty_info = {

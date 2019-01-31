@@ -16,9 +16,16 @@ Bagnon_Sets = {
 	},
 	["inscribeColor"] = {
 	},
+	["leatherColor"] = {
+	},
+	["tackleColor"] = {
+	},
+	["herbColor"] = {
+	},
+	["normalColor"] = {
+	},
 	["global"] = {
 		["inventory"] = {
-			["y"] = -89.4210205078125,
 			["rules"] = {
 				"all", -- [1]
 				"all/all", -- [2]
@@ -51,11 +58,13 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
 			["hiddenRules"] = {
 			},
-			["x"] = -137.000366210938,
+			["y"] = -65.4677734375,
+			["x"] = -133.820190429688,
+			["borderColor"] = {
+			},
+			["showBags"] = true,
 		},
 		["vault"] = {
 			["rules"] = {
@@ -92,6 +101,7 @@ Bagnon_Sets = {
 			},
 		},
 		["guild"] = {
+			["y"] = 83.2104644775391,
 			["rules"] = {
 				"all", -- [1]
 				"all/all", -- [2]
@@ -115,11 +125,16 @@ Bagnon_Sets = {
 				"trade/recipe", -- [20]
 				"quest", -- [21]
 				"misc", -- [22]
+				"quest/all", -- [23]
+				"contain/all", -- [24]
+				"misc/all", -- [25]
 			},
+			["point"] = "BOTTOMLEFT",
 			["borderColor"] = {
 			},
 			["color"] = {
 			},
+			["x"] = 613.111328125,
 			["hiddenRules"] = {
 			},
 			["hiddenBags"] = {
@@ -159,19 +174,11 @@ Bagnon_Sets = {
 			},
 			["color"] = {
 			},
-			["borderColor"] = {
-			},
+			["x"] = 95,
 			["hiddenRules"] = {
 			},
-			["x"] = 95,
+			["borderColor"] = {
+			},
 		},
-	},
-	["normalColor"] = {
-	},
-	["herbColor"] = {
-	},
-	["tackleColor"] = {
-	},
-	["leatherColor"] = {
 	},
 }

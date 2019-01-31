@@ -1,9 +1,21 @@
 
 MasterPlanAG = {
 	["末日行者"] = {
+		["Andydufresn"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Alliance",
+		},
+		["秀逗魔导士丶"] = {
+			["faction"] = "Alliance",
+			["class"] = "MAGE",
+		},
 		["Kungenë"] = {
 			["class"] = "WARRIOR",
 			["faction"] = "Alliance",
+		},
+		["陈粒"] = {
+			["faction"] = "Alliance",
+			["class"] = "MONK",
 		},
 	},
 }
